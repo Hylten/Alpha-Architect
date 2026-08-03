@@ -121,8 +121,9 @@ document.querySelectorAll('[data-toggle-inquiry]').forEach(el => {
 
 document.querySelectorAll('[data-hover-color]').forEach(el => {
   const targetColor = el.dataset.hoverColor;
-  const original = getComputedStyle(el).color;
+  const originalColor = el.style.color;
   el.addEventListener('mouseover', () => { el.style.color = targetColor; });
+  el.addEventListener('mouseout', () => { el.style.color = originalColor; });
 });
 
 document.querySelectorAll('.footer-action-link').forEach(el => {
