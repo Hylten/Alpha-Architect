@@ -1,8 +1,16 @@
 ---
 title: "Deal Sourcing Infrastructure: The Systems Architecture for Off-Market Acquisitions"
-date: "2026-01-31"
-author: "Alpha Architect"
+slug: "2026-01-31-deal-sourcing-infrastructure"
 description: "How infrastructure systems transform deal sourcing from relationship-dependent to architecture-driven operation."
+date: "2026-01-31"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-31-deal-sourcing-infrastructure/"
+meta_title: "Deal Sourcing Infrastructure: The Systems Architecture for Off-Market Acquisitions"
+meta_description: "How infrastructure systems transform deal sourcing from relationship-dependent to architecture-driven operation."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Relationship Dependency Problem

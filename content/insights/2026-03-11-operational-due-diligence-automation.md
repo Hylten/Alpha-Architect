@@ -1,8 +1,16 @@
 ---
 title: "Operational Due Diligence: The Automation Framework for Deal Teams"
-date: "2026-03-11"
-author: "Alpha Architect"
+slug: "2026-03-11-operational-due-diligence-automation"
 description: "How autonomous systems transform operational due diligence from manual bottleneck to scalable pipeline operation."
+date: "2026-03-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-11-operational-due-diligence-automation/"
+meta_title: "Operational Due Diligence: The Automation Framework for Deal Teams"
+meta_description: "How autonomous systems transform operational due diligence from manual bottleneck to scalable pipeline operation."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Due Diligence Throughput Problem

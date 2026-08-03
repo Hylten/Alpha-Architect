@@ -1,8 +1,16 @@
 ---
 title: "Terminal Sourcing: Command-Line Deal Generation"
+slug: "2026-03-25-terminal-sourcing-command-line-deal-generation"
+description: "Terminal-based sourcing systems bring automation and efficiency to deal generation workflows. This intelligence briefing examines how command-line tools and programmatic interfaces transform deal sourcing from manual…"
 date: "2026-03-25"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-25-terminal-sourcing-command-line-deal-generation/"
+meta_title: "Terminal Sourcing: Command-Line Deal Generation"
+meta_description: "Terminal-based sourcing systems bring automation and efficiency to deal generation workflows. This intelligence briefing examines how command-line tools and programmatic interfaces transform deal sourcing from manual…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Terminal-based sourcing systems bring automation and efficiency to deal generation workflows. This intelligence briefing examines how command-line tools and programmatic interfaces transform deal sourcing from manual process to systematic execution."
 ---
 
 ## The Terminal Philosophy

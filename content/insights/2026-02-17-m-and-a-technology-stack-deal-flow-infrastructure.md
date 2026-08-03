@@ -1,8 +1,16 @@
 ---
 title: "The M&A Technology Stack: Building Infrastructure for Deal Flow Excellence"
-date: "2026-02-17"
-author: "Alpha Architect"
+slug: "2026-02-17-m-and-a-technology-stack-deal-flow-infrastructure"
 description: "Modern dealmakers require a sophisticated technology infrastructure. This intelligence briefing examines the critical components of M&A technology stacks and how they enable superior deal flow management."
+date: "2026-02-17"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-17-m-and-a-technology-stack-deal-flow-infrastructure/"
+meta_title: "The M&A Technology Stack: Building Infrastructure for Deal Flow Excellence"
+meta_description: "Modern dealmakers require a sophisticated technology infrastructure. This intelligence briefing examines the critical components of M&A technology stacks and how they enable superior deal flow management."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Architecture of Deal Flow Technology

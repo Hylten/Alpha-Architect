@@ -1,8 +1,16 @@
 ---
 title: "Terminal-Based Deal Flow: The Command Architecture for Acquisition Teams"
-date: "2026-03-23"
-author: "Alpha Architect"
+slug: "2026-03-23-terminal-based-deal-flow"
 description: "How terminal interfaces transform deal flow operations from browser-based workflows to efficient command execution."
+date: "2026-03-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-23-terminal-based-deal-flow/"
+meta_title: "Terminal-Based Deal Flow: The Command Architecture for Acquisition Teams"
+meta_description: "How terminal interfaces transform deal flow operations from browser-based workflows to efficient command execution."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Browser Dependency Problem

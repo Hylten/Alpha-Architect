@@ -1,8 +1,16 @@
 ---
 title: "M&A Infrastructure: Building the Deal Flow Engine"
+slug: "2026-02-09-m-and-a-infrastructure-deal-flow-engine"
+description: "M&A infrastructure determines deal flow capability and acquisition program effectiveness. This intelligence briefing examines the components, integration patterns, and development approaches that build sustainable dea…"
 date: "2026-02-09"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-09-m-and-a-infrastructure-deal-flow-engine/"
+meta_title: "M&A Infrastructure: Building the Deal Flow Engine"
+meta_description: "M&A infrastructure determines deal flow capability and acquisition program effectiveness. This intelligence briefing examines the components, integration patterns, and development approaches that build sustainable dea…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "M&A infrastructure determines deal flow capability and acquisition program effectiveness. This intelligence briefing examines the components, integration patterns, and development approaches that build sustainable deal flow infrastructure."
 ---
 
 ## Infrastructure as Competitive Foundation

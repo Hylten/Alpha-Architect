@@ -1,8 +1,16 @@
 ---
 title: "Off-Market Sourcing: The Terminal-Based Deal Pipeline Architecture"
-date: "2026-03-10"
-author: "Alpha Architect"
+slug: "2026-03-10-off-market-sourcing-terminal"
 description: "How command-line infrastructure transforms deal sourcing from outreach campaign to autonomous pipeline operation."
+date: "2026-03-10"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-10-off-market-sourcing-terminal/"
+meta_title: "Off-Market Sourcing: The Terminal-Based Deal Pipeline Architecture"
+meta_description: "How command-line infrastructure transforms deal sourcing from outreach campaign to autonomous pipeline operation."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Off-Market Sourcing Problem

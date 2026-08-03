@@ -1,8 +1,16 @@
 ---
 title: "M&A Deal Flow Technology: The Infrastructure Stack for Acquisition Excellence"
-date: "2026-02-22"
-author: "Alpha Architect"
+slug: "2026-02-22-ma-deal-flow-technology"
 description: "How M&A deal flow technology stacks enable acquisition excellence at scale."
+date: "2026-02-22"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-22-ma-deal-flow-technology/"
+meta_title: "M&A Deal Flow Technology: The Infrastructure Stack for Acquisition Excellence"
+meta_description: "How M&A deal flow technology stacks enable acquisition excellence at scale."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Technology Imperative

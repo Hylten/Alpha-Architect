@@ -1,8 +1,16 @@
 ---
 title: "Buyer-Led M&A Process: The Systematic Approach Transforming Acquisitions"
-date: "2025-12-21"
-author: "Alpha Architect"
+slug: "2025-12-21-buyer-led-ma-process"
 description: "How buyer-led M&A processes transform acquisition from seller-driven to proactive opportunity development."
+date: "2025-12-21"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-21-buyer-led-ma-process/"
+meta_title: "Buyer-Led M&A Process: The Systematic Approach Transforming Acquisitions"
+meta_description: "How buyer-led M&A processes transform acquisition from seller-driven to proactive opportunity development."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Seller-Driven Paradigm Shift

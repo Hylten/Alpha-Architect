@@ -1,8 +1,16 @@
 ---
 title: "M&A Technology Selection: The Framework Choosing Modern Tools"
-date: "2026-03-02"
-author: "Alpha Architect"
+slug: "2026-03-02-ma-technology-selection"
 description: "How M&A technology selection framework identifies tools that enable acquisition excellence."
+date: "2026-03-02"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-02-ma-technology-selection/"
+meta_title: "M&A Technology Selection: The Framework Choosing Modern Tools"
+meta_description: "How M&A technology selection framework identifies tools that enable acquisition excellence."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Selection Challenge

@@ -1,8 +1,16 @@
 ---
 title: "M&A Software Landscape: A Comprehensive Vendor Review"
+slug: "2026-02-14-m-and-a-software-landscape-vendor-review"
+description: "The M&A software landscape spans categories from CRM to due diligence to integration. This intelligence briefing examines vendor categories, capability differentiation, and selection frameworks that guide effective te…"
 date: "2026-02-14"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-14-m-and-a-software-landscape-vendor-review/"
+meta_title: "M&A Software Landscape: A Comprehensive Vendor Review"
+meta_description: "The M&A software landscape spans categories from CRM to due diligence to integration. This intelligence briefing examines vendor categories, capability differentiation, and selection frameworks that guide effective te…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "The M&A software landscape spans categories from CRM to due diligence to integration. This intelligence briefing examines vendor categories, capability differentiation, and selection frameworks that guide effective technology investment."
 ---
 
 ## The Software Landscape Overview

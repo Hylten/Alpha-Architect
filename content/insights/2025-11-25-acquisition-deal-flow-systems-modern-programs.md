@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Deal Flow Systems: Building Modern Programs"
-date: "2025-11-25"
-author: "Alpha Architect"
+slug: "2025-11-25-acquisition-deal-flow-systems-modern-programs"
 description: "Acquisition deal flow systems enable systematic pipeline building. This intelligence briefing examines strategic frameworks, operational practices, and technology systems that build effective acquisition programs."
+date: "2025-11-25"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-11-25-acquisition-deal-flow-systems-modern-programs/"
+meta_title: "Acquisition Deal Flow Systems: Building Modern Programs"
+meta_description: "Acquisition deal flow systems enable systematic pipeline building. This intelligence briefing examines strategic frameworks, operational practices, and technology systems that build effective acquisition programs."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The System Foundation

@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Automation: The Technology Scaling Acquisition Operations"
-date: "2025-12-26"
-author: "Alpha Architect"
+slug: "2025-12-26-deal-flow-automation"
 description: "How deal flow automation scales acquisition operations beyond human bandwidth limitations."
+date: "2025-12-26"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-26-deal-flow-automation/"
+meta_title: "Deal Flow Automation: The Technology Scaling Acquisition Operations"
+meta_description: "How deal flow automation scales acquisition operations beyond human bandwidth limitations."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Bandwidth Constraint

@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Technology: The Modern Infrastructure Transforming Acquisitions"
-date: "2026-01-08"
-author: "Alpha Architect"
+slug: "2026-01-08-deal-flow-technology"
 description: "How modern deal flow technology transforms acquisition programs from manual to automated."
+date: "2026-01-08"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-08-deal-flow-technology/"
+meta_title: "Deal Flow Technology: The Modern Infrastructure Transforming Acquisitions"
+meta_description: "How modern deal flow technology transforms acquisition programs from manual to automated."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Technology Transformation

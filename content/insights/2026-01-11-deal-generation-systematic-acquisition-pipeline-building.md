@@ -1,8 +1,16 @@
 ---
 title: "Deal Generation: Systematic Approaches to Acquisition Pipeline Building"
+slug: "2026-01-11-deal-generation-systematic-acquisition-pipeline-building"
+description: "Deal generation establishes the foundation for acquisition success. This intelligence briefing examines systematic approaches to pipeline building, the infrastructure requirements, and the operational practices that g…"
 date: "2026-01-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-11-deal-generation-systematic-acquisition-pipeline-building/"
+meta_title: "Deal Generation: Systematic Approaches to Acquisition Pipeline Building"
+meta_description: "Deal generation establishes the foundation for acquisition success. This intelligence briefing examines systematic approaches to pipeline building, the infrastructure requirements, and the operational practices that g…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Deal generation establishes the foundation for acquisition success. This intelligence briefing examines systematic approaches to pipeline building, the infrastructure requirements, and the operational practices that generate consistent acquisition opportunities."
 ---
 
 ## The Generation Imperative

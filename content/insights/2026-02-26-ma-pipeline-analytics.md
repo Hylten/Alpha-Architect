@@ -1,8 +1,16 @@
 ---
 title: "M&A Pipeline Analytics: The Intelligence Enabling Data-Driven Decisions"
-date: "2026-02-26"
-author: "Alpha Architect"
+slug: "2026-02-26-ma-pipeline-analytics"
 description: "How M&A pipeline analytics transform deal decisions from intuition to evidence."
+date: "2026-02-26"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-26-ma-pipeline-analytics/"
+meta_title: "M&A Pipeline Analytics: The Intelligence Enabling Data-Driven Decisions"
+meta_description: "How M&A pipeline analytics transform deal decisions from intuition to evidence."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Evidence Revolution

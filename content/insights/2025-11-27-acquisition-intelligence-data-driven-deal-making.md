@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Intelligence: Data-Driven Deal Making"
+slug: "2025-11-27-acquisition-intelligence-data-driven-deal-making"
+description: "Acquisition intelligence transforms deal making from intuition to data-driven process. This intelligence briefing examines intelligence infrastructure, analytical frameworks, and operational practices that enable supe…"
 date: "2025-11-27"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-11-27-acquisition-intelligence-data-driven-deal-making/"
+meta_title: "Acquisition Intelligence: Data-Driven Deal Making"
+meta_description: "Acquisition intelligence transforms deal making from intuition to data-driven process. This intelligence briefing examines intelligence infrastructure, analytical frameworks, and operational practices that enable supe…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Acquisition intelligence transforms deal making from intuition to data-driven process. This intelligence briefing examines intelligence infrastructure, analytical frameworks, and operational practices that enable superior decision-making."
 ---
 
 ## The Intelligence Transformation

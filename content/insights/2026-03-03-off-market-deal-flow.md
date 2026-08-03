@@ -1,8 +1,16 @@
 ---
 title: "Off-Market Deal Flow: The Proprietary Systems Creating Competitive Advantages"
-date: "2026-03-03"
-author: "Alpha Architect"
+slug: "2026-03-03-off-market-deal-flow"
 description: "How off-market deal flow systems create competitive advantages that broker networks cannot overcome."
+date: "2026-03-03"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-03-off-market-deal-flow/"
+meta_title: "Off-Market Deal Flow: The Proprietary Systems Creating Competitive Advantages"
+meta_description: "How off-market deal flow systems create competitive advantages that broker networks cannot overcome."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Proprietary Advantage

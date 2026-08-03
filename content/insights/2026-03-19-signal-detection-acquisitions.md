@@ -1,8 +1,16 @@
 ---
 title: "Signal Detection for Acquisitions: The Intelligence Systems Finding Deal Opportunities"
-date: "2026-03-19"
-author: "Alpha Architect"
+slug: "2026-03-19-signal-detection-acquisitions"
 description: "How signal detection systems transform acquisition from reactive pursuit to proactive opportunity identification."
+date: "2026-03-19"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-19-signal-detection-acquisitions/"
+meta_title: "Signal Detection for Acquisitions: The Intelligence Systems Finding Deal Opportunities"
+meta_description: "How signal detection systems transform acquisition from reactive pursuit to proactive opportunity identification."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Reactive Pursuit Problem

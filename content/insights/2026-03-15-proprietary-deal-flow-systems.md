@@ -1,8 +1,16 @@
 ---
 title: "Proprietary Deal Flow Systems: The Infrastructure for Competitive Moats"
-date: "2026-03-15"
-author: "Alpha Architect"
+slug: "2026-03-15-proprietary-deal-flow-systems"
 description: "How proprietary deal flow systems create sustainable competitive advantages that broker-dependent approaches cannot overcome."
+date: "2026-03-15"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-15-proprietary-deal-flow-systems/"
+meta_title: "Proprietary Deal Flow Systems: The Infrastructure for Competitive Moats"
+meta_description: "How proprietary deal flow systems create sustainable competitive advantages that broker-dependent approaches cannot overcome."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Broker Dependency Problem

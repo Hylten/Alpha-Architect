@@ -1,8 +1,16 @@
 ---
 title: "Pipeline Analytics: Measuring Deal Flow Performance"
+slug: "2026-03-13-pipeline-analytics-deal-flow-performance"
+description: "Effective deal flow management requires systematic measurement of pipeline performance. This intelligence briefing examines analytics frameworks for deal flow optimization and the metrics that drive superior acquisiti…"
 date: "2026-03-13"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-13-pipeline-analytics-deal-flow-performance/"
+meta_title: "Pipeline Analytics: Measuring Deal Flow Performance"
+meta_description: "Effective deal flow management requires systematic measurement of pipeline performance. This intelligence briefing examines analytics frameworks for deal flow optimization and the metrics that drive superior acquisiti…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Effective deal flow management requires systematic measurement of pipeline performance. This intelligence briefing examines analytics frameworks for deal flow optimization and the metrics that drive superior acquisition outcomes."
 ---
 
 ## The Measurement Imperative

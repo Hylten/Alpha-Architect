@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' data: https://api.qrserver.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self'; base-uri 'self'; form-action 'self'; object-src 'none'" />
     <title>Off-Market Alpha Architect | Sovereignty in Mid-Market Origination</title>
     <meta name="description" content="Proprietary deal flow architecture and OPS-Alpha for mid-market private equity principals. Institutional-grade origination and execution infrastructure.">
     <!-- Google Fonts: Playfair Display (Serif) & Inter (Sans) & JetBrains Mono -->
@@ -828,18 +829,10 @@
         <div class="preloader-sub">Off-Market Alpha</div>
     </div>
 
-    <script>
-        window.addEventListener('load', function() {
-            setTimeout(function() {
-                document.getElementById('preloader').classList.add('hidden');
-            }, 2000);
-        });
-    </script>
-
     <!-- TOP ACTIONS -->
     <div class="top-actions">
         <button id="shareBtn" class="btn btn-top">Share Profile</button>
-        <a href="./intelligence/" class="btn btn-top" style="padding: 4px 0; font-size: 10px; color: rgba(255, 255, 255, 0.4); border: none; background: transparent; transition: var(--transition); width: fit-content; cursor: pointer; text-transform: uppercase; letter-spacing: 2px; text-decoration: none;" onmouseover="this.style.color='var(--text-main)';" onmouseout="this.style.color='rgba(255, 255, 255, 0.4)';">Intelligence</a>
+        <a href="./intelligence/" class="btn btn-top" style="padding: 4px 0; font-size: 10px; color: rgba(255, 255, 255, 0.4); border: none; background: transparent; transition: var(--transition); width: fit-content; cursor: pointer; text-transform: uppercase; letter-spacing: 2px; text-decoration: none;" data-hover-color="var(--text-main)">Intelligence</a>
         <button id="qrBtn" class="btn btn-top">QR Code</button>
     </div>
 
@@ -959,7 +952,7 @@
                                 <div class="comp-status">[03]</div>
                                 <h4>Institutional Stewardship</h4>
                             </a>
-                            <div class="comp-item strategic-origination-box" onclick="toggleInquiry(this)" style="cursor: pointer; text-decoration: none;">
+                            <div class="comp-item strategic-origination-box" data-toggle-inquiry style="cursor: pointer; text-decoration: none;">
                                 <div class="comp-status">[04]</div>
                                 <h4 class="origination-title">Strategic Origination</h4>
                                 <a href="https://wa.me/46701619978?text=Inquiry%20regarding%20Alpha%20Architect%20Mandate" 
@@ -982,11 +975,11 @@
             <p style="font-size: 10px; text-transform: uppercase; letter-spacing: 5px; color: var(--text-muted); margin-bottom: 40px; opacity: 0.6; font-weight: 600;">Capped at 3 mandates annually</p>
             
             <div style="margin-bottom: 80px;">
-                <a href="https://wa.me/46701619978?text=Inquiry%20regarding%20Alpha%20Architect%20Mandate" target="_blank" style="font-size: 10px; text-transform: uppercase; letter-spacing: 5px; color: var(--text-muted); opacity: 0.6; font-weight: 600; text-decoration: none; transition: var(--transition);" onmouseover="this.style.color='var(--accent)'; this.style.opacity='1';" onmouseout="this.style.color='var(--text-muted)'; this.style.opacity='0.6';">Inquire</a>
+                <a href="https://wa.me/46701619978?text=Inquiry%20regarding%20Alpha%20Architect%20Mandate" target="_blank" class="footer-action-link" data-hover-target="wa" style="font-size: 10px; text-transform: uppercase; letter-spacing: 5px; color: var(--text-muted); opacity: 0.6; font-weight: 600; text-decoration: none; transition: var(--transition);">Inquire</a>
                 <span style="color: var(--text-muted); opacity: 0.3; margin: 0 16px;">|</span>
-                <a href="https://hylten.github.io/Alpha/" target="_blank" style="font-size: 10px; text-transform: uppercase; letter-spacing: 5px; color: var(--text-muted); opacity: 0.6; font-weight: 600; text-decoration: none; transition: var(--transition);" onmouseover="this.style.color='var(--accent)'; this.style.opacity='1';" onmouseout="this.style.color='var(--text-muted)'; this.style.opacity='0.6';">Roials Alpha</a>
+                <a href="https://hylten.github.io/Alpha/" target="_blank" class="footer-action-link" data-hover-target="alpha" style="font-size: 10px; text-transform: uppercase; letter-spacing: 5px; color: var(--text-muted); opacity: 0.6; font-weight: 600; text-decoration: none; transition: var(--transition);">Roials Alpha</a>
                 <span style="color: var(--text-muted); opacity: 0.3; margin: 0 16px;">|</span>
-                <a href="./intelligence/" style="font-size: 10px; text-transform: uppercase; letter-spacing: 5px; color: var(--text-muted); opacity: 0.6; font-weight: 600; text-decoration: none; transition: var(--transition);" onmouseover="this.style.color='var(--accent)'; this.style.opacity='1';" onmouseout="this.style.color='var(--text-muted)'; this.style.opacity='0.6';">Intelligence</a>
+                <a href="./intelligence/" class="footer-action-link" data-hover-target="intel" style="font-size: 10px; text-transform: uppercase; letter-spacing: 5px; color: var(--text-muted); opacity: 0.6; font-weight: 600; text-decoration: none; transition: var(--transition);">Intelligence</a>
             </div>
 
             <div class="regulatory-footer">
@@ -1047,125 +1040,6 @@
     </div>
 
     <!-- Scripts -->
-    <script>
-        // Web Share API
-        document.getElementById('shareBtn').addEventListener('click', async () => {
-            const shareData = {
-                title: 'Jonas Hyltén | Fractional GP',
-                text: 'Institutional Origination & Sovereign Alpha Architecture',
-                url: window.location.href
-            };
-            if (navigator.share) {
-                try {
-                    await navigator.share(shareData);
-                } catch (err) {
-                    console.log('Share canceled', err);
-                }
-            } else {
-                navigator.clipboard.writeText(window.location.href);
-                const btn = document.getElementById('shareBtn');
-                const originalText = btn.innerText;
-                btn.innerText = 'Link Copied!';
-                setTimeout(() => btn.innerText = originalText, 2000);
-            }
-        });
-
-        // QR Modal Logic
-        const qrModal = document.getElementById('qrModal');
-        const qrBtn = document.getElementById('qrBtn');
-        const closeQr = document.getElementById('closeQr');
-
-        qrBtn.addEventListener('click', () => {
-            qrModal.classList.add('active');
-        });
-
-        closeQr.addEventListener('click', () => {
-            qrModal.classList.remove('active');
-        });
-
-        qrModal.addEventListener('click', (e) => {
-            if (e.target === qrModal) {
-                qrModal.classList.remove('active');
-            }
-        });
-
-        // Legal Modal Logic
-        const legalModal = document.getElementById('legalModal');
-        const legalBtn = document.getElementById('legalBtn');
-        const closeLegal = document.getElementById('closeLegal');
-
-        if(legalBtn) {
-            legalBtn.addEventListener('click', () => {
-                legalModal.classList.add('active');
-            });
-        }
-
-        if(closeLegal) {
-            closeLegal.addEventListener('click', () => {
-                legalModal.classList.remove('active');
-            });
-        }
-
-        legalModal.addEventListener('click', (e) => {
-            if (e.target === legalModal) {
-                legalModal.classList.remove('active');
-            }
-        });
-
-        // Legacy Accordion Logic (Capabilities)
-        const capabilitiesToggle = document.getElementById('capabilitiesToggle');
-        const capabilitiesContent = document.getElementById('capabilitiesContent');
-        const capabilitiesIcon = document.getElementById('capabilitiesIcon');
-
-        if(capabilitiesToggle) {
-            capabilitiesToggle.addEventListener('click', () => {
-                capabilitiesContent.classList.toggle('open');
-                capabilitiesIcon.innerText = capabilitiesContent.classList.contains('open') ? '-' : '+';
-            });
-        }
-
-        // Legacy Accordion Logic (Mandates)
-        const mandateToggle = document.getElementById('mandateToggle');
-        const mandateContent = document.getElementById('mandateContent');
-        const mandateIcon = document.getElementById('mandateIcon');
-
-        if(mandateToggle) {
-            mandateToggle.addEventListener('click', () => {
-                mandateContent.classList.toggle('open');
-                mandateIcon.innerText = mandateContent.classList.contains('open') ? '-' : '+';
-            });
-        }
-
-        // Legacy Accordion Logic (Operations)
-        const legacyToggle = document.getElementById('legacyToggle');
-        const legacyContent = document.getElementById('legacyContent');
-        const legacyIcon = document.getElementById('legacyIcon');
-
-            if(legacyToggle) {
-            legacyToggle.addEventListener('click', () => {
-                legacyContent.classList.toggle('open');
-                legacyIcon.innerText = legacyContent.classList.contains('open') ? '-' : '+';
-            });
-        }
-
-        // Toggle Inquiry
-        function toggleInquiry(el) {
-            el.classList.toggle('active');
-        }
-
-        // LinkedIn transition animation
-        function handleLinkedInClick(element, delay) {
-            const url = element.href;
-            const overlay = document.getElementById('linkOverlay');
-            overlay.classList.add('active');
-            
-            setTimeout(() => {
-                overlay.classList.remove('active');
-                window.open(url, '_blank');
-            }, delay);
-            
-            return false;
-        }
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>

@@ -1,8 +1,16 @@
 ---
 title: "Deal Sourcing Analytics: The Intelligence Driving Systematic Acquisition"
-date: "2026-01-30"
-author: "Alpha Architect"
+slug: "2026-01-30-deal-sourcing-analytics"
 description: "How deal sourcing analytics drive systematic acquisition that random approaches cannot achieve."
+date: "2026-01-30"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-30-deal-sourcing-analytics/"
+meta_title: "Deal Sourcing Analytics: The Intelligence Driving Systematic Acquisition"
+meta_description: "How deal sourcing analytics drive systematic acquisition that random approaches cannot achieve."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Systematic Imperative

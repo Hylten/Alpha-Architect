@@ -1,8 +1,16 @@
 ---
 title: "Buyer-Led Acquisition Framework: The Systematic Approach to Deal Flow"
-date: "2025-12-17"
-author: "Alpha Architect"
+slug: "2025-12-17-buyer-led-acquisition-framework"
 description: "How buyer-led acquisition frameworks transform M&A from reactive pursuit to proactive development."
+date: "2025-12-17"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-17-buyer-led-acquisition-framework/"
+meta_title: "Buyer-Led Acquisition Framework: The Systematic Approach to Deal Flow"
+meta_description: "How buyer-led acquisition frameworks transform M&A from reactive pursuit to proactive development."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Framework Foundation

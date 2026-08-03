@@ -1,8 +1,16 @@
 ---
 title: "Outbound Sourcing Failure: The Five Systemic Breakdowns"
-date: "2026-03-12"
-author: "Jonas Hyltén"
+slug: "2026-03-12-outbound-sourcing-failure"
 description: "Internal analysis of why outbound deal sourcing fails and the infrastructure fixes that separate successful programs from expensive disappointments."
+date: "2026-03-12"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-12-outbound-sourcing-failure/"
+meta_title: "Outbound Sourcing Failure: The Five Systemic Breakdowns"
+meta_description: "Internal analysis of why outbound deal sourcing fails and the infrastructure fixes that separate successful programs from expensive disappointments."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 Most private equity firms and M&A advisors execute outbound deal sourcing campaigns that fail within the first quarter. The failure rate exceeds 80% according to industry benchmarks. The firms that abandon outbound after these failures conclude the channel does not work. The conclusion is wrong. The failure mode is not the channel. The failure mode is the infrastructure. This analysis identifies the five systemic breakdowns that destroy outbound programs and the architectural fixes that separate successful programs from expensive disappointments.

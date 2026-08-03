@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Intelligence Systems: Data-Driven Deal Management"
+slug: "2025-11-30-acquisition-intelligence-systems-data-driven-deal-management"
+description: "Acquisition intelligence systems enable data-driven deal management. This intelligence briefing examines infrastructure development, analytical frameworks, and operational practices that build superior analytical capa…"
 date: "2025-11-30"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-11-30-acquisition-intelligence-systems-data-driven-deal-management/"
+meta_title: "Acquisition Intelligence Systems: Data-Driven Deal Management"
+meta_description: "Acquisition intelligence systems enable data-driven deal management. This intelligence briefing examines infrastructure development, analytical frameworks, and operational practices that build superior analytical capa…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Acquisition intelligence systems enable data-driven deal management. This intelligence briefing examines infrastructure development, analytical frameworks, and operational practices that build superior analytical capability."
 ---
 
 ## The Intelligence Imperative

@@ -1,8 +1,16 @@
 ---
 title: "Deal Origination: Building Systematic Acquisition Pipelines"
+slug: "2026-01-23-deal-origination-systematic-acquisition-pipelines"
+description: "Deal origination determines acquisition outcomes before transactions begin. This intelligence briefing examines systematic approaches to building acquisition pipelines, the infrastructure required, and the operational…"
 date: "2026-01-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-23-deal-origination-systematic-acquisition-pipelines/"
+meta_title: "Deal Origination: Building Systematic Acquisition Pipelines"
+meta_description: "Deal origination determines acquisition outcomes before transactions begin. This intelligence briefing examines systematic approaches to building acquisition pipelines, the infrastructure required, and the operational…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Deal origination determines acquisition outcomes before transactions begin. This intelligence briefing examines systematic approaches to building acquisition pipelines, the infrastructure required, and the operational practices that generate consistent deal flow."
 ---
 
 ## The Origination Foundation

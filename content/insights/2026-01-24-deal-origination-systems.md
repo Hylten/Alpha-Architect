@@ -1,8 +1,16 @@
 ---
 title: "Deal Origination Systems: The Technology Scaling Acquisition Programs"
-date: "2026-01-24"
-author: "Alpha Architect"
+slug: "2026-01-24-deal-origination-systems"
 description: "How deal origination systems scale acquisition programs beyond traditional limitations."
+date: "2026-01-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-24-deal-origination-systems/"
+meta_title: "Deal Origination Systems: The Technology Scaling Acquisition Programs"
+meta_description: "How deal origination systems scale acquisition programs beyond traditional limitations."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Scaling Challenge

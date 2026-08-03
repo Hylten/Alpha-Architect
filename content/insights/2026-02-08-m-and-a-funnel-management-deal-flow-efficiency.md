@@ -1,8 +1,16 @@
 ---
 title: "M&A Funnel Management: Optimizing Deal Flow Efficiency"
+slug: "2026-02-08-m-and-a-funnel-management-deal-flow-efficiency"
+description: "M&A funnel management transforms deal flow from chaotic process to systematic pipeline. This intelligence briefing examines funnel architecture, conversion optimization, and performance management approaches that maxi…"
 date: "2026-02-08"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-08-m-and-a-funnel-management-deal-flow-efficiency/"
+meta_title: "M&A Funnel Management: Optimizing Deal Flow Efficiency"
+meta_description: "M&A funnel management transforms deal flow from chaotic process to systematic pipeline. This intelligence briefing examines funnel architecture, conversion optimization, and performance management approaches that maxi…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "M&A funnel management transforms deal flow from chaotic process to systematic pipeline. This intelligence briefing examines funnel architecture, conversion optimization, and performance management approaches that maximize acquisition program effectiveness."
 ---
 
 ## The Funnel Perspective

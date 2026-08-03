@@ -1,8 +1,16 @@
 ---
 title: "Signal Detection: Mining Market Data for Deal Opportunities"
+slug: "2026-03-20-signal-detection-market-data-deal-opportunities"
+description: "Market signals reveal acquisition opportunities before competitors detect them. This intelligence briefing examines systematic approaches to signal detection, the data infrastructure required, and the analytical frame…"
 date: "2026-03-20"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-20-signal-detection-market-data-deal-opportunities/"
+meta_title: "Signal Detection: Mining Market Data for Deal Opportunities"
+meta_description: "Market signals reveal acquisition opportunities before competitors detect them. This intelligence briefing examines systematic approaches to signal detection, the data infrastructure required, and the analytical frame…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Market signals reveal acquisition opportunities before competitors detect them. This intelligence briefing examines systematic approaches to signal detection, the data infrastructure required, and the analytical frameworks that convert noise into actionable intelligence."
 ---
 
 ## The Signal Advantage

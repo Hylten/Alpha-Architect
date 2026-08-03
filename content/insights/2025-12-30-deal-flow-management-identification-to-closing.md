@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Management: From Identification to Closing"
-date: "2025-12-30"
-author: "Alpha Architect"
+slug: "2025-12-30-deal-flow-management-identification-to-closing"
 description: "Deal flow management converts identification to closing systematically. This intelligence briefing examines pipeline architecture, stage management, and optimization practices that maximize close rates."
+date: "2025-12-30"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-30-deal-flow-management-identification-to-closing/"
+meta_title: "Deal Flow Management: From Identification to Closing"
+meta_description: "Deal flow management converts identification to closing systematically. This intelligence briefing examines pipeline architecture, stage management, and optimization practices that maximize close rates."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Management Imperative

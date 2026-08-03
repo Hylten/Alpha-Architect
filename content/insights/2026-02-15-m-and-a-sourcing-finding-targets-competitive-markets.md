@@ -1,8 +1,16 @@
 ---
 title: "M&A Sourcing: Finding Targets in Competitive Markets"
+slug: "2026-02-15-m-and-a-sourcing-finding-targets-competitive-markets"
+description: "M&A sourcing faces increasing competitive pressure. This intelligence briefing examines approaches to target identification, relationship development, and competitive positioning that enable deal flow in contested mar…"
 date: "2026-02-15"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-15-m-and-a-sourcing-finding-targets-competitive-markets/"
+meta_title: "M&A Sourcing: Finding Targets in Competitive Markets"
+meta_description: "M&A sourcing faces increasing competitive pressure. This intelligence briefing examines approaches to target identification, relationship development, and competitive positioning that enable deal flow in contested mar…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "M&A sourcing faces increasing competitive pressure. This intelligence briefing examines approaches to target identification, relationship development, and competitive positioning that enable deal flow in contested markets."
 ---
 
 ## The Competitive Reality

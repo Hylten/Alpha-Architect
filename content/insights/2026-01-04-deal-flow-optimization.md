@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Optimization: The Analytics Maximizing Acquisition Efficiency"
-date: "2026-01-04"
-author: "Alpha Architect"
+slug: "2026-01-04-deal-flow-optimization"
 description: "How deal flow optimization analytics maximize acquisition efficiency."
+date: "2026-01-04"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-04-deal-flow-optimization/"
+meta_title: "Deal Flow Optimization: The Analytics Maximizing Acquisition Efficiency"
+meta_description: "How deal flow optimization analytics maximize acquisition efficiency."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Efficiency Imperative

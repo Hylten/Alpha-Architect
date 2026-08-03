@@ -1,8 +1,16 @@
 ---
 title: "Autonomous Deal Sourcing: The Agent Systems Scaling Acquisition Programs"
-date: "2025-12-15"
-author: "Alpha Architect"
+slug: "2025-12-15-autonomous-deal-sourcing"
 description: "How autonomous agent systems transform deal sourcing from manual activity to continuous intelligence operation."
+date: "2025-12-15"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-15-autonomous-deal-sourcing/"
+meta_title: "Autonomous Deal Sourcing: The Agent Systems Scaling Acquisition Programs"
+meta_description: "How autonomous agent systems transform deal sourcing from manual activity to continuous intelligence operation."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Human Bandwidth Constraint

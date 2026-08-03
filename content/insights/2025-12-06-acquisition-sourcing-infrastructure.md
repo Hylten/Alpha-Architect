@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Sourcing Infrastructure: The Foundation for Modern Deal Flow"
-date: "2025-12-06"
-author: "Alpha Architect"
+slug: "2025-12-06-acquisition-sourcing-infrastructure"
 description: "How acquisition sourcing infrastructure creates foundation for modern deal flow."
+date: "2025-12-06"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-06-acquisition-sourcing-infrastructure/"
+meta_title: "Acquisition Sourcing Infrastructure: The Foundation for Modern Deal Flow"
+meta_description: "How acquisition sourcing infrastructure creates foundation for modern deal flow."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Foundation Imperative

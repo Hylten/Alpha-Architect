@@ -1,8 +1,16 @@
 ---
 title: "Deal Intelligence: Information Systems for M&A Success"
+slug: "2026-01-15-deal-intelligence-information-systems-m-and-a"
+description: "Deal intelligence systems aggregate, analyze, and distribute information that drives acquisition decisions. This intelligence briefing examines information architecture, analytical frameworks, and distribution systems…"
 date: "2026-01-15"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-15-deal-intelligence-information-systems-m-and-a/"
+meta_title: "Deal Intelligence: Information Systems for M&A Success"
+meta_description: "Deal intelligence systems aggregate, analyze, and distribute information that drives acquisition decisions. This intelligence briefing examines information architecture, analytical frameworks, and distribution systems…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Deal intelligence systems aggregate, analyze, and distribute information that drives acquisition decisions. This intelligence briefing examines information architecture, analytical frameworks, and distribution systems that convert data into competitive advantage."
 ---
 
 ## The Information Imperative

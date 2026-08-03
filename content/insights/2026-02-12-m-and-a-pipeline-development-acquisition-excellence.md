@@ -1,8 +1,16 @@
 ---
 title: "M&A Pipeline Development: Building Acquisition Excellence"
+slug: "2026-02-12-m-and-a-pipeline-development-acquisition-excellence"
+description: "M&A pipeline development builds acquisition excellence through systematic approaches. This intelligence briefing examines strategic frameworks, operational practices, and capability development that create lasting com…"
 date: "2026-02-12"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-12-m-and-a-pipeline-development-acquisition-excellence/"
+meta_title: "M&A Pipeline Development: Building Acquisition Excellence"
+meta_description: "M&A pipeline development builds acquisition excellence through systematic approaches. This intelligence briefing examines strategic frameworks, operational practices, and capability development that create lasting com…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "M&A pipeline development builds acquisition excellence through systematic approaches. This intelligence briefing examines strategic frameworks, operational practices, and capability development that create lasting competitive advantage."
 ---
 
 ## The Excellence Imperative

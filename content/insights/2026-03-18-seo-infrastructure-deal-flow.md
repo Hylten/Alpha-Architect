@@ -1,8 +1,16 @@
 ---
 title: "SEO Infrastructure for Off-Market Deal Flow: The Traffic-to-Transaction Pipeline"
-date: "2026-03-18"
-author: "Jonas Hyltén"
+slug: "2026-03-18-seo-infrastructure-deal-flow"
 description: "Internal analysis of how search infrastructure and content systems capture motivated sellers before broker engagement through autonomous traffic generation."
+date: "2026-03-18"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-18-seo-infrastructure-deal-flow/"
+meta_title: "SEO Infrastructure for Off-Market Deal Flow: The Traffic-to-Transaction Pipeline"
+meta_description: "Internal analysis of how search infrastructure and content systems capture motivated sellers before broker engagement through autonomous traffic generation."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 The M&A industry ignores one of the most powerful channels for proprietary deal flow: search behavior. Business owners facing succession decisions, partnership dissolutions, and operational challenges search for information before contacting advisors or investors. Most buyers wait for brokers to surface opportunities. The buyers who build search infrastructure capture motivated sellers during the research phase, before competitive processes begin. This analysis covers the architecture of search-driven deal sourcing, from content infrastructure through lead capture and conversion.

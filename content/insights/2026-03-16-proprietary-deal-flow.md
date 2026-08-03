@@ -1,8 +1,16 @@
 ---
 title: "Proprietary Deal Flow: The Information Architecture Behind Off-Market Acquisitions"
-date: "2026-03-16"
-author: "Alpha Architect"
+slug: "2026-03-16-proprietary-deal-flow"
 description: "How proprietary information systems create acquisition advantages that broker-dependent strategies cannot replicate."
+date: "2026-03-16"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-16-proprietary-deal-flow/"
+meta_title: "Proprietary Deal Flow: The Information Architecture Behind Off-Market Acquisitions"
+meta_description: "How proprietary information systems create acquisition advantages that broker-dependent strategies cannot replicate."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Information Asymmetry Imperative

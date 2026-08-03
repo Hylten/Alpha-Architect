@@ -1,8 +1,16 @@
 ---
 title: "Buyer-Side M&A: Building Acquisition Capability"
+slug: "2025-12-22-buyer-side-m-and-a-acquisition-capability"
+description: "Buyer-side M&A capability determines how effectively organizations execute acquisition strategies. This intelligence briefing examines the components of acquisition capability, development approaches, and operational…"
 date: "2025-12-22"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-22-buyer-side-m-and-a-acquisition-capability/"
+meta_title: "Buyer-Side M&A: Building Acquisition Capability"
+meta_description: "Buyer-side M&A capability determines how effectively organizations execute acquisition strategies. This intelligence briefing examines the components of acquisition capability, development approaches, and operational…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Buyer-side M&A capability determines how effectively organizations execute acquisition strategies. This intelligence briefing examines the components of acquisition capability, development approaches, and operational practices that build sustainable deal execution strength."
 ---
 
 ## The Capability Foundation

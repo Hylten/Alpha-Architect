@@ -1,8 +1,16 @@
 ---
 title: "Deal Intelligence Platforms: Technology for Modern Acquirers"
+slug: "2026-01-16-deal-intelligence-platforms-technology-modern-acquirers"
+description: "Deal intelligence platforms provide comprehensive capabilities for modern acquisition programs. This intelligence briefing examines platform categories, selection criteria, and implementation approaches that build eff…"
 date: "2026-01-16"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-16-deal-intelligence-platforms-technology-modern-acquirers/"
+meta_title: "Deal Intelligence Platforms: Technology for Modern Acquirers"
+meta_description: "Deal intelligence platforms provide comprehensive capabilities for modern acquisition programs. This intelligence briefing examines platform categories, selection criteria, and implementation approaches that build eff…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Deal intelligence platforms provide comprehensive capabilities for modern acquisition programs. This intelligence briefing examines platform categories, selection criteria, and implementation approaches that build effective deal intelligence infrastructure."
 ---
 
 ## The Platform Imperative

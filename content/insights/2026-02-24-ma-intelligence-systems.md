@@ -1,8 +1,16 @@
 ---
 title: "M&A Intelligence Systems: The Analytics Transforming Deal Decisions"
-date: "2026-02-24"
-author: "Alpha Architect"
+slug: "2026-02-24-ma-intelligence-systems"
 description: "How M&A intelligence systems transform deal decisions from intuition to evidence."
+date: "2026-02-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-24-ma-intelligence-systems/"
+meta_title: "M&A Intelligence Systems: The Analytics Transforming Deal Decisions"
+meta_description: "How M&A intelligence systems transform deal decisions from intuition to evidence."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Intuition Problem

@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Pipeline Intelligence: The Analytics Framework for Deal Flow"
-date: "2025-12-02"
-author: "Alpha Architect"
+slug: "2025-12-02-acquisition-pipeline-intelligence"
 description: "How analytics frameworks transform deal pipeline from intuitive tracking to systematic intelligence operation."
+date: "2025-12-02"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-02-acquisition-pipeline-intelligence/"
+meta_title: "Acquisition Pipeline Intelligence: The Analytics Framework for Deal Flow"
+meta_description: "How analytics frameworks transform deal pipeline from intuitive tracking to systematic intelligence operation."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Intuition Problem

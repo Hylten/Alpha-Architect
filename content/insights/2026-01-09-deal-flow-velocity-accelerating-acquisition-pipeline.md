@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Velocity: Accelerating the Acquisition Pipeline"
+slug: "2026-01-09-deal-flow-velocity-accelerating-acquisition-pipeline"
+description: "Deal flow velocity determines acquisition program competitiveness. This intelligence briefing examines systematic approaches to pipeline acceleration, the bottlenecks that constrain velocity, and the interventions tha…"
 date: "2026-01-09"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-09-deal-flow-velocity-accelerating-acquisition-pipeline/"
+meta_title: "Deal Flow Velocity: Accelerating the Acquisition Pipeline"
+meta_description: "Deal flow velocity determines acquisition program competitiveness. This intelligence briefing examines systematic approaches to pipeline acceleration, the bottlenecks that constrain velocity, and the interventions tha…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Deal flow velocity determines acquisition program competitiveness. This intelligence briefing examines systematic approaches to pipeline acceleration, the bottlenecks that constrain velocity, and the interventions that improve throughput without sacrificing quality."
 ---
 
 ## The Velocity Imperative

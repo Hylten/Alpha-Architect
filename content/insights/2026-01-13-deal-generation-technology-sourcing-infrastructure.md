@@ -1,8 +1,16 @@
 ---
 title: "Deal Generation Technology: Building Sourcing Infrastructure"
+slug: "2026-01-13-deal-generation-technology-sourcing-infrastructure"
+description: "Deal generation technology scales sourcing beyond manual constraints. This intelligence briefing examines technology categories, implementation approaches, and operational practices that build effective sourcing infra…"
 date: "2026-01-13"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-13-deal-generation-technology-sourcing-infrastructure/"
+meta_title: "Deal Generation Technology: Building Sourcing Infrastructure"
+meta_description: "Deal generation technology scales sourcing beyond manual constraints. This intelligence briefing examines technology categories, implementation approaches, and operational practices that build effective sourcing infra…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Deal generation technology scales sourcing beyond manual constraints. This intelligence briefing examines technology categories, implementation approaches, and operational practices that build effective sourcing infrastructure."
 ---
 
 ## The Sourcing Technology Imperative

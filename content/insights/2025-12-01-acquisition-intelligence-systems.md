@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Intelligence Systems: The Technology Transforming Deal Decisions"
-date: "2025-12-01"
-author: "Alpha Architect"
+slug: "2025-12-01-acquisition-intelligence-systems"
 description: "How acquisition intelligence systems transform deal decisions from intuition to evidence."
+date: "2025-12-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-01-acquisition-intelligence-systems/"
+meta_title: "Acquisition Intelligence Systems: The Technology Transforming Deal Decisions"
+meta_description: "How acquisition intelligence systems transform deal decisions from intuition to evidence."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Evidence Imperative

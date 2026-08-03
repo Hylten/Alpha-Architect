@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Excellence: Building the Modern Acquisition Program"
+slug: "2025-12-27-deal-flow-excellence-modern-acquisition-program"
+description: "Deal flow excellence determines acquisition program success. This intelligence briefing examines strategic frameworks, operational practices, and capability development approaches that build sustainable deal flow prog…"
 date: "2025-12-27"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-27-deal-flow-excellence-modern-acquisition-program/"
+meta_title: "Deal Flow Excellence: Building the Modern Acquisition Program"
+meta_description: "Deal flow excellence determines acquisition program success. This intelligence briefing examines strategic frameworks, operational practices, and capability development approaches that build sustainable deal flow prog…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Deal flow excellence determines acquisition program success. This intelligence briefing examines strategic frameworks, operational practices, and capability development approaches that build sustainable deal flow programs."
 ---
 
 ## The Excellence Imperative

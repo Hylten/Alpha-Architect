@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Deal Flow Systems: The Technology Stack for Modern Programs"
-date: "2025-11-26"
-author: "Alpha Architect"
+slug: "2025-11-26-acquisition-deal-flow-systems"
 description: "How acquisition deal flow systems enable modern programs that legacy approaches cannot support."
+date: "2025-11-26"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-11-26-acquisition-deal-flow-systems/"
+meta_title: "Acquisition Deal Flow Systems: The Technology Stack for Modern Programs"
+meta_description: "How acquisition deal flow systems enable modern programs that legacy approaches cannot support."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Modern Imperative

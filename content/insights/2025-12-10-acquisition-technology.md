@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Technology: The Infrastructure Stack for Modern Deal Flow"
-date: "2025-12-10"
-author: "Alpha Architect"
+slug: "2025-12-10-acquisition-technology"
 description: "How acquisition technology stacks transform deal flow from fragmented tools to unified systems."
+date: "2025-12-10"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-10-acquisition-technology/"
+meta_title: "Acquisition Technology: The Infrastructure Stack for Modern Deal Flow"
+meta_description: "How acquisition technology stacks transform deal flow from fragmented tools to unified systems."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Fragmentation Problem

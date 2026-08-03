@@ -1,8 +1,16 @@
 ---
 title: "M&A Analytics Framework: The Systems Architecture for Data-Driven Acquisitions"
-date: "2026-02-20"
-author: "Alpha Architect"
+slug: "2026-02-20-ma-analytics-framework"
 description: "How analytics frameworks transform M&A from intuition-based decisions to systematic intelligence."
+date: "2026-02-20"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-20-ma-analytics-framework/"
+meta_title: "M&A Analytics Framework: The Systems Architecture for Data-Driven Acquisitions"
+meta_description: "How analytics frameworks transform M&A from intuition-based decisions to systematic intelligence."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Intuition Dependency

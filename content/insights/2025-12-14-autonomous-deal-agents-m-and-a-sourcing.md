@@ -1,8 +1,16 @@
 ---
 title: "Autonomous Deal Agents: The Future of M&A Sourcing"
+slug: "2025-12-14-autonomous-deal-agents-m-and-a-sourcing"
+description: "Autonomous agents represent the next frontier in deal flow automation. This intelligence briefing examines how autonomous AI systems will transform M&A sourcing, the technical architecture required, and the strategic…"
 date: "2025-12-14"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-14-autonomous-deal-agents-m-and-a-sourcing/"
+meta_title: "Autonomous Deal Agents: The Future of M&A Sourcing"
+meta_description: "Autonomous agents represent the next frontier in deal flow automation. This intelligence briefing examines how autonomous AI systems will transform M&A sourcing, the technical architecture required, and the strategic…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Autonomous agents represent the next frontier in deal flow automation. This intelligence briefing examines how autonomous AI systems will transform M&A sourcing, the technical architecture required, and the strategic implications for dealmakers."
 ---
 
 ## The Autonomy Spectrum

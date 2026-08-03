@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Targeting: Strategic Frameworks for Deal Selection"
+slug: "2025-12-08-acquisition-targeting-strategic-deal-selection"
+description: "Acquisition targeting determines portfolio quality before transactions execute. This intelligence briefing examines strategic frameworks for target selection, the criteria that drive fit assessment, and the prioritiza…"
 date: "2025-12-08"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-08-acquisition-targeting-strategic-deal-selection/"
+meta_title: "Acquisition Targeting: Strategic Frameworks for Deal Selection"
+meta_description: "Acquisition targeting determines portfolio quality before transactions execute. This intelligence briefing examines strategic frameworks for target selection, the criteria that drive fit assessment, and the prioritiza…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Acquisition targeting determines portfolio quality before transactions execute. This intelligence briefing examines strategic frameworks for target selection, the criteria that drive fit assessment, and the prioritization approaches that maximize acquisition program value."
 ---
 
 ## The Targeting Imperative

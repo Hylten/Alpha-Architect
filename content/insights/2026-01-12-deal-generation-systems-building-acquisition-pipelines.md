@@ -1,8 +1,16 @@
 ---
 title: "Deal Generation Systems: Building Acquisition Pipelines"
+slug: "2026-01-12-deal-generation-systems-building-acquisition-pipelines"
+description: "Deal generation systems convert strategic priorities into acquisition pipeline. This intelligence briefing examines system components, operational practices, and performance management approaches that build sustainabl…"
 date: "2026-01-12"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-12-deal-generation-systems-building-acquisition-pipelines/"
+meta_title: "Deal Generation Systems: Building Acquisition Pipelines"
+meta_description: "Deal generation systems convert strategic priorities into acquisition pipeline. This intelligence briefing examines system components, operational practices, and performance management approaches that build sustainabl…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Deal generation systems convert strategic priorities into acquisition pipeline. This intelligence briefing examines system components, operational practices, and performance management approaches that build sustainable deal flow."
 ---
 
 ## The Generation Challenge

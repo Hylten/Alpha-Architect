@@ -1,8 +1,16 @@
 ---
 title: "Terminal-Based Sourcing: The Command Interface for Deal Generation"
-date: "2026-03-24"
-author: "Alpha Architect"
+slug: "2026-03-24-terminal-based-sourcing"
 description: "How terminal interfaces transform deal sourcing from browser-based workflows to efficient command execution."
+date: "2026-03-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-24-terminal-based-sourcing/"
+meta_title: "Terminal-Based Sourcing: The Command Interface for Deal Generation"
+meta_description: "How terminal interfaces transform deal sourcing from browser-based workflows to efficient command execution."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Browser Dependency Problem

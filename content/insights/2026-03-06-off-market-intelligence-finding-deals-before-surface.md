@@ -1,8 +1,16 @@
 ---
 title: "Off-Market Intelligence: Finding Deals Before They Surface"
+slug: "2026-03-06-off-market-intelligence-finding-deals-before-surface"
+description: "Off-market intelligence reveals acquisition targets before public processes begin. This intelligence briefing examines systematic approaches to off-market discovery, the data sources that enable early detection, and t…"
 date: "2026-03-06"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-06-off-market-intelligence-finding-deals-before-surface/"
+meta_title: "Off-Market Intelligence: Finding Deals Before They Surface"
+meta_description: "Off-market intelligence reveals acquisition targets before public processes begin. This intelligence briefing examines systematic approaches to off-market discovery, the data sources that enable early detection, and t…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Off-market intelligence reveals acquisition targets before public processes begin. This intelligence briefing examines systematic approaches to off-market discovery, the data sources that enable early detection, and the operational practices that convert intelligence into deal flow."
 ---
 
 ## The Off-Market Advantage

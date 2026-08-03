@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Deal Flow Analytics: The Intelligence Enabling Optimization"
-date: "2025-11-23"
-author: "Alpha Architect"
+slug: "2025-11-23-acquisition-deal-flow-analytics"
 description: "How acquisition deal flow analytics enable optimization that intuition cannot achieve."
+date: "2025-11-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-11-23-acquisition-deal-flow-analytics/"
+meta_title: "Acquisition Deal Flow Analytics: The Intelligence Enabling Optimization"
+meta_description: "How acquisition deal flow analytics enable optimization that intuition cannot achieve."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Optimization Imperative

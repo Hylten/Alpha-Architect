@@ -1,8 +1,16 @@
 ---
 title: "Deal Origination Workflow: The Automation Systems Scaling Acquisitions"
-date: "2026-01-28"
-author: "Alpha Architect"
+slug: "2026-01-28-deal-origination-workflow"
 description: "How workflow automation transforms deal origination from manual coordination to autonomous operation."
+date: "2026-01-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-28-deal-origination-workflow/"
+meta_title: "Deal Origination Workflow: The Automation Systems Scaling Acquisitions"
+meta_description: "How workflow automation transforms deal origination from manual coordination to autonomous operation."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Coordination Overhead Problem

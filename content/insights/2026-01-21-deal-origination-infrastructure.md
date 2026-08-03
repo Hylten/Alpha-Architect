@@ -1,8 +1,16 @@
 ---
 title: "Deal Origination Infrastructure: The Foundation for Acquisition Success"
-date: "2026-01-21"
-author: "Alpha Architect"
+slug: "2026-01-21-deal-origination-infrastructure"
 description: "How deal origination infrastructure creates foundation for acquisition success."
+date: "2026-01-21"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-21-deal-origination-infrastructure/"
+meta_title: "Deal Origination Infrastructure: The Foundation for Acquisition Success"
+meta_description: "How deal origination infrastructure creates foundation for acquisition success."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Foundation Principle

@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Technology: Modern Infrastructure for Acquirers"
-date: "2026-01-05"
-author: "Alpha Architect"
+slug: "2026-01-05-deal-flow-technology-modern-infrastructure-acquirers"
 description: "Deal flow technology enables modern acquisition management. This intelligence briefing examines technology categories, integration approaches, and development practices that build effective deal flow infrastructure."
+date: "2026-01-05"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-05-deal-flow-technology-modern-infrastructure-acquirers/"
+meta_title: "Deal Flow Technology: Modern Infrastructure for Acquirers"
+meta_description: "Deal flow technology enables modern acquisition management. This intelligence briefing examines technology categories, integration approaches, and development practices that build effective deal flow infrastructure."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## Technology as Competitive Foundation

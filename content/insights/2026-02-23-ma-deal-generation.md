@@ -1,8 +1,16 @@
 ---
 title: "M&A Deal Generation: The Technology Building Sustainable Pipeline"
-date: "2026-02-23"
-author: "Alpha Architect"
+slug: "2026-02-23-ma-deal-generation"
 description: "How M&A deal generation technology builds sustainable pipeline that tactical approaches cannot sustain."
+date: "2026-02-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-23-ma-deal-generation/"
+meta_title: "M&A Deal Generation: The Technology Building Sustainable Pipeline"
+meta_description: "How M&A deal generation technology builds sustainable pipeline that tactical approaches cannot sustain."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Sustainability Imperative

@@ -1,8 +1,16 @@
 ---
 title: "Deal Generation Infrastructure: The Systems Building Sustainable Deal Flow"
-date: "2026-01-10"
-author: "Alpha Architect"
+slug: "2026-01-10-deal-generation-infrastructure"
 description: "How deal generation infrastructure creates sustainable competitive advantages in acquisition."
+date: "2026-01-10"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-10-deal-generation-infrastructure/"
+meta_title: "Deal Generation Infrastructure: The Systems Building Sustainable Deal Flow"
+meta_description: "How deal generation infrastructure creates sustainable competitive advantages in acquisition."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Sustainable Advantage Problem

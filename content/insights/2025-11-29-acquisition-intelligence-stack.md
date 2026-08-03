@@ -1,8 +1,16 @@
 ---
 title: "The Acquisition Intelligence Stack: From Signal to Proprietary Deal"
-date: "2025-11-29"
-author: "Alpha Architect"
+slug: "2025-11-29-acquisition-intelligence-stack"
 description: "How integrated intelligence systems convert market signals into proprietary acquisition opportunities."
+date: "2025-11-29"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-11-29-acquisition-intelligence-stack/"
+meta_title: "The Acquisition Intelligence Stack: From Signal to Proprietary Deal"
+meta_description: "How integrated intelligence systems convert market signals into proprietary acquisition opportunities."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Signal-to-Deal Challenge

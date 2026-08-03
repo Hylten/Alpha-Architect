@@ -1,8 +1,16 @@
 ---
 title: "Signal Detection: ESG Decision-Makers and the Acquisition Intelligence Stack"
-date: "2026-02-04"
-author: "Alpha Architect"
+slug: "2026-02-04-esg-signal-detection"
 description: "How to identify, qualify, and reach ESG decision-makers for B2B acquisition and partnership opportunities."
+date: "2026-02-04"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-04-esg-signal-detection/"
+meta_title: "Signal Detection: ESG Decision-Makers and the Acquisition Intelligence Stack"
+meta_description: "How to identify, qualify, and reach ESG decision-makers for B2B acquisition and partnership opportunities."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The ESG Decision Architecture Problem

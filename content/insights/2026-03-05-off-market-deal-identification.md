@@ -1,8 +1,16 @@
 ---
 title: "Off-Market Deal Identification: The Infrastructure for Proprietary Opportunities"
-date: "2026-03-05"
-author: "Alpha Architect"
+slug: "2026-03-05-off-market-deal-identification"
 description: "How off-market identification infrastructure creates proprietary deal opportunities that broker-represented transactions cannot match."
+date: "2026-03-05"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-05-off-market-deal-identification/"
+meta_title: "Off-Market Deal Identification: The Infrastructure for Proprietary Opportunities"
+meta_description: "How off-market identification infrastructure creates proprietary deal opportunities that broker-represented transactions cannot match."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Broker Dependency Problem

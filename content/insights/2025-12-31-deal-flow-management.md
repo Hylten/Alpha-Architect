@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Management: The Systems Enabling Pipeline Visibility"
-date: "2025-12-31"
-author: "Alpha Architect"
+slug: "2025-12-31-deal-flow-management"
 description: "How deal flow management systems enable pipeline visibility and optimization."
+date: "2025-12-31"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-31-deal-flow-management/"
+meta_title: "Deal Flow Management: The Systems Enabling Pipeline Visibility"
+meta_description: "How deal flow management systems enable pipeline visibility and optimization."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Visibility Problem

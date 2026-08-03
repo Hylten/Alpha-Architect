@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Metrics: Building Comprehensive Measurement Systems"
-date: "2026-01-02"
-author: "Jonas Hyltén"
+slug: "2026-01-02-deal-flow-metrics"
 description: "How to build comprehensive metrics frameworks for deal flow optimization through data infrastructure, automated tracking, and autonomous analytics."
+date: "2026-01-02"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-02-deal-flow-metrics/"
+meta_title: "Deal Flow Metrics: Building Comprehensive Measurement Systems"
+meta_description: "How to build comprehensive metrics frameworks for deal flow optimization through data infrastructure, automated tracking, and autonomous analytics."
+featured_image: ""
+draft: false
+author: "Jonas Hyltén"
 ---
 
 Metrics enable optimization. Without measurement, acquisition programs operate blind, unable to distinguish effective from ineffective activities. Comprehensive frameworks reveal the full picture: which channels generate signals, which agents convert prospects, which sequences produce responses, and which investments generate returns. The firms that measure effectively improve continuously because they can identify what works and what wastes resources. This framework covers input metrics that measure volume generation, throughput metrics that measure conversion efficiency, output metrics that measure results, and the data infrastructure required to track everything automatically without manual effort.

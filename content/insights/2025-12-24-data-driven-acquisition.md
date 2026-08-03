@@ -1,8 +1,16 @@
 ---
 title: "Data-Driven Acquisition: The Analytics Infrastructure for Deal Origination"
-date: "2025-12-24"
-author: "Alpha Architect"
+slug: "2025-12-24-data-driven-acquisition"
 description: "How analytics systems transform acquisition origination from intuition to systematic intelligence operation."
+date: "2025-12-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-24-data-driven-acquisition/"
+meta_title: "Data-Driven Acquisition: The Analytics Infrastructure for Deal Origination"
+meta_description: "How analytics systems transform acquisition origination from intuition to systematic intelligence operation."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Intuition Problem in Deal Origination

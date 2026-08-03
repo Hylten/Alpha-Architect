@@ -1,8 +1,16 @@
 ---
 title: "Deal Sourcing Strategies: Building the Acquisition Pipeline"
+slug: "2026-02-01-deal-sourcing-strategies-building-acquisition-pipeline"
+description: "Deal sourcing strategies determine acquisition pipeline quality. This intelligence briefing examines systematic approaches to deal sourcing, channel optimization, and performance management that build sustainable deal…"
 date: "2026-02-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-01-deal-sourcing-strategies-building-acquisition-pipeline/"
+meta_title: "Deal Sourcing Strategies: Building the Acquisition Pipeline"
+meta_description: "Deal sourcing strategies determine acquisition pipeline quality. This intelligence briefing examines systematic approaches to deal sourcing, channel optimization, and performance management that build sustainable deal…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Deal sourcing strategies determine acquisition pipeline quality. This intelligence briefing examines systematic approaches to deal sourcing, channel optimization, and performance management that build sustainable deal flow."
 ---
 
 ## The Sourcing Strategy Foundation

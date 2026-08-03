@@ -1,8 +1,16 @@
 ---
 title: "M&A Technology Infrastructure: The Systems Architecture for Modern Acquisitions"
-date: "2026-03-01"
-author: "Alpha Architect"
+slug: "2026-03-01-ma-technology-infrastructure"
 description: "How M&A technology infrastructure transforms acquisition programs from manual operations to automated systems."
+date: "2026-03-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-01-ma-technology-infrastructure/"
+meta_title: "M&A Technology Infrastructure: The Systems Architecture for Modern Acquisitions"
+meta_description: "How M&A technology infrastructure transforms acquisition programs from manual operations to automated systems."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Technology Gap

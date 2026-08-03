@@ -1,8 +1,16 @@
 ---
 title: "Buyer-Led Acquisition: Shifting the M&A Paradigm"
+slug: "2025-12-18-buyer-led-acquisition-m-and-a-paradigm"
+description: "Buyer-led acquisition models challenge traditional seller-centric M&A processes. This intelligence briefing examines how proactive buyers transform deal flow dynamics and achieve superior acquisition outcomes through…"
 date: "2025-12-18"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-18-buyer-led-acquisition-m-and-a-paradigm/"
+meta_title: "Buyer-Led Acquisition: Shifting the M&A Paradigm"
+meta_description: "Buyer-led acquisition models challenge traditional seller-centric M&A processes. This intelligence briefing examines how proactive buyers transform deal flow dynamics and achieve superior acquisition outcomes through…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Buyer-led acquisition models challenge traditional seller-centric M&A processes. This intelligence briefing examines how proactive buyers transform deal flow dynamics and achieve superior acquisition outcomes through systematic target engagement."
 ---
 
 ## The Seller-Centric Problem

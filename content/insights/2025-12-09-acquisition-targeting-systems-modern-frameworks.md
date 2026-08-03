@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Targeting Systems: Modern Frameworks for Target Selection"
-date: "2025-12-09"
-author: "Alpha Architect"
+slug: "2025-12-09-acquisition-targeting-systems-modern-frameworks"
 description: "Acquisition targeting systems enable systematic target selection. This intelligence briefing examines strategic frameworks, analytical approaches, and operational practices that build effective targeting capability."
+date: "2025-12-09"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-09-acquisition-targeting-systems-modern-frameworks/"
+meta_title: "Acquisition Targeting Systems: Modern Frameworks for Target Selection"
+meta_description: "Acquisition targeting systems enable systematic target selection. This intelligence briefing examines strategic frameworks, analytical approaches, and operational practices that build effective targeting capability."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Targeting System Imperative

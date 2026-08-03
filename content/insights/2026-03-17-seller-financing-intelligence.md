@@ -1,8 +1,16 @@
 ---
 title: "Seller Financing: The Invisible Deal Structure Powering Lower Middle Market Acquisitions"
-date: "2026-03-17"
-author: "Alpha Architect"
+slug: "2026-03-17-seller-financing-intelligence"
 description: "How seller financing reduces capital requirements and structures deals that traditional lending misses entirely."
+date: "2026-03-17"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-17-seller-financing-intelligence/"
+meta_title: "Seller Financing: The Invisible Deal Structure Powering Lower Middle Market Acquisitions"
+meta_description: "How seller financing reduces capital requirements and structures deals that traditional lending misses entirely."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Capital Efficiency Myth

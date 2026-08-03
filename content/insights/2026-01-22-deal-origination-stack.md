@@ -1,8 +1,16 @@
 ---
 title: "The Deal Origination Stack: Integrating Systems for Acquisition Excellence"
-date: "2026-01-22"
-author: "Alpha Architect"
+slug: "2026-01-22-deal-origination-stack"
 description: "How integrated deal origination systems transform acquisition from fragmented operations to unified intelligence platform."
+date: "2026-01-22"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-22-deal-origination-stack/"
+meta_title: "The Deal Origination Stack: Integrating Systems for Acquisition Excellence"
+meta_description: "How integrated deal origination systems transform acquisition from fragmented operations to unified intelligence platform."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Fragmentation Problem

@@ -1,8 +1,16 @@
 ---
 title: "Autonomous Prospecting: The Agent Infrastructure for Deal Generation"
-date: "2025-12-16"
-author: "Alpha Architect"
+slug: "2025-12-16-autonomous-prospecting"
 description: "How autonomous agent systems transform prospecting from manual activity to continuous intelligence operation."
+date: "2025-12-16"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-16-autonomous-prospecting/"
+meta_title: "Autonomous Prospecting: The Agent Infrastructure for Deal Generation"
+meta_description: "How autonomous agent systems transform prospecting from manual activity to continuous intelligence operation."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Manual Prospecting Ceiling

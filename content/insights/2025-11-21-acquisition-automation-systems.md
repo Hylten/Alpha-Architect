@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Automation Systems: The Technology Multiplying Deal Flow"
-date: "2025-11-21"
-author: "Alpha Architect"
+slug: "2025-11-21-acquisition-automation-systems"
 description: "How acquisition automation systems multiply deal flow beyond human limitations."
+date: "2025-11-21"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-11-21-acquisition-automation-systems/"
+meta_title: "Acquisition Automation Systems: The Technology Multiplying Deal Flow"
+meta_description: "How acquisition automation systems multiply deal flow beyond human limitations."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Multiplication Principle

@@ -1,8 +1,16 @@
 ---
 title: "Off-Market Intelligence: The Systems Creating Proprietary Deal Flow"
-date: "2026-03-07"
-author: "Alpha Architect"
+slug: "2026-03-07-off-market-intelligence"
 description: "How off-market intelligence systems create proprietary deal flow that broker networks cannot access."
+date: "2026-03-07"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-07-off-market-intelligence/"
+meta_title: "Off-Market Intelligence: The Systems Creating Proprietary Deal Flow"
+meta_description: "How off-market intelligence systems create proprietary deal flow that broker networks cannot access."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Proprietary Advantage

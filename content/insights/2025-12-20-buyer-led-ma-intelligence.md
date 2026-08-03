@@ -1,8 +1,16 @@
 ---
 title: "Buyer-Led M&A Intelligence: The Systematic Approach to Off-Market Acquisition"
-date: "2025-12-20"
-author: "Alpha Architect"
+slug: "2025-12-20-buyer-led-ma-intelligence"
 description: "How buyer-led M&A intelligence transforms acquisition from reactive pursuit to systematic opportunity development."
+date: "2025-12-20"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-20-buyer-led-ma-intelligence/"
+meta_title: "Buyer-Led M&A Intelligence: The Systematic Approach to Off-Market Acquisition"
+meta_description: "How buyer-led M&A intelligence transforms acquisition from reactive pursuit to systematic opportunity development."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Reactive Pursuit Problem

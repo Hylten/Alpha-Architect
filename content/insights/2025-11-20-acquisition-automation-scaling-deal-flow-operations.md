@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Automation: Scaling Deal Flow Operations"
+slug: "2025-11-20-acquisition-automation-scaling-deal-flow-operations"
+description: "Acquisition automation transforms deal flow from manual, labor-intensive process to scalable, efficient operation. This intelligence briefing examines automation opportunities across the acquisition lifecycle and the…"
 date: "2025-11-20"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-11-20-acquisition-automation-scaling-deal-flow-operations/"
+meta_title: "Acquisition Automation: Scaling Deal Flow Operations"
+meta_description: "Acquisition automation transforms deal flow from manual, labor-intensive process to scalable, efficient operation. This intelligence briefing examines automation opportunities across the acquisition lifecycle and the…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Acquisition automation transforms deal flow from manual, labor-intensive process to scalable, efficient operation. This intelligence briefing examines automation opportunities across the acquisition lifecycle and the implementation approaches that generate sustainable efficiency gains."
 ---
 
 ## The Automation Imperative

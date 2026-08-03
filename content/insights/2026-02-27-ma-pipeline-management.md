@@ -1,8 +1,16 @@
 ---
 title: "M&A Pipeline Management: The Systems Enabling Proactive Deal Control"
-date: "2026-02-27"
-author: "Alpha Architect"
+slug: "2026-02-27-ma-pipeline-management"
 description: "How M&A pipeline management systems enable proactive deal control."
+date: "2026-02-27"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-27-ma-pipeline-management/"
+meta_title: "M&A Pipeline Management: The Systems Enabling Proactive Deal Control"
+meta_description: "How M&A pipeline management systems enable proactive deal control."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Control Imperative

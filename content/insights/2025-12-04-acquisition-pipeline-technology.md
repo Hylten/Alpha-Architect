@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Pipeline Technology: The Systems Enabling Visibility and Control"
-date: "2025-12-04"
-author: "Alpha Architect"
+slug: "2025-12-04-acquisition-pipeline-technology"
 description: "How acquisition pipeline technology enables visibility and control that manual management cannot achieve."
+date: "2025-12-04"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-04-acquisition-pipeline-technology/"
+meta_title: "Acquisition Pipeline Technology: The Systems Enabling Visibility and Control"
+meta_description: "How acquisition pipeline technology enables visibility and control that manual management cannot achieve."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Control Imperative

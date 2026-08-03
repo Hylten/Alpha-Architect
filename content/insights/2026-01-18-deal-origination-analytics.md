@@ -1,8 +1,16 @@
 ---
 title: "Deal Origination Analytics: The Systems Driving Data-Driven Acquisitions"
-date: "2026-01-18"
-author: "Alpha Architect"
+slug: "2026-01-18-deal-origination-analytics"
 description: "How deal origination analytics drive data-driven acquisitions that intuition-based approaches cannot achieve."
+date: "2026-01-18"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-18-deal-origination-analytics/"
+meta_title: "Deal Origination Analytics: The Systems Driving Data-Driven Acquisitions"
+meta_description: "How deal origination analytics drive data-driven acquisitions that intuition-based approaches cannot achieve."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Data-Driven Imperative

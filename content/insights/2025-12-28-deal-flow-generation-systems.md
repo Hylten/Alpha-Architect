@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Generation Systems: The Technology Creating Sustainable Pipeline"
-date: "2025-12-28"
-author: "Alpha Architect"
+slug: "2025-12-28-deal-flow-generation-systems"
 description: "How deal flow generation systems create sustainable acquisition pipeline."
+date: "2025-12-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-28-deal-flow-generation-systems/"
+meta_title: "Deal Flow Generation Systems: The Technology Creating Sustainable Pipeline"
+meta_description: "How deal flow generation systems create sustainable acquisition pipeline."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Sustainability Problem

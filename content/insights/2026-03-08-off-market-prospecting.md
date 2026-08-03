@@ -1,8 +1,16 @@
 ---
 title: "Off-Market Prospecting: The Systems Finding Deals Before Competition"
-date: "2026-03-08"
-author: "Alpha Architect"
+slug: "2026-03-08-off-market-prospecting"
 description: "How off-market prospecting systems identify acquisition opportunities before competitors recognize potential."
+date: "2026-03-08"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-08-off-market-prospecting/"
+meta_title: "Off-Market Prospecting: The Systems Finding Deals Before Competition"
+meta_description: "How off-market prospecting systems identify acquisition opportunities before competitors recognize potential."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Competitive Disadvantage

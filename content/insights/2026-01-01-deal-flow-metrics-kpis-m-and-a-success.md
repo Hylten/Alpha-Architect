@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Metrics: KPIs for M&A Success"
+slug: "2026-01-01-deal-flow-metrics-kpis-m-and-a-success"
+description: "Deal flow metrics enable performance management and continuous improvement. This intelligence briefing examines the key performance indicators that drive acquisition success, measurement approaches, and analytical fra…"
 date: "2026-01-01"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-01-deal-flow-metrics-kpis-m-and-a-success/"
+meta_title: "Deal Flow Metrics: KPIs for M&A Success"
+meta_description: "Deal flow metrics enable performance management and continuous improvement. This intelligence briefing examines the key performance indicators that drive acquisition success, measurement approaches, and analytical fra…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Deal flow metrics enable performance management and continuous improvement. This intelligence briefing examines the key performance indicators that drive acquisition success, measurement approaches, and analytical frameworks for metric interpretation."
 ---
 
 ## The Measurement Foundation

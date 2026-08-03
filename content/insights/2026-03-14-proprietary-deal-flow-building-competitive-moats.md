@@ -1,8 +1,16 @@
 ---
 title: "Proprietary Deal Flow: Building Competitive Moats in M&A"
+slug: "2026-03-14-proprietary-deal-flow-building-competitive-moats"
+description: "Proprietary deal flow represents the most significant competitive advantage available in M&A. This intelligence briefing examines how firms build and maintain proprietary sourcing capabilities that generate superior a…"
 date: "2026-03-14"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-14-proprietary-deal-flow-building-competitive-moats/"
+meta_title: "Proprietary Deal Flow: Building Competitive Moats in M&A"
+meta_description: "Proprietary deal flow represents the most significant competitive advantage available in M&A. This intelligence briefing examines how firms build and maintain proprietary sourcing capabilities that generate superior a…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Proprietary deal flow represents the most significant competitive advantage available in M&A. This intelligence briefing examines how firms build and maintain proprietary sourcing capabilities that generate superior acquisition outcomes."
 ---
 
 ## The Proprietary Advantage

@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Deal Flow: Strategies for Modern Acquirers"
-date: "2025-11-24"
-author: "Alpha Architect"
+slug: "2025-11-24-acquisition-deal-flow-strategies-modern-acquirers"
 description: "Acquisition deal flow requires systematic strategies in competitive markets. This intelligence briefing examines sourcing approaches, pipeline management, and optimization practices that enable successful deal flow."
+date: "2025-11-24"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-11-24-acquisition-deal-flow-strategies-modern-acquirers/"
+meta_title: "Acquisition Deal Flow: Strategies for Modern Acquirers"
+meta_description: "Acquisition deal flow requires systematic strategies in competitive markets. This intelligence briefing examines sourcing approaches, pipeline management, and optimization practices that enable successful deal flow."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Deal Flow Challenge

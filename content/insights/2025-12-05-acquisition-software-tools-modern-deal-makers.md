@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Software: Tools for Modern Deal Makers"
-date: "2025-12-05"
-author: "Alpha Architect"
+slug: "2025-12-05-acquisition-software-tools-modern-deal-makers"
 description: "Acquisition software enables modern deal flow management. This intelligence briefing examines software categories, capability requirements, and selection approaches that build effective technology infrastructure."
+date: "2025-12-05"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-05-acquisition-software-tools-modern-deal-makers/"
+meta_title: "Acquisition Software: Tools for Modern Deal Makers"
+meta_description: "Acquisition software enables modern deal flow management. This intelligence briefing examines software categories, capability requirements, and selection approaches that build effective technology infrastructure."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Software Foundation

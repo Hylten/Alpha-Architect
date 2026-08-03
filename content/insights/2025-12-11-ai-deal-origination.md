@@ -1,8 +1,16 @@
 ---
 title: "AI Deal Origination: The Machine Learning Systems Transforming Acquisitions"
-date: "2025-12-11"
-author: "Alpha Architect"
+slug: "2025-12-11-ai-deal-origination"
 description: "How AI systems transform deal origination from rules-based filtering to predictive intelligence."
+date: "2025-12-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-11-ai-deal-origination/"
+meta_title: "AI Deal Origination: The Machine Learning Systems Transforming Acquisitions"
+meta_description: "How AI systems transform deal origination from rules-based filtering to predictive intelligence."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Rules-Based Limitation

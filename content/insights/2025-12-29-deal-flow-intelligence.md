@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Intelligence: The Analytics Platform for Acquisition Teams"
-date: "2025-12-29"
-author: "Alpha Architect"
+slug: "2025-12-29-deal-flow-intelligence"
 description: "How analytics platforms transform deal flow from intuition to systematic intelligence-driven operation."
+date: "2025-12-29"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-29-deal-flow-intelligence/"
+meta_title: "Deal Flow Intelligence: The Analytics Platform for Acquisition Teams"
+meta_description: "How analytics platforms transform deal flow from intuition to systematic intelligence-driven operation."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Intuition Dependency

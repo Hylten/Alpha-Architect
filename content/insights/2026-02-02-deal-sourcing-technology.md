@@ -1,8 +1,16 @@
 ---
 title: "Deal Sourcing Technology: The Infrastructure Finding Targets Systematically"
-date: "2026-02-02"
-author: "Alpha Architect"
+slug: "2026-02-02-deal-sourcing-technology"
 description: "How deal sourcing technology finds acquisition targets systematically."
+date: "2026-02-02"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-02-deal-sourcing-technology/"
+meta_title: "Deal Sourcing Technology: The Infrastructure Finding Targets Systematically"
+meta_description: "How deal sourcing technology finds acquisition targets systematically."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Systematic Approach

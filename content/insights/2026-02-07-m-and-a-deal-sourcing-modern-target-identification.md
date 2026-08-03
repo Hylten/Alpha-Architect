@@ -1,8 +1,16 @@
 ---
 title: "M&A Deal Sourcing: Modern Approaches to Target Identification"
+slug: "2026-02-07-m-and-a-deal-sourcing-modern-target-identification"
+description: "M&A deal sourcing requires modern approaches in evolving markets. This intelligence briefing examines technology-enabled sourcing, relationship-based approaches, and competitive strategies that build sustainable deal…"
 date: "2026-02-07"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-07-m-and-a-deal-sourcing-modern-target-identification/"
+meta_title: "M&A Deal Sourcing: Modern Approaches to Target Identification"
+meta_description: "M&A deal sourcing requires modern approaches in evolving markets. This intelligence briefing examines technology-enabled sourcing, relationship-based approaches, and competitive strategies that build sustainable deal…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "M&A deal sourcing requires modern approaches in evolving markets. This intelligence briefing examines technology-enabled sourcing, relationship-based approaches, and competitive strategies that build sustainable deal flow."
 ---
 
 ## The Modern Sourcing Challenge

@@ -1,8 +1,16 @@
 ---
 title: "M&A Automation: Scaling Deal Flow Operations"
+slug: "2026-02-05-m-and-a-automation-scaling-deal-flow-operations"
+description: "M&A automation scales deal flow operations beyond manual constraints. This intelligence briefing examines automation opportunities, implementation approaches, and operational practices that build efficient automated s…"
 date: "2026-02-05"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-05-m-and-a-automation-scaling-deal-flow-operations/"
+meta_title: "M&A Automation: Scaling Deal Flow Operations"
+meta_description: "M&A automation scales deal flow operations beyond manual constraints. This intelligence briefing examines automation opportunities, implementation approaches, and operational practices that build efficient automated s…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "M&A automation scales deal flow operations beyond manual constraints. This intelligence briefing examines automation opportunities, implementation approaches, and operational practices that build efficient automated systems."
 ---
 
 ## The Automation Imperative

@@ -1,8 +1,16 @@
 ---
 title: "M&A Intelligence Technology: The Systems Transforming Deal Decisions"
-date: "2026-02-25"
-author: "Alpha Architect"
+slug: "2026-02-25-ma-intelligence-technology"
 description: "How M&A intelligence technology transforms deal decisions from intuition to evidence."
+date: "2026-02-25"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-25-ma-intelligence-technology/"
+meta_title: "M&A Intelligence Technology: The Systems Transforming Deal Decisions"
+meta_description: "How M&A intelligence technology transforms deal decisions from intuition to evidence."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Evidence Imperative

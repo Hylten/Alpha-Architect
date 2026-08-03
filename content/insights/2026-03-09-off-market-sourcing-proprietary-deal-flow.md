@@ -1,8 +1,16 @@
 ---
 title: "Off-Market Sourcing: The Proprietary Deal Flow Imperative"
+slug: "2026-03-09-off-market-sourcing-proprietary-deal-flow"
+description: "Proprietary deal flow represents the single most significant competitive advantage in M&A. This intelligence briefing examines systematic approaches to off-market sourcing and the infrastructure required to maintain p…"
 date: "2026-03-09"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-09-off-market-sourcing-proprietary-deal-flow/"
+meta_title: "Off-Market Sourcing: The Proprietary Deal Flow Imperative"
+meta_description: "Proprietary deal flow represents the single most significant competitive advantage in M&A. This intelligence briefing examines systematic approaches to off-market sourcing and the infrastructure required to maintain p…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Proprietary deal flow represents the single most significant competitive advantage in M&A. This intelligence briefing examines systematic approaches to off-market sourcing and the infrastructure required to maintain proprietary deal flow."
 ---
 
 ## The Economics of Deal Flow Sourcing

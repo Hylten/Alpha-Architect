@@ -1,8 +1,16 @@
 ---
 title: "M&A Deal Origination: Building Sustainable Deal Flow"
+slug: "2026-02-06-m-and-a-deal-origination-sustainable-deal-flow"
+description: "M&A deal origination builds sustainable deal flow through systematic approaches. This intelligence briefing examines strategic frameworks, operational practices, and relationship development that create lasting sourci…"
 date: "2026-02-06"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-06-m-and-a-deal-origination-sustainable-deal-flow/"
+meta_title: "M&A Deal Origination: Building Sustainable Deal Flow"
+meta_description: "M&A deal origination builds sustainable deal flow through systematic approaches. This intelligence briefing examines strategic frameworks, operational practices, and relationship development that create lasting sourci…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "M&A deal origination builds sustainable deal flow through systematic approaches. This intelligence briefing examines strategic frameworks, operational practices, and relationship development that create lasting sourcing capability."
 ---
 
 ## The Origination Foundation

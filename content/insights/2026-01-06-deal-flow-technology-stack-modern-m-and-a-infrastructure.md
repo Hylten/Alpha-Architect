@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Technology Stack: Building Modern M&A Infrastructure"
-date: "2026-01-06"
-author: "Alpha Architect"
+slug: "2026-01-06-deal-flow-technology-stack-modern-m-and-a-infrastructure"
 description: "Deal flow technology stack enables modern acquisition management. This intelligence briefing examines technology categories, integration patterns, and development practices that build effective infrastructure."
+date: "2026-01-06"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-06-deal-flow-technology-stack-modern-m-and-a-infrastructure/"
+meta_title: "Deal Flow Technology Stack: Building Modern M&A Infrastructure"
+meta_description: "Deal flow technology stack enables modern acquisition management. This intelligence briefing examines technology categories, integration patterns, and development practices that build effective infrastructure."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## Technology Stack Foundation

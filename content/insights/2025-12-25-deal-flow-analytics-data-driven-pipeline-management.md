@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Analytics: Data-Driven Pipeline Management"
-date: "2025-12-25"
-author: "Alpha Architect"
+slug: "2025-12-25-deal-flow-analytics-data-driven-pipeline-management"
 description: "Deal flow analytics enables data-driven pipeline management. This intelligence briefing examines analytics infrastructure, metric frameworks, and operational practices that build analytical capability."
+date: "2025-12-25"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-25-deal-flow-analytics-data-driven-pipeline-management/"
+meta_title: "Deal Flow Analytics: Data-Driven Pipeline Management"
+meta_description: "Deal flow analytics enables data-driven pipeline management. This intelligence briefing examines analytics infrastructure, metric frameworks, and operational practices that build analytical capability."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Analytics Imperative

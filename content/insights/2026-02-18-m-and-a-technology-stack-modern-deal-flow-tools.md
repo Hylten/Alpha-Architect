@@ -1,8 +1,16 @@
 ---
 title: "M&A Technology Stack: Modern Tools for Deal Flow Management"
+slug: "2026-02-18-m-and-a-technology-stack-modern-deal-flow-tools"
+description: "The M&A technology landscape offers tools for every process stage. This intelligence briefing examines the technology categories, selection criteria, and integration approaches that build effective deal flow technolog…"
 date: "2026-02-18"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-18-m-and-a-technology-stack-modern-deal-flow-tools/"
+meta_title: "M&A Technology Stack: Modern Tools for Deal Flow Management"
+meta_description: "The M&A technology landscape offers tools for every process stage. This intelligence briefing examines the technology categories, selection criteria, and integration approaches that build effective deal flow technolog…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "The M&A technology landscape offers tools for every process stage. This intelligence briefing examines the technology categories, selection criteria, and integration approaches that build effective deal flow technology stacks."
 ---
 
 ## The Technology Landscape

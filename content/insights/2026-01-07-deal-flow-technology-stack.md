@@ -1,8 +1,16 @@
 ---
 title: "Deal Flow Technology Stack: The Integrated Systems Enabling Acquisition Excellence"
-date: "2026-01-07"
-author: "Alpha Architect"
+slug: "2026-01-07-deal-flow-technology-stack"
 description: "How deal flow technology stacks enable acquisition excellence that fragmented tools cannot achieve."
+date: "2026-01-07"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-07-deal-flow-technology-stack/"
+meta_title: "Deal Flow Technology Stack: The Integrated Systems Enabling Acquisition Excellence"
+meta_description: "How deal flow technology stacks enable acquisition excellence that fragmented tools cannot achieve."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Integration Imperative

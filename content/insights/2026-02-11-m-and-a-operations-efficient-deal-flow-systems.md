@@ -1,8 +1,16 @@
 ---
 title: "M&A Operations: Building Efficient Deal Flow Systems"
+slug: "2026-02-11-m-and-a-operations-efficient-deal-flow-systems"
+description: "M&A operations enable efficient deal flow through systematic processes. This intelligence briefing examines operational frameworks, technology systems, and performance management approaches that build sustainable oper…"
 date: "2026-02-11"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-11-m-and-a-operations-efficient-deal-flow-systems/"
+meta_title: "M&A Operations: Building Efficient Deal Flow Systems"
+meta_description: "M&A operations enable efficient deal flow through systematic processes. This intelligence briefing examines operational frameworks, technology systems, and performance management approaches that build sustainable oper…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "M&A operations enable efficient deal flow through systematic processes. This intelligence briefing examines operational frameworks, technology systems, and performance management approaches that build sustainable operational excellence."
 ---
 
 ## The Operations Imperative

@@ -1,8 +1,16 @@
 ---
 title: "M&A Pipeline: From Prospect to Closing"
-date: "2026-02-13"
-author: "Alpha Architect"
+slug: "2026-02-13-m-and-a-pipeline-prospect-to-closing"
 description: "M&A pipeline management converts prospects into closed transactions. This intelligence briefing examines pipeline stage design, conversion optimization, and performance management approaches that maximize close rates."
+date: "2026-02-13"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-13-m-and-a-pipeline-prospect-to-closing/"
+meta_title: "M&A Pipeline: From Prospect to Closing"
+meta_description: "M&A pipeline management converts prospects into closed transactions. This intelligence briefing examines pipeline stage design, conversion optimization, and performance management approaches that maximize close rates."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## Pipeline Architecture Fundamentals

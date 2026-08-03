@@ -1,8 +1,16 @@
 ---
 title: "AI Deal Systems: Machine Intelligence in M&A Execution"
+slug: "2025-12-12-ai-deal-systems-machine-intelligence-m-and-a"
+description: "Artificial intelligence transforms M&A processes from manual, intuition-driven workflows to systematic, data-powered systems. This intelligence briefing examines current AI applications in deal flow and emerging capab…"
 date: "2025-12-12"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-12-ai-deal-systems-machine-intelligence-m-and-a/"
+meta_title: "AI Deal Systems: Machine Intelligence in M&A Execution"
+meta_description: "Artificial intelligence transforms M&A processes from manual, intuition-driven workflows to systematic, data-powered systems. This intelligence briefing examines current AI applications in deal flow and emerging capab…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Artificial intelligence transforms M&A processes from manual, intuition-driven workflows to systematic, data-powered systems. This intelligence briefing examines current AI applications in deal flow and emerging capabilities that will define next-generation M&A technology."
 ---
 
 ## The Intelligence Inflection Point

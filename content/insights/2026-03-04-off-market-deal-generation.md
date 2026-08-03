@@ -1,8 +1,16 @@
 ---
 title: "Off-Market Deal Generation: The Infrastructure for Proprietary Acquisition"
-date: "2026-03-04"
-author: "Alpha Architect"
+slug: "2026-03-04-off-market-deal-generation"
 description: "How off-market infrastructure transforms deal generation from broker-dependent to proprietary operation."
+date: "2026-03-04"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-04-off-market-deal-generation/"
+meta_title: "Off-Market Deal Generation: The Infrastructure for Proprietary Acquisition"
+meta_description: "How off-market infrastructure transforms deal generation from broker-dependent to proprietary operation."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Broker Dependency Problem

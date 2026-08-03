@@ -1,8 +1,16 @@
 ---
 title: "M&A Technology Selection: Building the Modern Stack"
+slug: "2026-02-16-m-and-a-technology-selection-modern-stack"
+description: "M&A technology selection determines acquisition capability for years. This intelligence briefing examines selection frameworks, vendor evaluation approaches, and implementation practices that build effective technolog…"
 date: "2026-02-16"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-16-m-and-a-technology-selection-modern-stack/"
+meta_title: "M&A Technology Selection: Building the Modern Stack"
+meta_description: "M&A technology selection determines acquisition capability for years. This intelligence briefing examines selection frameworks, vendor evaluation approaches, and implementation practices that build effective technolog…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "M&A technology selection determines acquisition capability for years. This intelligence briefing examines selection frameworks, vendor evaluation approaches, and implementation practices that build effective technology stacks."
 ---
 
 ## The Selection Imperative

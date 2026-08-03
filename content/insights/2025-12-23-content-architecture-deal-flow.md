@@ -1,8 +1,16 @@
 ---
 title: "Content Architecture for Deal Flow: The Infrastructure Behind Buyer-Led Acquisition Systems"
-date: "2025-12-23"
-author: "Alpha Architect"
+slug: "2025-12-23-content-architecture-deal-flow"
 description: "How content systems create acquisition intelligence advantages that compound over deal cycles."
+date: "2025-12-23"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-23-content-architecture-deal-flow/"
+meta_title: "Content Architecture for Deal Flow: The Infrastructure Behind Buyer-Led Acquisition Systems"
+meta_description: "How content systems create acquisition intelligence advantages that compound over deal cycles."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Content Compounding Problem

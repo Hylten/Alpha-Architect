@@ -1,8 +1,16 @@
 ---
 title: "Deal Generation Technology: The Infrastructure for Sustainable Acquisition"
-date: "2026-01-14"
-author: "Alpha Architect"
+slug: "2026-01-14-deal-generation-technology"
 description: "How deal generation technology creates sustainable acquisition infrastructure."
+date: "2026-01-14"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-14-deal-generation-technology/"
+meta_title: "Deal Generation Technology: The Infrastructure for Sustainable Acquisition"
+meta_description: "How deal generation technology creates sustainable acquisition infrastructure."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Sustainability Imperative

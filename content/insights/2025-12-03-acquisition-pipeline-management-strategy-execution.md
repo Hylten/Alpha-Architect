@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Pipeline Management: From Strategy to Execution"
-date: "2025-12-03"
-author: "Alpha Architect"
+slug: "2025-12-03-acquisition-pipeline-management-strategy-execution"
 description: "Acquisition pipeline management converts strategy into transaction outcomes. This intelligence briefing examines pipeline architecture, management practices, and optimization approaches that maximize acquisition success."
+date: "2025-12-03"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-03-acquisition-pipeline-management-strategy-execution/"
+meta_title: "Acquisition Pipeline Management: From Strategy to Execution"
+meta_description: "Acquisition pipeline management converts strategy into transaction outcomes. This intelligence briefing examines pipeline architecture, management practices, and optimization approaches that maximize acquisition success."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## Pipeline Management Foundation

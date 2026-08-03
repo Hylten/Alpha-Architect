@@ -1,8 +1,16 @@
 ---
 title: "Buyer-Led Acquisition Systems: The Framework Transforming M&A Execution"
-date: "2025-12-19"
-author: "Alpha Architect"
+slug: "2025-12-19-buyer-led-acquisition-systems"
 description: "How buyer-led acquisition systems transform M&A from seller-driven process to proactive opportunity development."
+date: "2025-12-19"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-19-buyer-led-acquisition-systems/"
+meta_title: "Buyer-Led Acquisition Systems: The Framework Transforming M&A Execution"
+meta_description: "How buyer-led acquisition systems transform M&A from seller-driven process to proactive opportunity development."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Seller-Driven Paradigm

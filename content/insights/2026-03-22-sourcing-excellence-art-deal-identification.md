@@ -1,8 +1,16 @@
 ---
 title: "Sourcing Excellence: The Art of Deal Identification"
+slug: "2026-03-22-sourcing-excellence-art-deal-identification"
+description: "Sourcing excellence determines acquisition program outcomes before transactions begin. This intelligence briefing examines systematic approaches to deal identification, the capabilities that enable superior sourcing,…"
 date: "2026-03-22"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-03-22-sourcing-excellence-art-deal-identification/"
+meta_title: "Sourcing Excellence: The Art of Deal Identification"
+meta_description: "Sourcing excellence determines acquisition program outcomes before transactions begin. This intelligence briefing examines systematic approaches to deal identification, the capabilities that enable superior sourcing,…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Sourcing excellence determines acquisition program outcomes before transactions begin. This intelligence briefing examines systematic approaches to deal identification, the capabilities that enable superior sourcing, and the operational practices that build sustainable deal flow."
 ---
 
 ## The Sourcing Imperative

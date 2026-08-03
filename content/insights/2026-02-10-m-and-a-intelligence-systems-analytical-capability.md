@@ -1,8 +1,16 @@
 ---
 title: "M&A Intelligence Systems: Building Analytical Capability"
-date: "2026-02-10"
-author: "Alpha Architect"
+slug: "2026-02-10-m-and-a-intelligence-systems-analytical-capability"
 description: "M&A intelligence systems enable data-driven deal management. This intelligence briefing examines infrastructure development, analytical frameworks, and operational practices that build superior analytical capability."
+date: "2026-02-10"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-10-m-and-a-intelligence-systems-analytical-capability/"
+meta_title: "M&A Intelligence Systems: Building Analytical Capability"
+meta_description: "M&A intelligence systems enable data-driven deal management. This intelligence briefing examines infrastructure development, analytical frameworks, and operational practices that build superior analytical capability."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Intelligence Imperative

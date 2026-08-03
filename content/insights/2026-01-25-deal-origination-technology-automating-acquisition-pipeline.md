@@ -1,8 +1,16 @@
 ---
 title: "Deal Origination Technology: Automating the Acquisition Pipeline"
+slug: "2026-01-25-deal-origination-technology-automating-acquisition-pipeline"
+description: "Deal origination technology automates sourcing and pipeline building. This intelligence briefing examines technology categories, implementation approaches, and operational practices that build effective origination au…"
 date: "2026-01-25"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-25-deal-origination-technology-automating-acquisition-pipeline/"
+meta_title: "Deal Origination Technology: Automating the Acquisition Pipeline"
+meta_description: "Deal origination technology automates sourcing and pipeline building. This intelligence briefing examines technology categories, implementation approaches, and operational practices that build effective origination au…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Deal origination technology automates sourcing and pipeline building. This intelligence briefing examines technology categories, implementation approaches, and operational practices that build effective origination automation."
 ---
 
 ## The Automation Opportunity

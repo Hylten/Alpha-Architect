@@ -1,8 +1,16 @@
 ---
 title: "M&A Deal Flow Systems: The Technology Creating Sustainable Competitive Advantages"
-date: "2026-02-21"
-author: "Alpha Architect"
+slug: "2026-02-21-ma-deal-flow-systems"
 description: "How M&A deal flow systems create sustainable competitive advantages."
+date: "2026-02-21"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-21-ma-deal-flow-systems/"
+meta_title: "M&A Deal Flow Systems: The Technology Creating Sustainable Competitive Advantages"
+meta_description: "How M&A deal flow systems create sustainable competitive advantages."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Competitive Imperative

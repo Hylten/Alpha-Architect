@@ -1,8 +1,16 @@
 ---
 title: "Deal Pipeline Optimization: The Analytics Framework for Acquisition Excellence"
-date: "2026-01-29"
-author: "Alpha Architect"
+slug: "2026-01-29-deal-pipeline-optimization"
 description: "How analytics frameworks optimize deal pipeline from intuition-based management to systematic performance improvement."
+date: "2026-01-29"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-29-deal-pipeline-optimization/"
+meta_title: "Deal Pipeline Optimization: The Analytics Framework for Acquisition Excellence"
+meta_description: "How analytics frameworks optimize deal pipeline from intuition-based management to systematic performance improvement."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Intuition Problem

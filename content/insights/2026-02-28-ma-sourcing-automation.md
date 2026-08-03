@@ -1,8 +1,16 @@
 ---
 title: "M&A Sourcing Automation: The Technology Scaling Target Identification"
-date: "2026-02-28"
-author: "Alpha Architect"
+slug: "2026-02-28-ma-sourcing-automation"
 description: "How M&A sourcing automation scales target identification beyond human limitations."
+date: "2026-02-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-02-28-ma-sourcing-automation/"
+meta_title: "M&A Sourcing Automation: The Technology Scaling Target Identification"
+meta_description: "How M&A sourcing automation scales target identification beyond human limitations."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Scaling Imperative

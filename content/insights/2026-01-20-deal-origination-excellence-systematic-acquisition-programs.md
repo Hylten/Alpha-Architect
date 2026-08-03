@@ -1,8 +1,16 @@
 ---
 title: "Deal Origination Excellence: Building Systematic Acquisition Programs"
+slug: "2026-01-20-deal-origination-excellence-systematic-acquisition-programs"
+description: "Deal origination excellence determines acquisition program outcomes. This intelligence briefing examines strategic frameworks, operational practices, and capability development approaches that build sustainable origin…"
 date: "2026-01-20"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-01-20-deal-origination-excellence-systematic-acquisition-programs/"
+meta_title: "Deal Origination Excellence: Building Systematic Acquisition Programs"
+meta_description: "Deal origination excellence determines acquisition program outcomes. This intelligence briefing examines strategic frameworks, operational practices, and capability development approaches that build sustainable origin…"
+featured_image: ""
+draft: false
 author: "Alpha Architect"
-description: "Deal origination excellence determines acquisition program outcomes. This intelligence briefing examines strategic frameworks, operational practices, and capability development approaches that build sustainable origination programs."
 ---
 
 ## The Origination Excellence Imperative

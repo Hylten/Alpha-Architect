@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Automation Technology: The Systems Multiplying Deal Flow"
-date: "2025-11-22"
-author: "Alpha Architect"
+slug: "2025-11-22-acquisition-automation-technology"
 description: "How acquisition automation technology multiplies deal flow beyond human limitations."
+date: "2025-11-22"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-11-22-acquisition-automation-technology/"
+meta_title: "Acquisition Automation Technology: The Systems Multiplying Deal Flow"
+meta_description: "How acquisition automation technology multiplies deal flow beyond human limitations."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Multiplication Imperative

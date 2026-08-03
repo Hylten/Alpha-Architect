@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Intelligence Platforms: The Unified Systems Transforming Deal Flow"
-date: "2025-11-28"
-author: "Alpha Architect"
+slug: "2025-11-28-acquisition-intelligence-platforms"
 description: "How unified acquisition intelligence platforms transform deal flow from fragmented tools to integrated systems."
+date: "2025-11-28"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-11-28-acquisition-intelligence-platforms/"
+meta_title: "Acquisition Intelligence Platforms: The Unified Systems Transforming Deal Flow"
+meta_description: "How unified acquisition intelligence platforms transform deal flow from fragmented tools to integrated systems."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Integration Imperative

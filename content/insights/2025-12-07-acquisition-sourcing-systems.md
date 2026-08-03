@@ -1,8 +1,16 @@
 ---
 title: "Acquisition Sourcing Systems: The Technology Finding Targets Efficiently"
-date: "2025-12-07"
-author: "Alpha Architect"
+slug: "2025-12-07-acquisition-sourcing-systems"
 description: "How acquisition sourcing systems transform target identification from manual research to automated intelligence."
+date: "2025-12-07"
+tags: []
+categories: ["Insights"]
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2025-12-07-acquisition-sourcing-systems/"
+meta_title: "Acquisition Sourcing Systems: The Technology Finding Targets Efficiently"
+meta_description: "How acquisition sourcing systems transform target identification from manual research to automated intelligence."
+featured_image: ""
+draft: false
+author: "Alpha Architect"
 ---
 
 ## The Research Bottleneck
