@@ -189,6 +189,7 @@ async function generateSEO() {
   for (const file of files) {
     const raw = fs.readFileSync(path.join(CONTENT_DIR, file), 'utf8');
     const { data, content } = matter(raw);
+    if (data.draft === true) continue;
     const slug = data.slug || file.replace('.md', '');
     const title = data.title || 'Insight';
     const description = data.description || '';
@@ -479,6 +480,7 @@ async function generateSEO() {
   for (const file of files) {
     const raw = fs.readFileSync(path.join(CONTENT_DIR, file), 'utf8');
     const { data } = matter(raw);
+    if (data.draft === true) continue;
     const slug = data.slug || file.replace('.md', '');
     const date = data.date || today;
     sitemapUrls += `
