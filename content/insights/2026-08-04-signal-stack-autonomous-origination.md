@@ -1,11 +1,11 @@
 ---
 title: "The Signal Stack: How Autonomous Origination Replaces Broker Dependence"
-slug: "signal-stack-autonomous-origination"
+slug: "2026-08-04-signal-stack-autonomous-origination"
 description: "Institutional memo on the signal stack: how data scraping, autonomous agents, and terminal-based execution convert market noise into proprietary deal flow before brokers see it."
 date: "2026-08-04"
 tags: ["Deal Origination", "Autonomous Agents", "GTM Engineering"]
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/signal-stack-autonomous-origination/"
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-08-04-signal-stack-autonomous-origination/"
 meta_title: "The Signal Stack: Autonomous Origination Replaces Broker Dependence"
 meta_description: "Institutional memo on the signal stack: data scraping, autonomous agents, and terminal-based execution converting market noise into proprietary deal flow."
 featured_image: ""
