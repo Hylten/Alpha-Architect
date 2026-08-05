@@ -57,8 +57,8 @@ function validateArticleDates() {
 
 function copyVCard() {
   ensureDir(DIST_DIR);
-  // Copy root VCard files to dist (index.html, profile.jpg, jonas-hylten.vcf)
-  const filesToCopy = ['index.html', 'profile.png', 'jonas-hylten.vcf'];
+  // Copy root VCard files to dist (index.html, profile.png, script.js, jonas-hylten.vcf)
+  const filesToCopy = ['index.html', 'profile.png', 'script.js', 'jonas-hylten.vcf'];
   for (const f of filesToCopy) {
     const src = path.join(ROOT_DIR, f);
     if (fs.existsSync(src)) {
