@@ -9,8 +9,8 @@ window.addEventListener('load', function() {
 
 document.getElementById('shareBtn').addEventListener('click', async () => {
   const shareData = {
-    title: 'Jonas Hyltén | Fractional GP',
-    text: 'Institutional Origination & Sovereign Alpha Architecture',
+    title: 'Jonas Hyltén | Fractional Deal Principal',
+    text: 'Off-market M&A origination and acquisition execution for family offices and private capital groups.',
     url: window.location.href
   };
   if (navigator.share) {
@@ -66,60 +66,6 @@ legalModal.addEventListener('click', (e) => {
   if (e.target === legalModal) {
     legalModal.classList.remove('active');
   }
-});
-
-const capabilitiesToggle = document.getElementById('capabilitiesToggle');
-const capabilitiesContent = document.getElementById('capabilitiesContent');
-const capabilitiesIcon = document.getElementById('capabilitiesIcon');
-
-if(capabilitiesToggle) {
-  capabilitiesToggle.addEventListener('click', () => {
-    capabilitiesContent.classList.toggle('open');
-    capabilitiesIcon.innerText = capabilitiesContent.classList.contains('open') ? '-' : '+';
-  });
-}
-
-const mandateToggle = document.getElementById('mandateToggle');
-const mandateContent = document.getElementById('mandateContent');
-const mandateIcon = document.getElementById('mandateIcon');
-
-if(mandateToggle) {
-  mandateToggle.addEventListener('click', () => {
-    mandateContent.classList.toggle('open');
-    mandateIcon.innerText = mandateContent.classList.contains('open') ? '-' : '+';
-  });
-}
-
-const legacyToggle = document.getElementById('legacyToggle');
-const legacyContent = document.getElementById('legacyContent');
-const legacyIcon = document.getElementById('legacyIcon');
-
-if(legacyToggle) {
-  legacyToggle.addEventListener('click', () => {
-    legacyContent.classList.toggle('open');
-    legacyIcon.innerText = legacyContent.classList.contains('open') ? '-' : '+';
-  });
-}
-
-function toggleInquiry(el) {
-  el.classList.toggle('active');
-}
-
-function handleLinkedInClick(element, delay) {
-  const url = element.href;
-  const overlay = document.getElementById('linkOverlay');
-  overlay.classList.add('active');
-
-  setTimeout(() => {
-    overlay.classList.remove('active');
-    window.open(url, '_blank');
-  }, delay);
-
-  return false;
-}
-
-document.querySelectorAll('[data-toggle-inquiry]').forEach(el => {
-  el.addEventListener('click', function() { toggleInquiry(this); });
 });
 
 document.querySelectorAll('[data-hover-color]').forEach(el => {
