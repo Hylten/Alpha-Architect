@@ -442,6 +442,14 @@
             display: none;
         }
 
+        .comp-item a h4 {
+            transition: var(--transition);
+        }
+
+        .comp-item a:hover h4 {
+            color: var(--accent);
+        }
+
         @media (min-width: 1024px) {
             .capabilities-grid .comp-item:not(:last-child)::after {
                 display: block;
@@ -865,7 +873,7 @@
                 </div>
                 <div class="comp-item">
                     <div class="comp-status">[04]</div>
-                    <h4>GTM-Engineered Investor Outreach</h4>
+                    <a href="https://hylten.github.io/Alpha/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><h4>GTM-Engineered Investor Outreach</h4></a>
                 </div>
             </div>
         </div>
