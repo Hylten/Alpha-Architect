@@ -89,7 +89,7 @@ Strategic fit frameworks evaluate acquisition alignment with portfolio objective
 
 Integration frameworks assess combination complexity and execution requirements. Synergy analysis quantifies value creation potential from operational combination. Integration planning identifies key workstreams and critical path activities. Risk assessment reveals execution challenges requiring proactive management. The integration framework predicts success probability and value realization timeline.
 
-## Sammanfattning
+## Summary
 
 Acquisition intelligence transforms deal making from intuition to data-driven process. Target intelligence provides comprehensive understanding of potential acquisitions. Market intelligence provides context for deal decisions. Deal-specific intelligence addresses particular transaction requirements.
 

@@ -119,7 +119,7 @@ Export integration pushes insights to downstream systems that decision-making re
 
 The integration architecture connects analytics insights to deal flow operations. The connection ensures systematic intelligence informs all acquisition decisions.
 
-## Sammanfattning
+## Summary
 
 Deal flow analytics platforms transform acquisition from intuition to evidence-based operation. Target intelligence improves selection precision that gut feeling cannot match. Engagement intelligence optimizes outreach effectiveness that arbitrary choices cannot achieve. Pipeline intelligence enables proactive management that reactive response cannot support. Performance intelligence drives team optimization that informal assessment cannot provide. Predictive intelligence forecasts outcomes systematically that uncertain estimation cannot generate.
 

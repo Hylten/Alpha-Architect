@@ -73,7 +73,7 @@ The ROI of deal flow systems demonstrates compelling economics. Investment for c
 
 The competitive implications extend beyond individual deal performance. Funds implementing systematic deal flow demonstrate 15-20% IRR advantages over holding periods. The advantage compounds across portfolio companies. Investor communications improve with forecast accuracy. Limited partner confidence increases. Fundraising capabilities strengthen. The multi-dimensional returns justify deal flow systems investment.
 
-## Sammanfattning
+## Summary
 
 M&A deal flow systems create sustainable competitive advantages through three mechanisms. Continuous monitoring identifies 340% more targets than periodic research generating 180+ qualified monthly opportunities without broker dependency with 15-25% pricing advantage. Intelligent processing transforms signals to intelligence at 4.2-minute velocity enabling 500+ monthly capacity reducing cost per qualified opportunity from SEK 45,000 to SEK 8,200 with 12% improvement in conversion through standardized qualification. Systematic engagement generates 23% response rates versus 4% for tactical outreach converting 34% more prospects to signed deals translating to 42 qualified conversations monthly with 34% higher close rates. The 4x gap in deal flow (23 versus 6 monthly opportunities) translates to 15-20% IRR differential over holding periods. System implementation over 36 months generates 287 total deal flow, 23 closed transactions at 31% conversion, and 18.4% portfolio IRR versus 11.2% for tactical competitors translating to SEK 340 million in additional value creation. The components enable programs that tactical approaches cannot achieve.
 

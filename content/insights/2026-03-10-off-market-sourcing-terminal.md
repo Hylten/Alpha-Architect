@@ -153,7 +153,7 @@ Security infrastructure protects sensitive prospect and deal information. The ar
 
 The system architecture enables continuous operation without human supervision. The infrastructure supports autonomous execution that manual systems cannot match.
 
-## Sammanfattning
+## Summary
 
 Off-market sourcing requires infrastructure that autonomous terminal systems provide. The command-line interface executes targeting, enrichment, outreach, and qualification without browser-based friction. Signal detection identifies motivated sellers before formal processes begin. Qualification routing ensures human attention focuses on highest-probability opportunities.
 

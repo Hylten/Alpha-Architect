@@ -97,7 +97,7 @@ API optimization maximizes provider utilization efficiently. The framework batch
 
 Queue prioritization allocates resources to highest-value activities. The framework ensures critical operations complete during demand surges through priority queues. The framework maintains responsiveness under load through autoscaling configuration. The prioritization ensures deal-critical processes receive resources first. Queue architecture enabled processing 5x targets during peak periods without degradation.
 
-## Sammanfattning
+## Summary
 
 M&A technology infrastructure transforms acquisition from manual operations to automated systems. Data infrastructure creates unified target records through multi-source aggregation and real-time streaming. Intelligence infrastructure generates actionable insights through predictive scoring and signal detection. Automation infrastructure executes outreach efficiently through email, phone, and LinkedIn automation. Pipeline visibility enables evidence-based management through stage tracking and conversion analytics. Integration architecture connects components seamlessly through API, event, and terminal integration. Scaling framework ensures infrastructure matches growth through horizontal scaling, API optimization, and queue prioritization.
 

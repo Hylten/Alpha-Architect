@@ -119,7 +119,7 @@ Model refinement applies outcome data to prediction algorithms that improve with
 
 The continuous improvement system generates compounding advantages. Each cycle refines understanding that subsequent cycles leverage. The compounding effect produces capabilities that competitors cannot replicate quickly.
 
-## Sammanfattning
+## Summary
 
 Integrated deal origination transforms acquisition through unified platform architecture. Data integration consolidates fragmented information into unified records. Intelligence processing generates actionable insights from consolidated data. Engagement orchestration executes systematically based on insights. Pipeline management tracks flow from signal to close. Analytics dashboards transform data into actionable visualization.
 

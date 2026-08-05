@@ -149,7 +149,7 @@ Competitive sensitivity review ensures content does not reveal proprietary strat
 
 Brand voice review ensures content maintains consistent quality and positioning. Review identifies deviations from established standards. Consistency builds audience trust through predictable communication.
 
-## Sammanfattning
+## Summary
 
 Content architecture for buyer-led acquisition creates infrastructure advantages that compound over deal cycles. Systematic content production generates market intelligence, maintains relationships, and supports deal execution without equivalent investments from competitors.
 

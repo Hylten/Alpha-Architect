@@ -73,7 +73,7 @@ The ROI of automation technology demonstrates compelling economics. Investment f
 
 The competitive implications extend beyond individual deal performance. Funds implementing automation demonstrate 15-20% IRR advantages over holding periods. The advantage compounds across portfolio companies. Investor communications improve with forecast accuracy. Limited partner confidence increases. Fundraising capabilities strengthen. The multi-dimensional returns justify automation investment.
 
-## Sammanfattning
+## Summary
 
 Acquisition automation technology multiplies deal flow beyond human limitations through exponential rather than linear scaling. Signal monitoring processes 47,000 daily events generating 180+ qualified targets monthly versus 15-20 for manual approaches requiring 1,200 hours monthly at SEK 10.2 million cost. Processing transforms at 4.2-minute velocity achieving 140+ daily targets versus 6-8 for human analysts reducing cost per qualified opportunity from SEK 45,000 to SEK 8,200 with 12% improvement in qualification consistency. Engagement executes 6-touch multi-channel sequences generating 23% response rates versus 4% for sporadic outreach with 34% higher close rates translating to 42 qualified conversations monthly. The technology achieves 287 annual opportunities versus 68 for competitors, 23 annual closes versus 9, and SEK 2.1 billion acquisition volume versus SEK 640 million at 60% lower cost per deal. The components enable programs that linear approaches cannot sustain.
 

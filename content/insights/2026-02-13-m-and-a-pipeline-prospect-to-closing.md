@@ -85,7 +85,7 @@ Definitive agreement negotiation finalizes transaction terms that closing requir
 
 Closing execution completes the transaction through coordinated effort through execution. Financing confirmation ensures funds availability through confirmation. Regulatory approval satisfies conditions through approval. Closing deliverables satisfy requirements through satisfaction. The closing phase requires project management discipline that coordination failures disrupt through disruption.
 
-## Sammanfattning
+## Summary
 
 M&A pipeline management converts prospects to closed transactions through defined phases through management. Research and identification establish target quality through research. Outreach and qualification generate active pipeline through qualification. Relationship development builds trust and explores possibilities through development. Evaluation and structuring assess and price opportunities through evaluation. Transaction execution completes legal and financial processes through execution.
 

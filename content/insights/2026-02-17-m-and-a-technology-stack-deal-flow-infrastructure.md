@@ -111,7 +111,7 @@ Deal flow quality metrics assess signal relevance, relationship strength, and de
 
 Competitive positioning metrics track deal flow share and win rates against competitors. Proprietary deal flow percentage. First-mover advantage in target engagement. Win rates in competitive processes. These metrics demonstrate market position impact from infrastructure investments.
 
-## Sammanfattning
+## Summary
 
 M&A technology infrastructure determines competitive positioning in deal flow markets. Firms that invest in signal ingestion, relationship management, and execution automation build sustainable advantages that compound over time.
 

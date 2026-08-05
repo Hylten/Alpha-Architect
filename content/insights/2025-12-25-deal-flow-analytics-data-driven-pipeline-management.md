@@ -95,7 +95,7 @@ Update frequency should match decision cadence. Daily metrics require daily upda
 
 Drill-down capability enables investigation beyond summary views. Aggregate metrics identify problems. Detailed views reveal causes. The drill-down capability enables root cause identification that summary views prevent.
 
-## Sammanfattning
+## Summary
 
 Deal flow analytics enables data-driven pipeline management. Analytics infrastructure provides the foundation for analytical capability. Metric frameworks structure measurement for actionable insight. Performance measurement enables management and improvement. Analytical practices enable consistent value extraction from data. Dashboard design translates analytics into actionable intelligence.
 

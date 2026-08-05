@@ -119,7 +119,7 @@ Best practice extraction identifies effective workflow patterns from outcome dat
 
 The continuous learning integration generates compounding workflow intelligence. The intelligence improves automation effectiveness that static configuration cannot achieve.
 
-## Sammanfattning
+## Summary
 
 Workflow automation transforms deal origination from manual coordination to autonomous operation. Signal-to-outreach pipelines convert market signals into acquisition conversations automatically. Engagement optimization workflows generate continuous improvement through systematic testing. Qualification routing ensures human attention focuses efficiently. Pipeline management enables systematic deal flow operation.
 

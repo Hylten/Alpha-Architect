@@ -151,7 +151,7 @@ AI integration enables natural language interaction with deal flow systems. The 
 
 The integration architecture enables autonomous operation that manual coordination cannot sustain. The architecture connects components into unified systems that generate compound advantages.
 
-## Sammanfattning
+## Summary
 
 Proprietary deal flow requires infrastructure that converts data into actionable intelligence. Signal processing identifies motivated sellers before broker involvement. Outreach infrastructure executes engagement sequences at scale. Qualification funnel routes human attention to highest-probability opportunities.
 

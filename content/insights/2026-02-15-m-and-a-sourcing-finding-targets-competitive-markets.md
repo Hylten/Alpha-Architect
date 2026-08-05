@@ -99,7 +99,7 @@ Alternative development provides fallback options that reduce competitive urgenc
 
 Competitive response preparation anticipates competitor actions. Intelligence on competitor strategies, valuation approaches, and relationship networks informs defense planning. The preparation enables proactive defense rather than reactive scrambling.
 
-## Sammanfattning
+## Summary
 
 M&A sourcing operates in increasingly competitive markets. Systematic identification reveals opportunities that casual searching misses. Relationship-first sourcing builds connections before transaction interest emerges. Competitive differentiation attracts targets facing multiple options.
 

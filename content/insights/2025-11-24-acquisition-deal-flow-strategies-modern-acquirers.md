@@ -119,7 +119,7 @@ Technology investment requires careful selection. Research tools, outreach platf
 
 Skill development requires training investment. Research skills, analytical skills, and engagement skills develop through practice. The skill investment improves decision quality.
 
-## Sammanfattning
+## Summary
 
 Acquisition deal flow requires systematic strategies in competitive markets. Sourcing channel strategy combines multiple approaches for comprehensive coverage. Target identification systems reveal opportunities systematically. Relationship development converts targets to prospects. Pipeline management ensures systematic optimization. Competitive positioning attracts targets facing multiple options.
 

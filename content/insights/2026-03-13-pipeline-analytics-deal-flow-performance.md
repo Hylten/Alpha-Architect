@@ -97,7 +97,7 @@ Comparison context enables metric interpretation that understanding requires. Cu
 
 Alert thresholds should trigger when metrics fall outside acceptable ranges through detection. Thresholds should reflect statistical significance, not arbitrary round numbers through precision. Alert fatigue destroys alert value through exhaustion; thresholds should minimize false positives through calibration.
 
-## Sammanfattning
+## Summary
 
 Pipeline analytics enable systematic deal flow improvement through measurement. Funnel architecture defines what gets measured through structure. Conversion analysis reveals bottlenecks through analysis. Velocity metrics track pipeline efficiency through timing. Attribution connects outcomes to activities through tracking. Predictive models enable forecasting through estimation. Dashboards translate data into decisions through visualization.
 

@@ -99,7 +99,7 @@ Signal-to-deal pipelines extend automation across the acquisition workflow. Sign
 
 Terminal execution extends integration beyond internal systems. CRM platforms receive opportunity data automatically. Finance systems receive economic data automatically. Portfolio systems receive performance data automatically. The integration creates unified operations that fragmented tools cannot achieve.
 
-## Sammanfattning
+## Summary
 
 Modern deal flow technology transforms acquisition programs from manual to automated through integrated stack. Data systems aggregate comprehensive information from commercial databases, regulatory filings, and engagement platforms creating 2.3 million company records with 47 variables and 89% accuracy through API integration with 5+ Swedish data providers at SEK 2.4 million annual cost. Intelligence systems generate actionable insights through machine learning models achieving 23% better targeting precision, signal detection processing 47,000 daily events generating 180+ qualified targets monthly, and pattern recognition identifying seasonal variations and sector trends enabling resource optimization. Automation systems execute engagement continuously through 6-touch email sequences, LinkedIn engagement, and calling orchestration achieving 23% response rates and 34% higher close rates translating to 42 qualified conversations monthly. Integration systems connect components seamlessly through real-time API connections, event triggers, and workflow automation reducing operational friction by 80%. The stack enables programs that legacy technology cannot support with 287 annual opportunities versus 68, 31% close rate versus 14%, and 18.4% portfolio IRR versus 12.1% generating SEK 340 million in additional value over 36 months.
 

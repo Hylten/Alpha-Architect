@@ -107,7 +107,7 @@ Alert dashboards highlight exceptions requiring attention. The framework shows m
 
 The dashboard architecture transforms analytics into actionable visualization. The transformation enables decisions that raw data cannot support.
 
-## Sammanfattning
+## Summary
 
 Analytics frameworks transform M&A from intuition to evidence-based decisions. Target analytics improves selection precision through historical, segment, and velocity analysis. Engagement analytics optimizes outreach effectiveness through channel, timing, and content analysis. Pipeline analytics enables proactive management through stage, velocity, and forecast analysis. Performance analytics drives team optimization through activity, effectiveness, and outcome analysis. Predictive analytics forecasts outcomes systematically through pipeline forecasting, target scoring, and risk identification. Dashboard architecture enables rapid comprehension through real-time, trend, and alert visualization.
 

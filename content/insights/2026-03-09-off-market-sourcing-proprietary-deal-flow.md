@@ -77,7 +77,7 @@ Strategic value creation requires market intelligence infrastructure that target
 
 Relational value creation requires extensive network relationships across target ecosystems through relationship. Connection to potential acquirers through connection. Connection to relevant advisors and service providers through provider. Connection to talent pools and partnership opportunities through opportunity. These relationships provide ongoing value that maintains platform engagement between transaction opportunities through maintenance.
 
-## Sammanfattning
+## Summary
 
 Proprietary deal flow represents the most significant competitive advantage available in M&A through advantage. The economics favor firms that systematically develop direct sourcing capabilities over firms dependent on intermediary relationships through favor.
 

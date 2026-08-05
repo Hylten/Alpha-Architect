@@ -85,7 +85,7 @@ The ROI of analytics implementation demonstrates compelling economics. Infrastru
 
 The competitive implications extend beyond individual deal performance. Funds implementing systematic analytics demonstrate 15-20% IRR advantages over holding periods. The advantage compounds across portfolio companies. Investor communications improve with forecast accuracy. Limited partner confidence increases. Fundraising capabilities strengthen. The multi-dimensional returns justify analytics investment.
 
-## Sammanfattning
+## Summary
 
 Deal origination analytics drive data-driven acquisitions that intuition-based approaches cannot achieve. Targeting analytics evaluate selection through historical patterns. Engagement analytics optimize outreach through systematic measurement. Outcome analytics learn from results through systematic feedback. The components enable programs that intuition-based approaches cannot achieve.
 

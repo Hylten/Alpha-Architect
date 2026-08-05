@@ -85,7 +85,7 @@ Cultural compatibility analysis identifies integration risks before they materia
 
 Day one readiness systems ensure critical integration activities complete before closing through readiness. Checklist management, document preparation, and system access provisioning execute through automated workflows through execution. The complexity of day one activities exceeds human coordination capacity; AI systems handle the coordination that prevents post-close disruption through handling.
 
-## Sammanfattning
+## Summary
 
 AI systems transform M&A from artisanal process to industrial system through transformation. Document intelligence reduces diligence burden through reduction. Signal detection expands deal flow visibility through visibility. Valuation modeling improves pricing accuracy through accuracy. Origination automation increases sourcing efficiency through efficiency. Integration planning reduces execution risk through reduction.
 

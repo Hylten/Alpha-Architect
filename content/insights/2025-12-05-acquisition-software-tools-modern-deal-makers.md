@@ -121,7 +121,7 @@ Total cost assessment captures full investment required. Licensing costs represe
 
 Implementation planning ensures successful deployment. Data migration, user training, and integration development require appropriate resources. The planning approach affects adoption and value realization.
 
-## Sammanfattning
+## Summary
 
 Acquisition software enables modern deal flow management. CRM platforms form the operational foundation. Research tools enable efficient investigation. Outreach platforms execute engagement at scale. Due diligence platforms manage document review. Integration tools connect components into coherent stacks.
 

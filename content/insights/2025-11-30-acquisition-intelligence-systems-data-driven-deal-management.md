@@ -91,7 +91,7 @@ Prescriptive analysis recommends specific actions through recommendation. Resour
 
 Continuous improvement maintains analytical effectiveness through improvement. Feedback on analytical accuracy, relevance, and actionability informs refinement through feedback. The improvement discipline ensures analytical capability evolves with organizational needs through evolution. Swedish analytics programs demonstrate 40% improvement in deal quality through systematic intelligence.
 
-## Sammanfattning
+## Summary
 
 Acquisition intelligence systems enable data-driven deal management through systematic analysis. Intelligence infrastructure provides the foundation for analytical capability through foundation. Analytical frameworks structure intelligence work for actionable insight through structure. Measurement and analytics enable data-driven management through measurement. Dashboard and reporting systems translate intelligence into actionable information through translation. Analytical practices enable consistent value extraction through practice.
 

@@ -103,7 +103,7 @@ Cost metrics track efficiency achievement. Cost per contact, cost per meeting, a
 
 Trend analysis tracks improvement over time. Improving metrics indicate effective refinement. Declining metrics indicate emerging problems. The trend analysis maintains awareness of program evolution.
 
-## Sammanfattning
+## Summary
 
 Deal origination automation transforms sourcing from manual process to efficient pipeline. Research automation eliminates investigation effort. Outreach automation executes engagement sequences. CRM integration connects automation to relationship management. Personalization at scale balances efficiency against relationship quality.
 

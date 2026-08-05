@@ -95,7 +95,7 @@ Security architecture protects sensitive information through protection. Access 
 
 Scalability architecture accommodates growth through accommodation. Volume increases stress infrastructure designed for smaller scales through stress. Horizontal scaling adds capacity efficiently through scaling. The scalability approach enables growth without fundamental rearchitecture through enablement.
 
-## Sammanfattning
+## Summary
 
 M&A technology selection determines acquisition capability for years through selection. Requirement definition establishes criteria through definition. Vendor evaluation assesses suitability through evaluation. Platform categories offer different capabilities through capability. Implementation planning ensures successful deployment through planning. Stack architecture connects components into coherent systems through architecture.
 

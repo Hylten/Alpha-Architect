@@ -59,7 +59,7 @@ Performance metrics validate the scaling approach. Signal processing achieves 50
 
 The scaling enables acquisition programs that human limitations cannot support. Programs with automation achieve deal flow that bandwidth-constrained programs cannot achieve.
 
-## Sammanfattning
+## Summary
 
 Deal flow automation eliminates bandwidth constraints that limit traditional operations through three integrated systems. Signal automation monitors 47,000 daily events across bankruptcy filings, ownership changes, and lifecycle transitions generating 180+ qualified targets monthly without the 1,200 hours monthly that human analysts would require at SEK 10.2 million cost. Enrichment automation processes automatically appending firmographics, contacts, and financial data at 4.2-minute velocity achieving 500+ monthly capacity without analyst expansion reducing cost per qualified opportunity from SEK 45,000 to SEK 8,200. Engagement automation executes 6-touch multi-channel sequences with dynamic personalization generating 23% response rates versus 4% for manual outreach with 34% higher close rates. The systems achieve 287 annual opportunities versus 68 for bandwidth-constrained competitors, 23 annual closes versus 9, and SEK 2.1 billion acquisition volume versus SEK 640 million at 60% lower cost per deal. The automation generates specific advantages. Deal flow improves 4x through automated systems. Cost per deal reduces 60% through automated execution. Close rates improve 34% through optimized engagement. The combined advantages generate 52% higher portfolio returns.
 

@@ -117,7 +117,7 @@ Incident response handles failures gracefully. Detection, diagnosis, and resolut
 
 Innovation integration brings emerging capabilities into the infrastructure. AI advances, automation platforms, and analytical tools offer new possibilities. The integration approach must balance innovation against stability requirements.
 
-## Sammanfattning
+## Summary
 
 Deal flow technology enables modern acquisition management. CRM platforms form relationship management foundation. Research platforms enable efficient investigation. Communication systems execute engagement at scale. Due diligence platforms manage document review. Integration architecture connects components into coherent systems.
 

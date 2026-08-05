@@ -131,7 +131,7 @@ Innovation capability develops through sustainability-driven R&D investments. In
 
 Talent acquisition advantage emerges from employer brand positioning. Sustainability-focused companies attract employees who prefer purposeful work. Workforce quality affects operational execution capability.
 
-## Sammanfattning
+## Summary
 
 ESG decision-maker prospecting requires infrastructure designed for the structural complexity of sustainability organizations. Signal detection framework must aggregate across multiple data streams, resolve entity ambiguities, and maintain real-time accuracy as organizations evolve.
 

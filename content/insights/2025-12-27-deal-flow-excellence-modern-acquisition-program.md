@@ -93,7 +93,7 @@ Benchmark comparison reveals relative performance through comparison. Internal b
 
 Knowledge management preserves insights from experience through management. Deal lessons inform future approaches through lesson. Market observations inform targeting through observation. Process insights inform optimization through optimization. The management discipline ensures institutional learning through learning.
 
-## Sammanfattning
+## Summary
 
 Deal flow excellence determines acquisition program success through systematic approach. Strategic framework development translates portfolio objectives into actionable direction through development. Systematic sourcing architecture converts frameworks into deal flow through architecture. Relationship capital accumulation builds sustainable sourcing foundation through accumulation. Pipeline architecture and management enables systematic optimization through management. Continuous improvement maintains excellence over time through improvement.
 

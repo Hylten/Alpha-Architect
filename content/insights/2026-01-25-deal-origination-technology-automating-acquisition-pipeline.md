@@ -143,7 +143,7 @@ Relationship management maintains platform value. Regular communication, feedbac
 
 Migration planning prepares for platform changes. Data portability, integration rebuilding, and training development require planning. The planning approach ensures transitions without capability loss.
 
-## Sammanfattning
+## Summary
 
 Deal origination technology automates sourcing and pipeline building. Research technology enables efficient investigation. Engagement automation executes sequences without manual management. CRM integration connects automation into unified management. Data management ensures reliable information. Performance analytics reveal effectiveness and opportunities.
 

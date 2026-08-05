@@ -122,7 +122,7 @@ Building production-grade deal origination requires systematic execution across 
 
 **Phase 4 (Ongoing): Scaling** expands coverage and improves efficiency. New signal sources integrate. Engagement sequences multiply. The phase drives continuous improvement in deal flow economics.
 
-## Sammanfattning
+## Summary
 
 Deal origination systems scale acquisition programs beyond traditional limitations. Signal systems monitor continuously. Processing systems transform automatically. Engagement systems execute systematically. The GTM engineering layer provides production-grade infrastructure. The economics produce 2.7x more deals at 23% of per-deal cost compared to traditional approaches. The systems enable programs that resource constraints cannot limit.
 

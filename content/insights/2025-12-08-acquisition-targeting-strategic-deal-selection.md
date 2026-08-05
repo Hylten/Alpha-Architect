@@ -89,7 +89,7 @@ Resource requirement assessment evaluates deal execution cost through cost. Comp
 
 Timing assessment evaluates when deals become actionable through readiness. Mature targets warrant immediate engagement to capture momentum through momentum. Early-stage targets warrant monitoring until readiness develops through development. The timing assessment ensures appropriate engagement cadence that maximizes capture probability through optimization.
 
-## Sammanfattning
+## Summary
 
 Acquisition targeting determines portfolio quality through strategic fit assessment, financial criteria, market analysis, and operational evaluation. The targeting discipline ensures that acquired companies serve portfolio objectives through alignment.
 

@@ -109,7 +109,7 @@ Strategic configuration shapes agent behavior toward priorities. Deal teams set 
 
 The human-in-the-loop framework balances agent efficiency with human judgment quality. The balance generates sourcing that neither pure automation nor pure manual operations achieve. Hybrid operation achieved 89 percent efficiency with 95 percent quality.
 
-## Sammanfattning
+## Summary
 
 Autonomous agent systems break through human bandwidth constraints that limit traditional sourcing. Signal agents identify opportunities continuously through bankruptcy, ownership, and lifecycle monitoring. Enrichment agents process data automatically through firmographic, contact, and financial enrichment. Engagement agents execute outreach systematically through email, phone, and LinkedIn automation. Qualification agents filter prospects intelligently through situation, financial, and motivation assessment. Coordination agents orchestrate multi-agent workflows through event-driven automation. Performance analytics enable continuous optimization through volume, quality, and velocity tracking. Human-in-the-loop framework ensures autonomous operation aligns with strategic priorities through principal review, exception handling, and strategic configuration.
 

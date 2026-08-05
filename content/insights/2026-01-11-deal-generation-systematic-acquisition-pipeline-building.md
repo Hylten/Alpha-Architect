@@ -95,7 +95,7 @@ Analytics platforms reveal generation performance and optimization opportunities
 
 Integration platforms connect stack components into coherent systems that data flow requires. API connections, middleware, and workflow automation enable unified operation that analytical depth requires. The integration capability determines overall technology effectiveness.
 
-## Sammanfattning
+## Summary
 
 Deal generation establishes the foundation for acquisition success through systematic pipeline building. Strategic targeting defines the opportunity population that efficient generation requires. Market mapping reveals the complete landscape through comprehensive sector analysis. Sourcing channel strategy provides access mechanisms through channel combination. Generation process design enables systematic execution through process standardization.
 

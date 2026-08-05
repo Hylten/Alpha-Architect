@@ -139,7 +139,7 @@ Competitive exposure requires confidentiality discipline. Premature disclosure d
 
 Market shifts require strategy adaptation. Sector changes, competitive dynamics, and regulatory evolution affect development approach. The adaptation discipline maintains strategy relevance.
 
-## Sammanfattning
+## Summary
 
 Buyer-led M&A intelligence transforms acquisition from reactive pursuit to systematic opportunity development. Opportunity identification generates proprietary deal flow continuously. Relationship development transforms prospects into committed sellers. Transaction creation enables proprietary deals that competitive bidding cannot access. Qualification framework focuses development resources efficiently. Pipeline management enables systematic operation that ad-hoc approaches cannot sustain.
 

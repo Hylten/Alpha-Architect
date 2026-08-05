@@ -85,7 +85,7 @@ Automated compliance verification reduces regulatory burden that manual processe
 
 Blockchain-based verification provides immutable audit trails that satisfy compliance requirements through immutability. Transaction records, document hashes, and activity logs receive tamper-proof preservation through blockchain. The blockchain capability supports compliance requirements in regulated industries through verification. Audit time reduces from weeks to hours through blockchain.
 
-## Sammanfattning
+## Summary
 
 M&A technology evolves continuously as AI, automation, and integration capabilities advance through innovation. Artificial intelligence transforms deal flow management fundamentally through pattern recognition and automation. Autonomous agents represent the next automation frontier with capability that exceeds current approaches through independence. Data architecture enables next-generation analytical capabilities through modern design. Integration platforms mature continuously through capability development. Security and compliance requirements intensify as threats evolve through risk development.
 

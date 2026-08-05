@@ -174,7 +174,7 @@ The economics improve further as prospecting volume increases. Marginal costs de
 
 **Competitive implications** favor systematic prospecting. First-mover advantages create self-reinforcing dynamics. Successful acquisitions build relationships that source future deals. The flywheel effect creates durable competitive moats.
 
-## Sammanfattning
+## Summary
 
 Off-market prospecting eliminates competitive disadvantage through proactive identification. Monitoring infrastructure tracks signals continuously. Enrichment infrastructure processes data automatically. Engagement infrastructure executes outreach systematically. GTM engineering enables production-grade operations at scale. The economics produce 15-20% lower valuations and 25-30% higher close rates. The combination generates proprietary deal flow that competition cannot access.
 

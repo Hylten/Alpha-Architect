@@ -107,7 +107,7 @@ Benchmark comparison reveals relative performance through comparison. Internal b
 
 Knowledge management preserves insights from experience through management. Deal lessons inform future approaches through lesson. Market observations inform targeting through observation. Process insights inform optimization through insight. The management discipline ensures institutional learning through learning.
 
-## Sammanfattning
+## Summary
 
 Deal flow management converts identification to closing systematically through systematic approach. Pipeline architecture defines structure for opportunity management through design. Stage management ensures consistent process execution through management. Performance monitoring maintains visibility through monitoring. Conversion optimization improves efficiency through optimization. Velocity enhancement improves speed through enhancement. Continuous optimization maintains improvement momentum through optimization.
 

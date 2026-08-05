@@ -107,7 +107,7 @@ Competitive analysis evaluates win rates against competitor encounters. The fram
 
 The win-loss analysis framework generates insights for pipeline optimization. The insights inform targeting, qualification, and engagement strategies. Implementation improved win rates 23 percent.
 
-## Sammanfattning
+## Summary
 
 Analytics frameworks optimize pipeline from intuition to evidence-based management. Stage conversion analysis reveals optimization opportunities through historical, velocity, and drop-off analysis. Probability estimation enables forecast accuracy through activity, stage, and composite modeling. Forecast modeling supports planning through velocity, distribution, and scenario analysis. Bottleneck identification enables targeted intervention through stage, activity, and resource analysis. Deal scoring prioritizes management attention through activity, stage, and composite scoring. Win-loss analysis generates learning insights through win pattern, loss pattern, and competitive analysis.
 

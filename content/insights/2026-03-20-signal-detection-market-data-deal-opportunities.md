@@ -83,7 +83,7 @@ Competitor success analysis reveals best practices. Successful acquisition patte
 
 Competitive response modeling predicts competitor behavior in specific situations. Historical response patterns indicate likely actions. Resource constraints limit competitive intensity. Strategic priorities focus competition on specific sectors. Response modeling informs deal-specific strategy. Modeling achieved 67 percent prediction accuracy on competitor behavior.
 
-## Sammanfattning
+## Summary
 
 Signal detection transforms deal flow from reactive to proactive. Market signals reveal opportunities before competitors detect them. Early identification enables relationship development that competitive pressure eliminates. The strategic shift from waiting for opportunities to actively identifying them determines deal economics fundamentally. Detection speed affects every subsequent process stage from relationship building through closing.
 

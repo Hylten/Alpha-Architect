@@ -97,7 +97,7 @@ Market evolution affects positioning sustainability. Sector shifts create new op
 
 Adaptation capability enables positioning maintenance as markets evolve. Firms that cannot adapt lose positioning regardless of current capability. The adaptation discipline ensures relevance as market structures change.
 
-## Sammanfattning
+## Summary
 
 Proprietary deal flow generates sustainable competitive advantages. Relationship capital accumulation forms the sourcing foundation. Systematic programs convert relationships into deal flow. Information advantages enable proprietary positioning. Moat architecture compounds advantages over time.
 

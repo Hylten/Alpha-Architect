@@ -95,7 +95,7 @@ Continuous improvement refines automation over time through optimization cycles.
 
 Change management ensures successful adoption through capability development. Training develops capability that automation requires for effective use. Stakeholder engagement builds support that implementation needs for adoption success. The management approach ensures that automation delivers intended value through adoption.
 
-## Sammanfattning
+## Summary
 
 M&A automation scales deal flow operations beyond manual constraints that limit program potential. Research automation eliminates investigation effort through automated data gathering and analysis. Outreach automation executes engagement sequences through workflow automation. Diligence automation transforms document review through automated processing and extraction. Workflow automation orchestrates cross-stage activities through systematic coordination.
 

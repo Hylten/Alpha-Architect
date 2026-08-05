@@ -91,7 +91,7 @@ Prescriptive analysis recommends specific actions. Resource allocation optimizat
 
 Continuous improvement maintains analytical effectiveness. Feedback on analytical accuracy, relevance, and actionability informs refinement. The improvement discipline ensures analytical capability evolves with organizational needs. Improvement maintains relevance.
 
-## Sammanfattning
+## Summary
 
 M&A intelligence systems enable data-driven deal management. Intelligence infrastructure provides the foundation for analytical capability. Analytical frameworks structure intelligence work for actionable insight. Measurement and analytics enable data-driven management. Dashboard and reporting systems translate intelligence into actionable information. Analytical practices enable consistent value extraction.
 

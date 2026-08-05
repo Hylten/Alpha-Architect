@@ -103,6 +103,6 @@ Agent triggers activate sequences based on target criteria. When signal detectio
 
 The continuous agent operation produces volume that human teams cannot sustain. A single agent can execute hundreds of sequences weekly. Multiple agents operating in parallel handle thousands of touchpoints. The scale creates presence across target segments that limited human capacity cannot achieve.
 
-## Sammanfattning
+## Summary
 
 Direct outreach excellence requires systematic architecture spanning targeting, execution, qualification, and conversation management. Targeting infrastructure enables precise prospect identification through database integration and signal detection. Outreach architecture executes multi-channel campaigns through autonomous agents. Personalization engines balance automation scale with conversion-driving relevance. Qualification frameworks ensure resource concentration on highest-probability opportunities. Conversation management systems maintain engagement through extended sales cycles. Technical infrastructure enables volume and reliability. The compounding learning effect creates widening advantages that competitors cannot easily overcome. The autonomous agent workflows enable continuous operation at scale that human teams cannot match, producing proprietary deal flow through systematic execution rather than episodic effort.

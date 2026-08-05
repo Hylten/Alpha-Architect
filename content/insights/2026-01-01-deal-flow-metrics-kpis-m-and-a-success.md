@@ -97,7 +97,7 @@ Development metrics measure skill progression that builds future capability. Cap
 
 Calibration processes ensure metric consistency across team members. Different raters apply standards differently. Calibration reduces variance that undermines metric reliability. The calibration discipline ensures fair evaluation that retains top performers.
 
-## Sammanfattning
+## Summary
 
 Deal flow metrics enable performance management and continuous improvement. Pipeline health metrics reveal deal flow volume and quality. Conversion efficiency metrics identify optimization opportunities. Source attribution metrics inform resource allocation. Deal quality metrics indicate transaction outcome patterns. Team performance metrics reveal individual contribution that informs coaching and development.
 

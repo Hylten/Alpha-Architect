@@ -79,7 +79,7 @@ The ROI of intelligence systems demonstrates compelling economics. Investment fo
 
 The competitive implications extend beyond individual deal performance. Funds implementing systematic intelligence demonstrate 15-20% IRR advantages over holding periods. The advantage compounds across portfolio companies. Investor communications improve with forecast accuracy. Limited partner confidence increases. Fundraising capabilities strengthen. The multi-dimensional returns justify intelligence systems investment.
 
-## Sammanfattning
+## Summary
 
 Acquisition intelligence systems transform deal decisions from intuition to evidence through three comprehensive components. Target intelligence evaluates selection through historical patterns analyzing 47 variables identifying predictive factors including owner motivation type (retirement 42% versus growth capital 18%), process type (off-market 31% versus auction 14%), and company size (SEK 100-250 million 31% versus under SEK 100 million 23%) achieving 8% to 23% conversion improvement. Engagement intelligence optimizes outreach through systematic measurement tracking channel effectiveness, timing patterns, and content performance identifying levers for 23-31% improvement achieving 4% to 23% response rate improvement. Pipeline intelligence enables management through systematic visibility tracking stage conversion and velocity identifying bottlenecks reducing time-to-close from 11.7 months to 4.8 months. The components achieve 18.4% portfolio IRR versus 12.1% for intuition-based competitors translating to SEK 1.2 million cost savings per deal and SEK 85 million capital efficiency gains per SEK 1 billion deployed. The transformation enables programs that intuition-based approaches cannot achieve.
 

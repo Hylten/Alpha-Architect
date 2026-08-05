@@ -216,7 +216,7 @@ Building proprietary deal flow capability requires specific investments across t
 
 **Process maturation** requires 12-18 months of iterative development. Initial systems produce limited flow. Refinement based on outcome data improves performance continuously. The learning curve is steep but competitive moats are durable.
 
-## Sammanfattning
+## Summary
 
 Off-market deal flow systems create competitive advantages that broker networks cannot overcome. Signal systems identify opportunities before announcements. Processing systems enrich signals to intelligence. Engagement systems execute before competition. GTM engineering enables production-grade operations at scale. The economics produce 75% proprietary deal flow at 40% of traditional cost. The systems generate returns that public flow cannot achieve.
 

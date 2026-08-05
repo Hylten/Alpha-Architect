@@ -147,7 +147,7 @@ Efficiency metrics track resource utilization that affects program economics. Co
 
 Swedish program economics indicate sourcing costs of 1,5-3,5 MSEK per completed transaction at mature deployment. Early-stage programs typically incur 4-7 MSEK per deal during system build-out. The economics improve as pipeline volume scales and team productivity increases.
 
-## Sammanfattning
+## Summary
 
 Acquisition deal flow systems enable systematic pipeline building that transforms program potential. Strategic framework development translates portfolio objectives into actionable direction. Systematic sourcing architecture converts frameworks into deal flow. Technology system integration enables operational efficiency. Pipeline management discipline ensures systematic optimization. Performance measurement enables continuous improvement.
 

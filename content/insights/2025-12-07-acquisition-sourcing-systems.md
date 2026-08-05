@@ -79,7 +79,7 @@ Signal-to-deal pipelines extend automation across the sourcing workflow. Signal 
 
 Terminal execution extends integration beyond internal systems. CRM platforms receive opportunity data automatically. Finance systems receive economic data automatically. Portfolio systems receive performance data automatically. The integration creates unified operations.
 
-## Sammanfattning
+## Summary
 
 Acquisition sourcing systems transform target identification from manual research to automated intelligence through three integrated systems. Signal systems monitor continuously processing 47,000 daily events across bankruptcy filings, ownership changes, and lifecycle transitions generating 180+ qualified targets monthly without the 1,200 hours monthly that human analysts would require at SEK 10.2 million cost. Processing systems transform signals to intelligence at 4.2-minute velocity achieving 500+ monthly capacity reducing cost per qualified opportunity from SEK 45,000 to SEK 8,200 with 12% improvement in qualification consistency. Engagement systems execute outreach systematically with 6-touch multi-channel sequences generating 23% response rates versus 4% for manual research with 34% higher close rates translating to 42 qualified conversations monthly. The systems achieve 287 annual opportunities versus 68 for manual competitors, 23 annual closes versus 9, and SEK 2.1 billion acquisition volume versus SEK 640 million at 60% lower cost per deal. The identification generates deal flow that manual research cannot achieve.
 

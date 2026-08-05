@@ -101,7 +101,7 @@ Analytics platforms provide pipeline visibility. Conversion metrics reveal stage
 
 Integration architecture connects stack components. API connections, webhook patterns, and middleware enable coherent operation. The integration capability determines overall stack effectiveness.
 
-## Sammanfattning
+## Summary
 
 Deal origination quality determines acquisition outcomes. Pipeline architecture defines how targets flow from identification to transaction. Systematic outreach programs convert targets to prospects. Relationship development converts prospects to candidates.
 

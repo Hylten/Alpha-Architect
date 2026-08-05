@@ -95,7 +95,7 @@ Process efficiency affects competitive response through speed. Fast-moving progr
 
 Timing discipline affects relationship development success through patience. Programs that rush relationships destroy trust that took years to build through pressure. Programs that maintain patience capture relationship value that competitors cannot replicate through trust.
 
-## Sammanfattning
+## Summary
 
 Off-market discovery generates superior acquisition economics through early target identification and relationship development. Signal-based discovery reveals market activity before public announcement through monitoring. Network intelligence provides early warning through relationship channels that access provides. Research-based discovery ensures comprehensive market coverage through systematic analysis.
 

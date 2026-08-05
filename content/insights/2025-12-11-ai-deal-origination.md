@@ -105,7 +105,7 @@ Analytics integration delivers model performance visibility. The system tracks p
 
 Terminal integration provides command-line access to scoring operations. The deal team queries target scores using CLI commands. The deal team retrieves engagement predictions through bash scripts. The deal team monitors model performance through structured output. The integration reduces friction that complex model interfaces impose. Terminal integration reduced score access time 85 percent.
 
-## Sammanfattning
+## Summary
 
 AI deal origination transforms acquisition through predictive intelligence. Machine learning models score targets through firmographic, operational, and financial evaluation. Signal detection models identify motivated sellers through distress, lifecycle, and competitive analysis. Engagement prediction models optimize outreach through channel, timing, and message optimization. Qualification prediction models assess execution probability through situation, financial, and motivation analysis. Continuous learning improves predictions with each outcome cycle through tracking, retraining, and monitoring.
 

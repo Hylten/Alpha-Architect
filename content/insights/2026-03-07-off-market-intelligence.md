@@ -131,7 +131,7 @@ Building off-market intelligence capability requires specific investments.
 
 **Process maturation** requires 12-18 months of iterative development. Initial systems produce limited flow. Refinement based on outcome data improves performance continuously. The learning curve is steep but the competitive moat is durable.
 
-## Sammanfattning
+## Summary
 
 Off-market intelligence creates proprietary deal flow that broker networks cannot access. Monitoring systems track signals before announcements. Processing systems enrich signals to actionable intelligence. Engagement systems execute outreach before competition. The GTM engineering layer automates the pipeline at scale. Proprietary acquisition economics produce 4-7 million SEK in savings per 50 million SEK transaction compared to broker-dependent approaches. The systems generate returns that public flow cannot achieve.
 

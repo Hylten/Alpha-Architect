@@ -117,7 +117,7 @@ Process optimization reduces costs with accumulated experience. Each campaign id
 
 The competitive moat construction rewards sustained infrastructure investment. The rewards compound with consistent operation.
 
-## Sammanfattning
+## Summary
 
 Infrastructure systems break relationship dependency that limits traditional sourcing. Data infrastructure aggregates comprehensive market intelligence. Signal detection identifies opportunities before relationship networks surface them. Outreach automation executes engagement systematically. Qualification routing ensures human attention focuses efficiently. CRM integration connects sourcing to execution seamlessly. Analytics visibility enables systematic optimization.
 

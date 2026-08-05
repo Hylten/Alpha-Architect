@@ -119,7 +119,7 @@ Technology investment requires careful selection. CRM platforms, research tools,
 
 Skill development requires training investment. Research skills, analytical skills, and engagement skills develop through practice. The skill investment improves decision quality.
 
-## Sammanfattning
+## Summary
 
 Deal origination excellence determines acquisition program outcomes. Strategic targeting translates portfolio strategy into actionable lists. Systematic sourcing programs convert targeting into deal flow. Relationship development converts targets into prospects. Pipeline management tracks and optimizes progress. Performance measurement enables improvement.
 

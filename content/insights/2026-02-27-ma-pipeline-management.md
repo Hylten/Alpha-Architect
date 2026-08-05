@@ -87,7 +87,7 @@ The ROI of pipeline management systems demonstrates compelling economics. Invest
 
 The competitive implications extend beyond individual deal performance. Funds implementing systematic pipeline management demonstrate 15-20% IRR advantages over holding periods. The advantage compounds across portfolio companies. Investor communications improve with forecast accuracy. Limited partner confidence increases. Fundraising capabilities strengthen. The multi-dimensional returns justify pipeline management investment.
 
-## Sammanfattning
+## Summary
 
 M&A pipeline management systems enable proactive deal control through three comprehensive systems. Tracking systems map opportunities through six stages maintaining visibility across 40+ simultaneous opportunities enabling at-risk identification within 24 hours of deviation from plan reducing deal failure rate from 28% to 12%. Analytics systems evaluate pipeline health identifying intervention opportunities including acceleration (12%), additional resources (8%), stakeholder engagement (15%), and exit recommendations (4%) improving on-time delivery from 66% to 89%. Forecast systems project outcomes with 94% accuracy using stage-based probability weighting enabling confident resource allocation versus 67% for intuition-based competitors. The systems achieve 89% on-time delivery versus 34% for reactive operators, 94% on-budget execution versus 77%, and 12% deal failure rate versus 28% translating to SEK 890 million in annual value preservation. The control generates efficiency that reactive management cannot achieve.
 

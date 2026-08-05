@@ -97,7 +97,7 @@ Process standardization enables repeatable execution without relationship degrad
 
 The scaling challenge intensifies for complex transactions. Enterprise targets require extended relationship development. Cross-border targets require cultural and regulatory expertise. The infrastructure requirements for scaled buyer-led operations exceed what most firms possess.
 
-## Sammanfattning
+## Summary
 
 Buyer-led acquisition transforms M&A from seller-centric process to buyer-driven execution. Proactive target identification, sustained relationship development, and systematic deal origination shift power toward acquirers.
 

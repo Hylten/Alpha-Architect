@@ -95,7 +95,7 @@ Actionability ensures dashboard impact that drives behavior change through impac
 
 Update frequency should match decision cadence that prevents staleness or noise through timing. Daily metrics should update daily through frequency. Weekly metrics should update weekly through cadence. Real-time metrics should update continuously through streaming. The frequency discipline matches information currency to decision requirements through alignment.
 
-## Sammanfattning
+## Summary
 
 Deal intelligence systems enable data-driven acquisition management through analytical capability. Data architecture provides the foundation for analytical capability that infrastructure requires. Analytics infrastructure transforms data into actionable intelligence through tools and processes. Metric frameworks structure measurement for insight that decision-making requires. Performance measurement enables management and improvement that capability development requires. Analytical practices enable consistent value extraction from data that analysis requires.
 

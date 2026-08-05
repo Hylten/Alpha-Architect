@@ -153,7 +153,7 @@ Implementation risk affects prioritization. High-risk improvements require caref
 
 Dependency chains determine implementation sequence. Foundation improvements must precede dependent enhancements. The sequencing ensures improvements build on solid bases.
 
-## Sammanfattning
+## Summary
 
 Deal flow optimization improves acquisition program efficiency systematically. Pipeline analysis reveals bottlenecks. Stage-specific optimization targets constraints. Conversion rate improvement increases efficiency across all stages. Velocity enhancement improves deal movement speed.
 

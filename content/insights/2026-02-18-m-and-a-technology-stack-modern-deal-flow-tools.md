@@ -97,7 +97,7 @@ Workflow automation platforms orchestrate cross-system processes that coordinati
 
 Monitoring and alerting platforms track stack health that reliability requires. Integration failures, data quality issues, and performance problems surface through detection. The monitoring capability enables proactive response before problems affect operations through prevention. Swedish programs find 99.9% uptime target as standard.
 
-## Sammanfattning
+## Summary
 
 M&A technology spans CRM, research, communication, diligence, and integration categories that deal flow requires. Vendor proliferation creates selection complexity that requires systematic evaluation through comparison. Integration architecture determines how stack components work together through connection.
 

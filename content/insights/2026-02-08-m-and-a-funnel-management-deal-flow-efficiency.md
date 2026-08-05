@@ -87,7 +87,7 @@ Risk monitoring identifies deals with elevated failure probability through risk.
 
 Leading indicator monitoring tracks early signals of future changes through leading. Initial engagement levels predict subsequent meeting conversion through prediction. Meeting quality predicts subsequent progression probability through probability. The leading indicator approach enables intervention before problems fully develop through intervention.
 
-## Sammanfattning
+## Summary
 
 M&A funnel management enables systematic optimization of deal flow efficiency through management. Funnel architecture defines pipeline structure that enables management through architecture. Stage-specific optimization targets bottlenecks that limit throughput through optimization. Conversion rate analysis identifies improvement opportunities through analysis. Velocity optimization improves deal movement speed through speed. Pipeline health monitoring maintains visibility through monitoring.
 

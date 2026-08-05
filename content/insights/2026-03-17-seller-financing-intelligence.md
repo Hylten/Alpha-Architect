@@ -109,7 +109,7 @@ Assignment provisions determine whether notes transfer to third parties. Sellers
 
 Covenant provisions protect seller interests during the note term. Financial covenants require buyers to maintain performance standards. Reporting covenants require buyers to provide regular financial updates. The provisions enable sellers to monitor their paper without interfering in business operations.
 
-## Sammanfattning
+## Summary
 
 Seller financing represents the acquisition mechanism that bank-dependent buyers miss entirely. Structure reduces upfront capital requirements while increasing total acquisition costs. The trade-off favors buyers who identify businesses with strong cash flow characteristics and realistic growth projections.
 

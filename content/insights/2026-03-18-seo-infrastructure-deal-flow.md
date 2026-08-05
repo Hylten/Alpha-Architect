@@ -145,7 +145,7 @@ The combined approach creates multiple touchpoints through different channels. P
 
 The integration requires coordination between autonomous systems. Outbound targeting informs content topic selection. Content engagement data informs outbound qualification. The coordination ensures both systems reinforce each other.
 
-## Sammanfattning
+## Summary
 
 Search infrastructure captures motivated sellers during the research phase before broker engagement. Content architecture attracts owners searching for information about their situations. Technical SEO ensures visibility in search results. Lead capture systems convert traffic to actionable prospects. Autonomous content systems generate volume at scale. The compounding traffic effect produces returns that exceed outbound approaches. Building search infrastructure before needing it ensures proprietary deal flow exists when opportunities emerge.
 

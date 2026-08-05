@@ -97,7 +97,7 @@ Scalability planning accommodates growth requirements. Volume increases stress i
 
 Innovation integration brings emerging capabilities into the infrastructure. AI advances offer new processing possibilities. Automation platforms offer new orchestration capabilities. Analytical tools offer new insight opportunities. The integration approach must balance innovation against stability requirements. Innovation integration delivered 15 new capabilities annually.
 
-## Sammanfattning
+## Summary
 
 M&A infrastructure determines acquisition program capability. Data architecture forms the foundation for intelligence through entity modeling, integration, historical preservation, and quality management. Entity relationship modeling defines how companies, people, deals, and activities connect. Data integration connects CRM, market data, and operational systems. Historical data enables pattern recognition that current data cannot support. Quality management ensures reliability for decision-making. Data architecture enables comprehensive intelligence operations.
 

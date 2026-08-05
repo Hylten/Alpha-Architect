@@ -95,7 +95,7 @@ Customization balances fit against upgradeability. Deep customization improves i
 
 Vendor management governs ongoing platform relationships. Service levels, support quality, and roadmap alignment affect platform value over time. The vendor relationship requires active management that prevents misalignment from accumulating. Neglected vendor relationships degrade over time.
 
-## Sammanfattning
+## Summary
 
 Deal intelligence platforms provide integrated capabilities for modern acquisition programs. Market intelligence platforms aggregate sector and company analysis. Relationship intelligence platforms track and develop professional networks. Deal execution platforms support transaction processes. Post-acquisition platforms enable integration and portfolio management.
 

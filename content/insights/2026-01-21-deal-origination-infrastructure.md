@@ -254,7 +254,7 @@ Building production-grade infrastructure requires systematic execution:
 
 The roadmap produces production-grade infrastructure within 12 months.
 
-## Sammanfattning
+## Summary
 
 Deal origination infrastructure creates foundation for acquisition success. Data infrastructure aggregates intelligence. Signal infrastructure monitors market indicators. Processing infrastructure transforms signals. Engagement infrastructure executes outreach. GTM engineering enables production-grade operations. The infrastructure produces 5x deal flow at one-third per-deal cost. The components enable programs that foundationless approaches cannot achieve.
 

@@ -81,7 +81,7 @@ Technology adoption multiplies human capability that would otherwise limit sourc
 
 Knowledge management captures institutional learning that would otherwise leave with departing team members. Deal lessons inform future targeting decisions. Relationship insights guide engagement approaches. Market intelligence accumulates into organizational knowledge. The knowledge management enables learning transfer across team members. Knowledge enables continuity. Continuity enables improvement.
 
-## Sammanfattning
+## Summary
 
 Sourcing excellence determines acquisition program outcomes before transactions begin. Target universe definition establishes the opportunity population from which deals emerge. Signal detection identifies targets through market activity analysis. Network intelligence provides early warning through relationship channels. Engagement strategy guides how targets convert to prospects.
 

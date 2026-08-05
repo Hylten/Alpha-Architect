@@ -109,7 +109,7 @@ Innovation integration brings emerging capabilities into the stack. AI advances,
 
 Vendor management governs ongoing platform relationships. Service levels, support quality, and roadmap alignment affect platform value. The management approach ensures continued platform effectiveness. Vendor relationship determines platform value over time. Neglected relationships degrade capability.
 
-## Sammanfattning
+## Summary
 
 Deal flow technology stack enables modern acquisition management. Core platforms form operational foundation. Data architecture enables analytical capability. Integration patterns connect components into coherent systems. Automation architecture extends operational capability. Security and compliance protect sensitive information.
 

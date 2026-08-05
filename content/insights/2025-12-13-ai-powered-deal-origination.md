@@ -115,7 +115,7 @@ Performance auditing validates model accuracy against ground truth. The framewor
 
 The model governance framework enables responsible AI deployment that generates value without unacceptable risk. The governance ensures machine learning contributes to acquisition success.
 
-## Sammanfattning
+## Summary
 
 AI-powered deal origination transforms acquisition through predictive intelligence that exceeds rules-based limitations. Machine learning models score targets, detect signals, and predict engagement with accuracy that static approaches cannot achieve. Continuous learning improves predictions with each outcome cycle that refines understanding. The intelligence compounds advantages that rules-based systems cannot generate.
 

@@ -201,7 +201,7 @@ Building M&A intelligence capability requires specific investments in data infra
 
 **Expertise** requires data analysts who can translate business questions into analytical frameworks. Salary costs run 800,000-1,400,000 SEK annually in Sweden. The investment produces decision intelligence that transforms acquisition outcomes.
 
-## Sammanfattning
+## Summary
 
 M&A intelligence systems transform deal decisions from intuition to evidence. Target analytics improve selection precision. Engagement analytics optimize outreach effectiveness. Pipeline analytics enable proactive management. Outcome analytics generate continuous improvement. GTM engineering infrastructure enables real-time decision intelligence. The systems improve hit rate from 4% to 12% and forecast accuracy from 50% to 80%. The systems improve decisions that intuition cannot achieve.
 

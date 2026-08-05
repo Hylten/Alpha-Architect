@@ -85,7 +85,7 @@ Quality analytics assess relationship development beyond simple volume that vani
 
 Cost analytics track efficiency achievement that determines program economics at scale. Cost per contact indicates sourcing efficiency that technology investment justifies. Cost per meeting indicates engagement efficiency that sequence design affects. Cost per deal indicates overall program efficiency that profitability requires. The cost analytics demonstrate technology ROI that investment decisions justify. Benchmark shows 500 SEK per sourced meeting at scale versus 2 000 SEK at manual execution.
 
-## Sammanfattning
+## Summary
 
 Deal generation technology scales sourcing beyond manual constraints that limit traditional programs to small volumes. Research technology enables efficient investigation at scale through automation and platform capability. Engagement technology executes outreach systematically through sequencing and workflow automation. CRM integration connects components into unified management that data-driven decisions require. Data management ensures reliable information that analytical quality requires. Performance analytics reveal effectiveness and opportunities that optimization requires.
 

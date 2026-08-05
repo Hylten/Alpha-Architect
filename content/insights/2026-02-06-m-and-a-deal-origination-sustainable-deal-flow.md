@@ -95,7 +95,7 @@ Efficiency metrics track resource utilization. Cost per deal indicates sourcing 
 
 Trend analysis tracks improvement trajectory. Improving metrics indicate effective interventions. Declining metrics indicate emerging problems requiring intervention. The trend analysis maintains awareness of program evolution over time. Trend analysis reveals trajectory.
 
-## Sammanfattning
+## Summary
 
 M&A deal origination builds sustainable deal flow through systematic approaches. Strategic targeting frameworks translate portfolio strategy into actionable lists. Systematic sourcing programs convert targeting into deal flow. Relationship development excellence converts targets to prospects. Pipeline management systems track and optimize progress. Performance measurement enables continuous improvement.
 

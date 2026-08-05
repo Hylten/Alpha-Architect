@@ -97,7 +97,7 @@ Scheduled scripts execute commands at specified times automatically. The schedul
 
 The script layer enables sophisticated automation that manual operation cannot sustain. The capability scales deal flow operations beyond human bandwidth limitations. Script automation handled 15,000 target touches monthly without proportional staff increase.
 
-## Sammanfattning
+## Summary
 
 Terminal-based sourcing eliminates browser dependency that slows acquisition operations. Command interface executes targeting, enrichment, and engagement without UI overhead. Query system retrieves targets through complex filters in seconds. Enrichment suite adds intelligence to raw records automatically. Engagement interface coordinates multi-channel sequences without manual coordination.
 

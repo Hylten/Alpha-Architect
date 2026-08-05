@@ -155,7 +155,7 @@ Restart recovery resumes operation after system interruptions. The system restor
 
 The continuous operation framework enables unattended deal flow management. The framework ensures sourcing operations continue regardless of user availability.
 
-## Sammanfattning
+## Summary
 
 Terminal-based deal flow eliminates browser dependency that slows acquisition operations. Command interface executes targeting, enrichment, and engagement without UI overhead. Query system retrieves targets through complex filters in seconds. Enrichment suite adds intelligence to raw records automatically. Engagement interface coordinates multi-channel sequences without manual coordination.
 

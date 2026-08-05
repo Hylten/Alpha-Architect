@@ -129,7 +129,7 @@ Model training infrastructure enables continuous improvement from operational da
 
 Security infrastructure protects sensitive deal information throughout processing. Infrastructure implements encryption, access controls, and audit logging. Security measures satisfy client confidentiality requirements.
 
-## Sammanfattning
+## Summary
 
 Autonomous due diligence framework transforms operational analysis from human throughput constraint to scalable pipeline operation. System processes documents, analyzes financials and operations, synthesizes findings, and generates integration frameworks without human initiation for routine analysis tasks.
 

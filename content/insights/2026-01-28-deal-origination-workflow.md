@@ -109,7 +109,7 @@ Recovery automation restores failed workflow instances automatically. The system
 
 The exception handling system enables reliable automation that unattended operation requires. The reliability ensures workflow benefits without unacceptable risk.
 
-## Sammanfattning
+## Summary
 
 Workflow automation transforms deal origination from manual coordination to autonomous operation. Signal-to-outreach pipelines convert market signals into acquisition conversations automatically. Engagement optimization workflows generate continuous improvement through systematic testing including A/B testing, channel optimization, and timing optimization. Qualification routing ensures human attention focuses efficiently through situation, financial, and motivation scoring. Pipeline management enables systematic deal flow operation through stage progression, velocity monitoring, and forecast modeling. Performance analytics enable continuous optimization through activity tracking, conversion tracking, and outcome tracking. Exception handling ensures reliable automation through anomaly detection, escalation routing, and recovery automation. The combination generates origination that manual coordination cannot scale.
 

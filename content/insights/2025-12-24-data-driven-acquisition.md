@@ -165,7 +165,7 @@ Auto-scaling adjusts capacity based on demand patterns. The architecture provisi
 
 The scalability architecture ensures analytics infrastructure matches deal flow ambition. The match enables unlimited pipeline growth without infrastructure constraints.
 
-## Sammanfattning
+## Summary
 
 Data-driven acquisition requires analytics infrastructure that transforms raw data into actionable intelligence. Target identification frameworks apply objective criteria that intuition-based approaches cannot match. Engagement optimization generates continuous improvement through systematic testing. Pipeline analytics provides visibility that enables proactive management.
 

@@ -121,7 +121,7 @@ Strategic configuration shapes agent behavior toward priorities that business ob
 
 The integration balances agent efficiency with human judgment quality. The balance generates prospecting that neither pure automation nor pure manual operations achieve. The combination exceeds what either achieves independently.
 
-## Sammanfattning
+## Summary
 
 Autonomous prospecting agents break through human bandwidth constraints that limit manual deal generation. Signal agents identify opportunities continuously before broker involvement. Enrichment agents process data automatically into actionable intelligence. Engagement agents execute outreach systematically across channels. Qualification agents filter prospects intelligently for human attention. Coordination orchestration enables multi-agent operation that single-agent systems cannot match.
 

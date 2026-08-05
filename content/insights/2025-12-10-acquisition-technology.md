@@ -109,7 +109,7 @@ Signal-to-deal pipelines automate the entire acquisition workflow. Signal detect
 
 Terminal execution integrates with external systems. API connections enable data exchange with CRM platforms. Webhook triggers initiate external workflows. The integration extends stack capabilities beyond built-in features.
 
-## Sammanfattning
+## Summary
 
 Acquisition technology stacks transform deal flow from fragmented tools to unified systems through integrated architecture. Data layer aggregates comprehensive information from commercial databases, regulatory filings, and engagement platforms creating 360-degree target views through API integration with 5+ Swedish data providers at SEK 2.4 million annual cost enabling 180,000 annual data updates. Intelligence layer generates actionable insights through machine learning models achieving 23% better targeting precision, signal detection processing 47,000 daily events generating 180+ qualified targets monthly, and pattern recognition identifying seasonal variations and sector trends. Automation layer executes engagement systematically through 6-touch email sequences, LinkedIn engagement, and calling orchestration achieving 23% response rates and 34% higher close rates translating to 42 qualified conversations monthly. Integration layer connects components seamlessly through real-time API connections, event triggers, and workflow automation reducing operational friction by 80%. The stack enables deal flow that fragmented tools cannot achieve with 287 annual opportunities versus 68, 31% close rate versus 14%, and 18.4% portfolio IRR versus 12.1% generating SEK 1.7 billion in additional acquisition value over 36 months.
 

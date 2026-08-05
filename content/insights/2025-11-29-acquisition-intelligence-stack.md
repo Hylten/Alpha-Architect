@@ -141,7 +141,7 @@ Knowledge transfer preserves insight that engagement generated. The protocol doc
 
 The handoff protocol connects intelligence stack output to deal execution workflow. The connection ensures proprietary deal flow converts to closed transactions.
 
-## Sammanfattning
+## Summary
 
 The acquisition intelligence stack converts market signals to proprietary deal opportunities through systematic automation. Signal detection identifies motivated sellers before broker involvement. Enrichment transforms signals to actionable intelligence. Engagement executes outreach at scale. Qualification routes human attention to highest-probability opportunities.
 

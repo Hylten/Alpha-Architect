@@ -83,7 +83,7 @@ Maturity stage achieves consistent execution capability that meets business requ
 
 Excellence stage achieves best-in-class performance that defines industry standards through achievement. Superior deal flow exceeds expectations through exceed. Exceptional execution exceeds requirements through exceed. Market-leading outcomes validate approach through validation. The excellence stage requires sustained investment over extended periods that organizations rarely achieve through achievement.
 
-## Sammanfattning
+## Summary
 
 Buyer-side M&A capability determines acquisition success through team structure, process excellence, relationship networks, and technology infrastructure through determination. Capability development follows predictable stages from foundation through excellence through development. Each stage requires specific investments that enable progression to the next level through progression.
 

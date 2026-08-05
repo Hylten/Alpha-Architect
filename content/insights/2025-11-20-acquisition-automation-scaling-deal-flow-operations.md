@@ -95,7 +95,7 @@ Monitoring systems track automation health. Performance metrics, error rates, an
 
 Continuous improvement refines automation over time. Feedback from users reveals improvement opportunities. Analysis of outcomes identifies optimization paths. Evolution of requirements drives capability enhancement. The improvement discipline prevents automation stagnation.
 
-## Sammanfattning
+## Summary
 
 Acquisition automation transforms deal flow economics. Research automation eliminates manual investigation effort. Outreach automation enables engagement velocity. Diligence automation compresses review timelines. Communication automation maintains coordination efficiently.
 

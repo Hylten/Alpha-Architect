@@ -109,7 +109,7 @@ Cost advantage eliminates broker fees that inflate acquisition prices. The syste
 
 The competitive moat mechanism generates sustainable advantages. The sustainability rewards infrastructure investment that tactical approaches cannot replicate.
 
-## Sammanfattning
+## Summary
 
 Off-market identification eliminates broker dependency that limits traditional sourcing. Identification infrastructure detects motivated sellers before broker involvement through financial, ownership, lifecycle, and regulatory monitoring. Signal processing transforms raw monitoring to actionable intelligence through aggregation, correlation, and scoring. Direct outreach converts identification to conversations through owner targeting, multi-channel sequencing, and value framing. Relationship development transforms prospects to committed sellers through trust building, patience cultivation, and confidentiality preservation. Deal structure capability enables transactions that conventional approaches cannot support through creative financing, flexible closing, and management retention structures.
 

@@ -107,7 +107,7 @@ Cost advantage eliminates broker fees that would otherwise inflate acquisition p
 
 The competitive moat mechanism generates sustainable advantages that infrastructure investment creates. The sustainability rewards systematic development that tactical approaches cannot replicate quickly.
 
-## Sammanfattning
+## Summary
 
 Off-market deal generation eliminates broker dependency that limits traditional acquisition programs. Identification infrastructure detects motivated sellers before broker involvement creates competitive pressure. Direct outreach infrastructure converts identification into acquisition conversations without intermediary delay. Qualification framework routes serious prospects to human deal teams for appropriate attention. Relationship building system transforms transactions into partnerships that value creation requires. Deal structure capability enables transactions that conventional approaches cannot support.
 

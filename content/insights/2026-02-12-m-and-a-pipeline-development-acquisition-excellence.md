@@ -91,7 +91,7 @@ Benchmark comparison reveals relative performance. Internal benchmarks track imp
 
 Knowledge management preserves insights from experience. Deal lessons inform future approaches. Market observations inform targeting. Process insights inform optimization. The management discipline ensures institutional learning. Learning enables improvement. Improvement generates advantage.
 
-## Sammanfattning
+## Summary
 
 M&A pipeline development builds acquisition excellence through systematic approaches. Strategic framework development translates portfolio objectives into actionable direction. Systematic sourcing architecture converts frameworks into deal flow. Relationship capital accumulation builds sustainable sourcing foundation. Pipeline architecture and management enables systematic optimization. Continuous improvement systems maintain excellence over time.
 

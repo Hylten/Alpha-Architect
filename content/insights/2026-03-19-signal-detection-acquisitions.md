@@ -109,7 +109,7 @@ Exit intelligence reveals competitor success patterns. The system analyzes close
 
 The competitive intelligence application transforms signal detection to strategic advantage. The transformation generates returns that reactive approaches cannot achieve.
 
-## Sammanfattning
+## Summary
 
 Signal detection transforms acquisition from reactive pursuit to proactive identification. Monitoring layers track market data continuously through financial, ownership, and operational sources. Aggregation consolidates signals across sources using normalization and entity resolution. Correlation evaluates indicator combinations through pattern and relationship analysis. Scoring prioritizes outreach toward highest-motivation targets through urgency weighting.
 

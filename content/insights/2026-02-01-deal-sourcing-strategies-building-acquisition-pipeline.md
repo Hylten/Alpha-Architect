@@ -87,7 +87,7 @@ Referral development leverages successful transactions that generate goodwill an
 
 Long-term perspective maintains relationship investment through market cycles that create short-term pressure. Down markets create seller urgency that rewards sustained relationship development. Up markets create buyer competition that relationships cannot overcome. The perspective discipline separates successful sourcers from opportunistic ones who burn relationships for temporary advantage.
 
-## Sammanfattning
+## Summary
 
 Deal sourcing strategies build acquisition pipeline systematically. Direct sourcing builds relationships without intermediary involvement. Channel optimization improves effectiveness across approaches. Target prioritization focuses resources on highest-value opportunities. Performance measurement enables continuous improvement.
 

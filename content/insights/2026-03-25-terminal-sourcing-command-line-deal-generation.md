@@ -123,7 +123,7 @@ Code review practices improve script quality. Peer review catches errors. Shared
 
 Continuous integration validates changes. Automated testing, build verification, and deployment checks ensure reliability. The integration prevents broken scripts from disrupting production.
 
-## Sammanfattning
+## Summary
 
 Terminal-based sourcing transforms deal flow from GUI-bound manual process to efficient programmatic execution. Command-line interfaces eliminate graphical overhead. Script automation executes complex workflows without manual intervention. API integrations enable comprehensive data access and action execution.
 

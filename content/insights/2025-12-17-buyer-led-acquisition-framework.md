@@ -87,7 +87,7 @@ Data enrichment extends intelligence beyond surface data. Firmographic enrichmen
 
 Terminal execution extends integration beyond internal systems. CRM integration maintains pipeline visibility. Finance integration tracks economics. Portfolio integration monitors performance. The integration creates unified framework operations.
 
-## Sammanfattning
+## Summary
 
 Buyer-led acquisition frameworks transform M&A from reactive pursuit to proactive development through three integrated components. Identification generates proprietary opportunities through comprehensive market mapping maintaining 2.3 million company records, target profiling achieving 23% better targeting precision, and signal detection processing 47,000 daily events generating 180+ qualified targets monthly achieving 287 annual opportunities versus 68 for reactive competitors accessing only 4% of available targets through broker databases. Development builds relationships before transaction through value provision, patience cultivation over 18-36 month horizons, and confidentiality preservation converting 34% of prospects to active pursuits versus 8% for transactional approaches creating 4x efficiency in deal generation. Execution creates transactions on favorable terms through timing control, structure creativity, and negotiation leverage achieving 18% pricing advantage and 31% close rate versus 14% for competitive processes. The framework achieves 18.4% portfolio IRR versus 12.1% for market translating to SEK 340 million in additional value creation over 36 months. The components enable buyer-led acquisition at scale.
 

@@ -97,6 +97,6 @@ Metrics create culture that emphasizes measurement and accountability. When deal
 
 The implementation requires metric dashboards that update in real-time. Deal flow professionals check metrics daily to understand how their activities translate to results. Agent systems receive metric feedback continuously to guide autonomous optimization. The visibility creates alignment between individual activities and organizational outcomes.
 
-## Sammanfattning
+## Summary
 
 Deal flow metrics require comprehensive frameworks that span input volume, throughput conversion, and output results. Input metrics measure signal generation efficiency and source effectiveness. Throughput metrics measure conversion through the pipeline from contact to close. Output metrics measure ultimate business results that justify infrastructure investment. Data infrastructure captures all metrics automatically without manual entry. Autonomous analytics continuously monitors metrics and identifies improvement opportunities. The optimization feedback loop translates measurement into action that improves performance indefinitely. The integrated system produces deal flow intelligence that enables continuous optimization, generating superior returns through systematic improvement rather than episodic effort.

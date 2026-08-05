@@ -230,7 +230,7 @@ The optimization supports scaling. More deals from same resources improves econo
 | Annual deal capacity | 10 | 14 |
 | Cost per deal (SEK) | 1,200,000 | 850,000 |
 
-## Sammanfattning
+## Summary
 
 Deal flow management systems enable pipeline visibility and optimization. Tracking systems map opportunities through stages. Analytics systems evaluate pipeline health. Forecast systems project outcomes from current data. GTM engineering infrastructure enables real-time visibility across the pipeline. The economics produce 25% improvement in forecast accuracy and 30% reduction in per-deal costs. The systems enable efficiency that uncertainty prevents.
 

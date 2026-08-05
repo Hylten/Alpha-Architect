@@ -109,7 +109,7 @@ Total cost assessment captures full investment required that budgeting requires.
 
 Contract negotiation protects organizational interests that long-term relationships require. Service levels, data portability, and exit provisions require careful attention through protection. The negotiation approach ensures long-term relationship terms serve organizational needs through agreement.
 
-## Sammanfattning
+## Summary
 
 M&A software spans CRM, research, communication, diligence, and integration categories that deal flow requires. Vendor proliferation creates selection complexity that requires systematic evaluation through comparison. Integration architecture determines how stack components work together through connection quality.
 

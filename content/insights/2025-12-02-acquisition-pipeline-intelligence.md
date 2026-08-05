@@ -129,7 +129,7 @@ Reporting integration delivers insights through executive interfaces. The framew
 
 The GTM integration architecture connects analytics to deal flow operations. The connection ensures systematic intelligence informs all acquisition decisions.
 
-## Sammanfattning
+## Summary
 
 Analytics frameworks transform pipeline from intuition to systematic intelligence. Stage conversion analysis reveals optimization opportunities. Probability estimation enables forecast accuracy. Forecast modeling supports planning. Bottleneck identification enables targeted intervention. Deal scoring prioritizes management attention. Win-loss analysis generates learning insights. Dashboard architecture enables rapid comprehension. GTM integration connects analytics to operations.
 

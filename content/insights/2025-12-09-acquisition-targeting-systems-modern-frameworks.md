@@ -115,7 +115,7 @@ Technology investment requires careful selection across competing capability opt
 
 Skill development requires training investment in analytical and engagement capabilities. Research skills, analytical skills, and engagement skills develop through practice and mentorship. The skill investment improves decision quality through capability enhancement. Structured training programs accelerate skill development.
 
-## Sammanfattning
+## Summary
 
 Acquisition targeting systems enable systematic target selection that replaces intuitive selection with disciplined frameworks. Strategic fit assessment evaluates portfolio alignment through sector, size, geographic, and capability fit. Market opportunity analysis evaluates external factors through growth, competition, customer, and technology analysis. Financial criteria establish objective filters through valuation, performance, and leverage requirements. Operational fit evaluation assesses integration requirements through cultural, technology, organizational, and management assessment. Prioritization methodology converts evaluated targets into ranked action plans through value, probability, resource, and timing assessment.
 

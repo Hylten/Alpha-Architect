@@ -105,7 +105,7 @@ Post-signing coordination accelerates the path from signing to closing. Regulato
 
 Closing acceleration requires external advisor alignment. Law firms and banks that prioritize acquisition closing enable faster timelines. Programs should select advisors based on velocity track record.
 
-## Sammanfattning
+## Summary
 
 Deal flow velocity determines acquisition competitiveness. Bottleneck analysis reveals where delays accumulate. Research, engagement, diligence, and closing phases each offer acceleration opportunities. Systematic intervention improves velocity without sacrificing quality.
 

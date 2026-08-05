@@ -85,7 +85,7 @@ Analytical skill development enables data-driven management that intuition canno
 
 Leadership skill development enables operational excellence that strong teams require. Team coordination improves with experience that builds shared understanding. Resource allocation becomes more effective as leaders learn from outcomes. Performance management develops through practice that reveals what works. The skill investment scales operational capability across the organization.
 
-## Sammanfattning
+## Summary
 
 M&A operations enable efficient deal flow through systematic processes that multiply other capabilities. Process architecture defines approaches to deal flow activities. Technology system integration connects components into coherent operation. Workflow automation executes activities without continuous intervention. Performance management systems enable optimization.
 

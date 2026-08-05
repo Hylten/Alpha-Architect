@@ -111,7 +111,7 @@ The sequence optimization metric tracks performance across sequence variations. 
 
 The team performance metric compares results across deal team members. Response rates, meeting quality, and pipeline contribution reveal individual effectiveness. The comparison enables coaching focus and resource allocation.
 
-## Sammanfattning
+## Summary
 
 Outbound deal sourcing fails through five systemic breakdowns: targeting imprecision, messaging genericism, deliverability negligence, sequence incompleteness, and conversion failure. Successful programs address each breakdown through infrastructure architecture. Targeting incorporates financial, lifecycle, and operational signals. Messaging provides value before requesting attention. Deliverability protection preserves sender reputation. Multi-touch sequences build awareness through repeated exposure. AI-assisted response handling captures momentum. The integrated infrastructure transforms outbound from campaign to compounding asset.
 
