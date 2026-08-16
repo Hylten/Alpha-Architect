@@ -1,114 +1,114 @@
 ---
-title: "Signal Decay i Proprietary Origination: Varför Processen Vinner Över Åtkomst"
+title: "Signal Decay in Proprietary Origination: Why Process Beats Access"
 slug: "2026-08-16-signal-decay-proprietary-origination"
-description: "Alpha decay-forskning visar att informationsfördelar halveras på 3-6 manader. Den verkliga kanten i PE-origination ligger i hastighet och djup i processen: inte i exklusiv atkomst. Tre lager som kompunderar over tid."
+description: "Alpha decay research shows informational advantages halve in 3-6 months. The real edge in PE origination lies in speed and depth of process — not exclusive access. Three layers that compound over time."
 date: "2026-08-16"
 tags: ["Signal Decay", "Proprietary Origination", "Deal Sourcing", "Information Advantage", "GTM Engineering"]
 categories: ["Intelligence"]
-canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/signal-decay-proprietary-origination/"
-meta_title: "Signal Decay i Proprietary Origination: Processen Vinner Over Atkomst"
-meta_description: "Alpha decay-forskning visar att informationsfordelar halveras pa 3-6 manader. Bygg origination-infrastruktur med targeting, signals och execution som kompunderar."
+canonical_url: "https://hylten.github.io/Alpha-Architect/intelligence/2026-08-16-signal-decay-proprietary-origination/"
+meta_title: "Signal Decay in Proprietary Origination: Process Beats Access"
+meta_description: "Alpha decay research shows informational advantages halve in 3-6 months. Build origination infrastructure with targeting, signals and execution that compound."
 featured_image: "/images/signal-decay-origination.jpg"
 draft: false
 author: "Jonas Hyltén"
 ---
 
-## Informationsfördelar Halveras på Månader, Inte År
+## Informational Advantages Halve in Months, Not Years
 
-Di Mascio, Lines och Naik (2015) analyserade 1,15 miljoner institutionella trades över 13 år. Resultatet: positiv alpha efter initialt köp sjunker till effektivt noll på tolv manader. Konkurrens, mätt som antal analytiker som följer en aktie, accelererar decay markant de första 3-6 manaderna. Sedan försvinnar effekten.
+Di Mascio, Lines and Naik (2015) analyzed 1.15 million institutional trades over 13 years. The result: positive alpha after initial purchase declines to effectively zero over twelve months. Competition — measured as analyst coverage — accelerates decay markedly in the first 3-6 months. The effect then disappears.
 
-Samma mekanik gäller private equity. En signal som identifierar ett bolag som förvärvskandidat har ett halveringstid. När signalen når fler köpare, via banker, nätverk, databaser, minskar prisfördelen. Bain-forskning visar att fonder med mer än 50 % proprietary-sourced deals levererar median 23 % IRR mot 16 % för intermediary-tung fond (Bain & Company, 2024, per Bain Global Private Equity Report). Men "proprietary" definieras vanligtvis lösenord: vilken som helst process utan banker-teaser räknas. Verklig exklusivitet är sällsynt.
+The same mechanic applies to private equity. A signal identifying a company as an acquisition target has a half-life. When the signal reaches more buyers — via bankers, networks, databases — the pricing advantage shrinks. Bain research shows funds with more than 50% proprietary-sourced deals deliver median 23% IRR vs 16% for intermediary-heavy funds (Bain & Company, 2024, per Bain Global Private Equity Report). But "proprietary" is typically defined loosely: any process without a banker teaser counts. True exclusivity is rare.
 
-Axial-research visar att median PE-firma fångar 18 % av relevanta deals i sitt målnätverk (Axial, 2024, per Axial Deal Sourcing Report). Resten syns aldrig. Firman som vinner är inte den med störst nätverk. Det är den som bearbetar flest möjligheter med störst djup, avvisar snabbast och bygger kompunderande intelligens från varje avböjd affär.
+Axial research shows the median PE firm captures 18% of relevant deals in its target universe (Axial, 2024, per Axial Deal Sourcing Report). The rest is never seen. The firm that wins is not the one with the biggest network. It is the one that processes the most opportunities with the most depth, rejects fastest, and builds compounding intelligence from every declined deal.
 
-## Vad "Proprietary" Faktiskt Innebär
+## What "Proprietary" Actually Means
 
-Tre definitioner cirkulerar:
+Three definitions circulate:
 
-**Strikt:** Bilateral förhandling med säljare, ingen intermediary, förhandlat pris. Förekommer i lower middle market där ägare kontaktar GP direkt.
+**Strict:** Bilateral negotiation with the seller, no intermediary, negotiated price. Occurs in lower middle market where owners contact the GP directly.
 
-**Operativ:** GP hör om affären informellt via revisor eller advokat innan teaser skickas. Samma revisor ringer vanligtvis tre-fyra andra fonder.
+**Operational:** The GP hears about the deal informally via an accountant or lawyer before the teaser goes out. The same accountant typically calls three to four other funds.
 
-**Narrativ:** Banker kör "limited process" med fem utvalda köpare. Alla fem rapporterar affären som proprietary i nästa fund-pitch.
+**Narrative:** Bankers run a "limited process" with five selected buyers. All five report the deal as proprietary in their next fund pitch.
 
-Harvard Business School kallar detta *negotiation*, processer som blandar auktion och direktförhandling. Typisk mid-market-deal ligger här. Flera köpare involveras. Flertalet kallar det proprietary. Säljarens banker kallar det strukturerad process. Båda har rätt.
+Harvard Business School calls this *negotiation* — processes blending auction and direct negotiation. The typical mid-market deal sits here. Multiple buyers are involved. Most call it proprietary. The seller's banker calls it a structured process. Both are right.
 
-Add-on-förvärv komplicerar bilden. 2024 stod add-ons för ~74 % av alla PE-deals (Harvard Law School, 2025). Plattformföretag har vanligtvis exklusiv insikt i targets genom kommersiella relationer. När GP hävdar stark proprietary flow beskriver de vanligtvis add-on-program, inte original platform sourcing. Skillnaden betyder allt för LP:er som värderar sourcing-kapacitet.
+Add-on acquisitions complicate the picture. In 2024, add-ons accounted for ~74% of all PE deals (Harvard Law School, 2025). Platform companies often have exclusive insight into targets through commercial relationships. When GPs claim strong proprietary flow, they typically describe add-on programs — not original platform sourcing. The difference matters for LPs evaluating sourcing capability.
 
-## Kanten Kommer Från Genomströmning, Inte Åtkomst
+## The Edge Comes From Throughput, Not Access
 
-Firman som konsekvent utpresterar på sourcing har inte mest exklusiv åtkomst. Den bearbetar flest CIM:er per analytiker, med störst djup, och bygger institutionellt minne från varje avböjd deal.
+The firm that consistently outperforms on sourcing does not have the most exclusive access. It processes the most CIMs per analyst, with the most depth, and builds institutional memory from every declined deal.
 
-Konverteringsdata: Endast ~1,48 % av sourcade deals transacterar. Genomsnittlig firma utvärderar ~80 möjligheter per stängd investering (V7 Labs, 2026, per V7 Labs Proprietary Deal Flow Research). Vid den ratten behöver inte firm med tre gånger genomströmning samma exklusivitet för att stänga lika många deals. Trattens bredd gör att throughput vinner över exklusivitet.
+Conversion data: Only ~1.48% of sourced deals transact. The average firm evaluates ~80 opportunities per closed investment (V7 Labs, 2026, per V7 Labs Proprietary Deal Flow Research). At that ratio, a firm with three times the throughput does not need the same exclusivity to close the same number of deals. The funnel width makes throughput win over exclusivity.
 
-CIM:en är det verkliga kompetitiva testet. Kyung-Ah Park beskriver i *Two and Twenty* ett dealteam som vann genom "accuracy and speed", de lät säljaren se som om de varit "en fluga på väggen i åratal". Deras IOI (Indication of Interest) speglade djupare analys än konkurrenterna hade hunnit göra. Affären var inte proprietary. Förberedelsen var det.
+The CIM is the real competitive test. Kyung-Ah Park describes in *Two and Twenty* a deal team that won through "accuracy and speed" — they made the seller feel "as if they had been a fly on the wall for years." Their IOI (Indication of Interest) reflected deeper analysis than competitors had achieved in the same timeframe. The deal was not proprietary. The preparation was.
 
-Praktisk metod: Definiera ett fast extraktionsschema för varje CIM. Samma fält, EBITDA-marginal, kundkoncentration, ledningstid, hävstångsprofil, oavsett vilken analytiker som gör review. När schemat appliceras systematiskt ackumuleras avböjda deals som strukturerad data, inte anekdotiskt minne. En firma som processat 400 deals i industriell distribution över fem år med strukturerad output har en sektormodell som ingen nykomling kan replicera snabbt. AI-dokumentagenter gör extraktionssteget skalbart. Analytikern granskar strukturerad output och loggar investeringsbeslut med motivering. Över tid bygger firman ett proprietärt dataset från halv-publika dokument, en varaktig konkurrensfördel.
+Practical method: Define a fixed extraction schema for every CIM. Same fields — EBITDA margin, customer concentration, management tenure, leverage profile — regardless of which analyst conducts the review. When the schema is applied systematically, declined deals accumulate as structured data, not anecdotal memory. A firm that has processed 400 deals in industrial distribution over five years with structured output has a sector model no new entrant can replicate quickly. AI document agents make the extraction step scalable. The analyst reviews structured output and logs the investment decision with rationale. Over time, the firm builds a proprietary dataset from semi-public documents — a durable competitive advantage in sourcing.
 
-## Signal Decay-Mekaniken i PE
+## The Signal Decay Mechanism in PE
 
-Tre drivkrafter bestämmer hur snabbt en signal förlorar värde:
+Three drivers determine how fast a signal loses value:
 
-**Informationsdiffusion i nätverk.** UTS-forskning (FactSet, 7 613 secondary buyouts, 2 230 PE-firmer) visar att transaktionsinformation diffunderar: 23 % når en länk bortom transagerande parter, 16 % når två länkar (UTS, 2024, per Shaking Hands with Common Foes: Clique Premium and Information Diffusion in PE Networks). Information rör sig snabbare i täta kliker. En signal som identifierar ett target i ett täthet-nätverk har kortare halveringstid än en i fragmenterad sektor.
+**Information diffusion in networks.** UTS research (FactSet, 7,613 secondary buyouts, 2,230 PE firms) shows transaction information diffuses: 23% reaches one link beyond transacting parties, 16% reaches two links (UTS, 2024, per *Shaking Hands with Common Foes: Clique Premium and Information Diffusion in PE Networks*). Information moves faster in dense cliques. A signal identifying a target in a dense network has a shorter half-life than one in a fragmented sector.
 
-**Crowding och replikerbarhet.** Di Mascio et al. visar att ökad analytiktäckning minskar post-purchase alpha med 10,9 baspunkter månad 1, 5,8 bp/månad kvartal 1, noll därefter. Översatt till PE: när fler fonder har tillgång till samma datakällor (Grata, SourceScrub, kommersiella databaser) minskar signalens förutsägelsekraft. Kommersiella databaser scrapar samma publika källor, applicerar liknande klassificeringar, resultatet är funktionsidentiska target-listor för alla prenumeranter.
+**Crowding and replicability.** Di Mascio et al. show increased analyst coverage reduces post-purchase alpha by 10.9 basis points in month 1, 5.8 bp/month in quarter 1, zero thereafter. Translated to PE: when more funds access the same data sources (Grata, SourceScrub, commercial databases), the signal's predictive power drops. Commercial databases scrape the same public sources, apply similar classifications — the result is functionally identical target lists for all subscribers.
 
-**Temporal lag.** Praks Rock (2026) dokumenterar att kommersiella databaser reflekterar bolagets tillstånd vid senaste indexering, månader till år gammalt. Ett bolag som växt från 5 MSEK till 25 MSEK i omsättning sedan senaste refresh dyker inte upp i sök på >15 MSEK. Primary-source data (statliga registret, branschcertifieringar, miljöprövningar) uppdateras på regulatoriska tidslinjer, inte kommersiella. De täcker alla skyldiga att rapportera, inte de en plattform valt att indexera.
+**Temporal lag.** Praxis Rock (2026) documents that commercial databases reflect a company's state at last indexing — months to years old. A company that grew from $5M to $25M in revenue since last refresh will not appear in searches for >$15M. Primary-source data (government registries, industry certifications, environmental permits) updates on regulatory timelines, not commercial ones. They cover every entity required to report, not just those a platform chose to index.
 
-## Tre Lager som Kompunderar
+## Three Layers That Compound
 
-Tentt (2026) identifierar tre infrastrukturlager som tillsammans stänger origination-gapen:
+Tentt (2026) identifies three infrastructure layers that together close the origination gap:
 
-### 1. Targeting, Präcis Mappning, Inte Vaga Sektorer
+### 1. Targeting — Precise Mapping, Not Vague Sectors
 
-400-1 200 verifierade företag med identifierade beslutsfattare per investeringstesis. Inte "industriautomation 10-100 MSEK EBITDA". Varje bolag bedömts för passform, ägarstruktur bekräftad, relevant kontakt verifierad. Detta kräver primary-source data infrastructure: identifiera relevanta statliga/regulatoriska databaser per vertikal, bygga extraction/normalisering-pipelines per källa, utveckla entity resolution som matchar poster över inkonsekventa format, underhålla systemen när källor byter format.
+400–1,200 verified companies with identified decision-makers per investment thesis. Not "industrial automation $10–100M EBITDA." Every company assessed for fit, ownership structure confirmed, relevant contact verified. This requires primary-source data infrastructure: identify relevant government/regulatory databases per vertical, build extraction/normalization pipelines per source, develop entity resolution matching records across inconsistent formats, maintain systems when sources change format.
 
-### 2. Signals, Temporal Monitoring av Timing-Event
+### 2. Signals — Temporal Monitoring of Timing Events
 
-En statisk lista är en ögonblicksbild. Signal-monitoring gör den dynamisk. Grundare som just insamlit tillväxtkapital är inte near-term. Samma grundare, arton månader senare, när hen närmar sig 65 och nyckelkonkurrent just förvärvats, annan konversation. Signaler: ägarbyte (död, sjukdom, skilsmässa), VD-pension utan successionsplan, koncernavyttringar (earnings calls, strategiska granskningar), ledningsskiften, marginalexpansion,anställningstrender.
+A static list is a snapshot. Signal monitoring makes it dynamic. A founder who just raised growth capital is not near-term. The same founder, eighteen months later, approaching 65 with a key competitor just acquired — different conversation. Signals: ownership transitions (death, illness, divorce), CEO retirement without succession plan, corporate divestitures (earnings calls, strategic reviews), leadership changes, margin expansion, hiring trends.
 
-### 3. Execution, Kontextuell Outreach Som Konverterar
+### 3. Execution — Contextual Outreach That Converts
 
-Här faller flest interna BD-satser. Junior associate skickar generiskt LinkedIn-meddelande eller boilerplate-email. Svarsfrekvens: 0,5-1,5 %. Signal-driven, kontextuell outreach, meddelandet refererar specifik trigger och visar genuin affärsmedvetenhet, ger 4-7 % svarsfrekvens (Tentt intern data, klientengagemang 2024-2025). Skillnaden är inte bara volym. Det är kvaliteten på svaren och tonen i följande konversationer.
+This is where most internal BD efforts fail. Junior associate sends a generic LinkedIn message or boilerplate email. Response rate: 0.5–1.5%. Signal-driven, contextual outreach — referencing a specific trigger and demonstrating genuine business awareness — produces 4–7% response rates (Tentt internal data, client engagements 2024–2025). The difference is not just volume. It is the quality of responses and the tone of subsequent conversations.
 
-Teknisk kedja signal → deal:
-- Ingestion API (primary-source feeds: bolagsregister API, branschregister webhooks, miljödata ETL-jobb nattligen)
-- Entity resolution pipeline (matchar organisationnummer över källor, löser inkonsekventa namn)
-- Scoring engine (kompositpoäng: signaltyp styrka × bolagspassform × timing-urgency)
-- Quote/pricing endpoint (översätter signal till indicativt värdeintervall)
-- CRM-loggtabell (timestamp, källa, scoring-komponenter, outreach-status, svar)
+Technical chain signal → deal:
+- Ingestion API (primary-source feeds: company registry API, industry registry webhooks, environmental data ETL jobs nightly)
+- Entity resolution pipeline (matches organization numbers across sources, resolves inconsistent names)
+- Scoring engine (composite score: signal type strength × company fit × timing urgency)
+- Quote/pricing endpoint (translates signal to indicative valuation range)
+- CRM log table (timestamp, source, scoring components, outreach status, response)
 
-## Informationsfördel vs Processfördel
+## Information Advantage vs Process Advantage
 
-Robinson & Sensoy (2013, 2016) visar att PE-fondmanagers förutser publika bolags vinster i sina specialiseringssektorer, men säljer vid branschtoppar först när carry-incitament finns. Informationsfördel är verklig men tidsbegränsad.
+Robinson & Sensoy (2013, 2016) show PE fund managers anticipate public company earnings in their specialization sectors — but sell at industry peaks only when carry incentives exist. The information advantage is real but time-limited.
 
-Liknelsen till PE-origination: Att *ha* data (Grata-prenumeration, SourceScrub-licens) är inte samma sak som att *processa* data systematiskt. Firman som bygger extraction-schema, entity-resolution, scoring-logik och feedback-loop från varje avböjd deal bygger en processfördel som förbättras varje kvartal. Åtkomsten är statisk. Processen förbättras.
+The parallel to PE origination: *Having* data (Grata subscription, SourceScrub license) is not the same as *processing* data systematically. The firm that builds extraction schema, entity resolution, scoring logic and feedback loops from every declined deal builds a process advantage that improves every quarter. Access is static. Process improves.
 
-EQT:s Motherbrain visar mönstret: plattform som bearbetar deals, människor, bolag; dealteam loggar interaktioner och beslut kontinuerligt; reinforcement learning förbättrar modeller över tid. Fördel är inte tekniken, det är datan och processen som tekniken möjliggör.
+EQT's Motherbrain shows the pattern: platform processing deals, people, companies; deal team logs interactions and decisions continuously; reinforcement learning improves models over time. The advantage is not the technology — it is the data and process the technology enables.
 
-## Varför Flesta Firmer Stannar vid Relationer
+## Why Most Firms Stay With Relationships
 
-Tre hinder:
+Three barriers:
 
-**Mätbarhet.** Fråga PE-partner om sourcing: "relationer, rykte, i flödet". Fråga om kvantifierad pipeline, hur många targets identifierades kvartalet, hur många kontaktades, konvertering per steg, flest tystnar. Utan mätning finns ingen incitament att bygga infrastruktur.
+**Measurability.** Ask a PE partner about sourcing: "relationships, reputation, in the flow." Ask for a quantified pipeline — how many targets identified last quarter, how many contacted, conversion per stage — most go silent. Without measurement, no incentive to build infrastructure.
 
-**Kortfristism.** Fund-storlekar växer, deployment-tidslinjer förkortas, trycket att sätta kapital i arbete är maximalt. Ad hoc-metoder fungerar *nu*. Infrastruktur bygger värde över fund-cykler.
+**Short-termism.** Fund sizes grow, deployment timelines shrink, pressure to put capital to work is maximal. Ad hoc methods work *now*. Infrastructure builds value over fund cycles.
 
-**Kompetensgap.** PE-firmer anlitar inte investeringsbank varje gång de ska utvärdera bolag. De har interna team, analytiska ramverk, proprietära modeller. Samma logik gäller sourcing. Att utlägga hela top-of-funnel till banker som samtidigt serverar konkurrenter är motsvarande att utlägga underwriting. Men färre har intern sourcing-kompetens jämförbar med investment team.
+**Competency gap.** PE firms do not hire an investment bank every time they evaluate a company. They have internal teams, analytical frameworks, proprietary models. The same logic applies to sourcing. Outsourcing the entire top-of-funnel to bankers simultaneously serving your competitors is the equivalent of outsourcing underwriting. But fewer have internal sourcing competency comparable to their investment team.
 
-## Från Relationsberoende till Infrastruktur-Aktiverad
+## From Relationship-Dependent to Infrastructure-Enabled
 
-Skiftet pågår inte från relationer till teknik. Relationer förblir avgörande, de bygger förtroende och stänger transaktioner. Skiftet är från *relationsberoende* till *infrastruktur-aktiverad*.
+The shift underway is not from relationships to technology. Relationships remain essential — they build trust and close transactions. The shift is from *relationship-dependent* to *infrastructure-enabled*.
 
-De bästa firmerna fortsätter att utnyttja nätverk och rykte. Men de förstärker dessa fördelar med system som:
-- Identifierar möjligheter nätverket missat
-- Når beslutsfattare existerande relationer inte täcker
-- Levererar data som gör varje nästa kampanj mer effektiv än förra
+The best firms continue leveraging networks and reputation. But they augment those advantages with systems that:
+- Identify opportunities their networks missed
+- Reach decision-makers their existing relationships do not cover
+- Deliver data that makes every subsequent campaign more effective than the last
 
-Firmer som bygger denna infrastruktur nu kompunderar sin fördel över nästa fondcykel. De som väntar ser gapen vidgas. I en marknad med 2 500 miljarder SEK dry powder som jagar samma pool kvalitets-tillgångar är proprietary origination inte nice-to-have. Det är den sista verkliga kanten.
+Firms building this infrastructure now compound their advantage over the next fund cycle. Those who wait will find the gap widening. In a market with $2.5 trillion dry powder chasing the same pool of quality assets, proprietary origination is not a nice-to-have. It is the last real edge.
 
-*Signal decay är inte en lag. Det är en variabel. Firman som kontrollerar hastigheten och djupet i sin process kontrollerar halveringstiden.*
+*Signal decay is not a law. It is a variable. The firm that controls the speed and depth of its process controls the half-life.*
 
-## Sammanfattning
+## Summary
 
-Signal decay i proprietary origination drivs av informationsdiffusion, crowding och temporal lag i kommersiella databaser. Forskning visar att alpha halveras på 3-6 manader när fler aktörer får tillgång till samma signal (Di Mascio et al., 2015; Bain & Company, 2024). Median PE-firma ser 18 % av relevanta deals (Axial, 2024). Verklig edge kommer inte från exklusiv åtkomst utan från tre kompunderande lager: precis targeting (400-1 200 verifierade bolag per tesis), aktiv signal-monitoring (temporal triggers), kontextuell execution (4-7 % svarsfrekvens vs 0,5-1,5 % per Tentt intern data 2024-2025). Firman som bygger primary-source data infrastructure med entity resolution, automatiserad scoring och CRM-loggad feedback-loop bygger en processfördel som förbättras varje kvartal, medan åtkomst förblir statisk. I en marknad med 2 500 miljarder SEK dry powder är infrastruktur-aktiverad origination den sista verkliga kanten.
+Signal decay in proprietary origination is driven by information diffusion, crowding and temporal lag in commercial databases. Research shows alpha halves in 3-6 months when more actors access the same signal (Di Mascio et al., 2015; Bain & Company, 2024). The median PE firm sees 18% of relevant deals (Axial, 2024). Real edge comes not from exclusive access but from three compounding layers: precise targeting (400–1,200 verified companies per thesis), active signal monitoring (temporal triggers), contextual execution (4–7% response rate vs 0.5–1.5% per Tentt internal data 2024–2025). The firm building primary-source data infrastructure with entity resolution, automated scoring and CRM-logged feedback loops builds a process advantage that improves every quarter — while access remains static. In a market with SEK 2.5 trillion dry powder, infrastructure-enabled origination is the last real edge.
