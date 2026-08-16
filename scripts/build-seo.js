@@ -178,15 +178,24 @@ async function generateSEO() {
 
   const files = fs.readdirSync(CONTENT_DIR).filter(f => f.endsWith('.md'));
   const htmlBuilder = buildBlogHTML();
-  const today = new Date().toISOString().split('T')[0];
+    const today = new Date().toISOString().split('T')[0];
 
-  // Generate Index Page
-  let listItems = '';
-  const yearData = {};
-  const quarterData = {};
-  const categoryData = {};
-  
-  for (const file of files) {
+    // Sort files by date (newest first) for index page
+    const filesSortedByDate = [...files].sort((a, b) => {
+      const rawA = fs.readFileSync(path.join(CONTENT_DIR, a), 'utf8');
+      const rawB = fs.readFileSync(path.join(CONTENT_DIR, b), 'utf8');
+      const dateA = new Date(matter(rawA).data.date || 0);
+      const dateB = new Date(matter(rawB).data.date || 0);
+      return dateB - dateA;
+    });
+
+    // Generate Index Page
+    let listItems = '';
+    const yearData = {};
+    const quarterData = {};
+    const categoryData = {};
+
+    for (const file of filesSortedByDate) {
     const raw = fs.readFileSync(path.join(CONTENT_DIR, file), 'utf8');
     const { data, content } = matter(raw);
     if (data.draft === true) continue;
