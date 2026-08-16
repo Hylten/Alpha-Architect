@@ -240,15 +240,15 @@ async function generateSEO() {
     const tagsHtml = tags.length > 0 ? `<div class="tags">${tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>` : '';
     
     listItems += `
+      <a href="/Alpha-Architect/intelligence/${slug}/" style="text-decoration:none; display:block;">
       <div class="list-item" data-year="${year}" data-quarter="${quarter}" data-tags="${tags.join(',')}">
         <div class="date">${dateStr} <span class="read-time">${readTime} min</span></div>
         ${tagsHtml}
-        <a href="/Alpha-Architect/intelligence/${slug}/" style="text-decoration:none;">
-          <h2>${title}</h2>
-          <p class="desc">${description}</p>
-          <span class="read">Read Briefing</span>
-        </a>
-      </div>`;
+        <h2>${title}</h2>
+        <p class="desc">${description}</p>
+        <span class="read">Read Briefing</span>
+      </div>
+      </a>`;
   }
 
   const years = Object.keys(yearData).sort().reverse();
